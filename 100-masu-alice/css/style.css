@@ -1,0 +1,38 @@
+.box {
+	margin: 50px auto 100px;
+	width: 800px;
+}
+
+.content-picture {
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+}
+
+.content-picture img {
+	height: 500px;
+}
+
+.masu {
+	table-layout: fixed;
+	width: initial;
+	margin: 0 auto;
+}
+
+.masu td {
+	padding: 0 !important;
+	width: 60px;
+	height: 60px;
+	background-position: center center;
+	background-size: cover;
+}
+
+.masu td a {
+	display: block;
+	width: 60px;
+	height: 60px;
+}
+
+.masu tr {
+	height: 60px;
+}

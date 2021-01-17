@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cyclic timer</title>
+    <script>
+window.AudioContext = window.AudioContext || window.webkitAudioContext;
+var audio_ctx = new AudioContext();
+var oscillator_node = audio_ctx.createOscillator();
+var volume_node = audio_ctx.createGain();
+oscillator_node.frequency.value = 329.628;
+oscillator_node.connect(volume_node);
+volume_node.gain.value = 0;
+
+var countdown_interval;
+var set_interval;
+var count = 0;
+var cycle;
+
+var init_done = false;
+var audio_init_for_iphone = function () {
+  if (!init_done) {
+    oscillator_node.start();
+    volume_node.connect(audio_ctx.destination);
+    volume_node.gain.setTargetAtTime(0.1, audio_ctx.currentTime, 0.02);
+    setTimeout(function () {
+      volume_node.gain.setTargetAtTime(0, audio_ctx.currentTime, 0.02);
+      setTimeout(function () {
+        volume_node.disconnect();
+        init_done = true;
+      }, 100); // 20 + 80 (buffer)
+    }, 100);
+  }
+};
+
+var beep = function () {
+  audio_init_for_iphone();
+  volume_node.connect(audio_ctx.destination);
+  volume_node.gain.setTargetAtTime(0.5, audio_ctx.currentTime, 0.02);
+  setTimeout(function () {
+    volume_node.gain.setTargetAtTime(0, audio_ctx.currentTime, 0.02);
+    setTimeout(function () {
+      volume_node.disconnect();
+    }, 100); // 20 + 80 (buffer)
+  }, 100);
+};
+
+var start = function () {
+  audio_init_for_iphone();
+  stop();
+  cycle = document.forms.settings.cycle.value;
+  if (cycle < 1) {
+    alert('Beep cycle must be longer than 1 second!');
+    return;
+  }
+  count = cycle;
+  var countdown = function () {
+    document.getElementById('countdown').innerHTML = count;
+    return setInterval(function () {
+      count--;
+      document.getElementById('countdown').innerHTML = count;
+    }, 1000);
+  };
+  set_interval = setInterval(function () {
+    clearInterval(countdown_interval);
+    count = cycle;
+    beep();
+    countdown_interval = countdown();
+  }, 1000 * cycle);
+  countdown_interval = countdown();
+};
+var stop = function () {
+  clearInterval(countdown_interval);
+  clearInterval(set_interval);
+};
+
+document.addEventListener('DOMContentLoaded', function (e) {
+  document.getElementById('start_button').addEventListener('click', start);
+  document.getElementById('stop_button').addEventListener('click', stop);
+});
+    </script>
+  </head>
+  <body>
+    <form id="settings" action="javascript:start()">
+      <input id="cycle" type="number" value="30" />
+      <input id="start_button" type="button" value="Start" />
+      <input id="stop_button" type="button" value="Stop" />
+    </form>
+    <button onclick="beep()">beep</button>
+    <div id="countdown">0</div>
+    <audio id="player" autoplay></audio>
+  </body>
+</html>
+
