@@ -1,0 +1,36 @@
+html, body, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: #333333;
+    font-family: sans-serif;
+    word-break: break-all;
+}
+
+.clearfix:after {
+    display: block;
+    clear: both;
+    height: 0px;
+    visibility: hidden;
+    content: ".";
+}
+
+.clearfix {
+    min-height: 1px; /*IE6、7対策*/
+}
+
+a {
+    text-decoration: none;
+    color: #0095d9;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#footer {
+    padding: 20px 60px;
+    font-size: 0.8em;
+}
