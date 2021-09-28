@@ -1,6 +1,6 @@
 .box {
-	margin: 50px auto 100px;
-	width: 800px;
+  margin: 50px auto 100px;
+  width: 800px;
 }
 
 .content-picture {
@@ -10,29 +10,30 @@
 }
 
 .content-picture img {
-	height: 500px;
+  width: 100%;
 }
 
 .masu {
-	table-layout: fixed;
-	width: initial;
-	margin: 0 auto;
+  table-layout: fixed;
+  width: initial;
+  margin: 0 auto;
 }
 
 .masu td {
-	padding: 0 !important;
-	width: 60px;
-	height: 60px;
-	background-position: center center;
-	background-size: cover;
+  padding: 0 !important;
+  width: 78px;
+  height: 78px;
+  background-position: center center;
+  background-size: cover;
 }
 
 .masu td a {
-	display: block;
-	width: 60px;
-	height: 60px;
+  display: block;
+  width: 78px;
+  height: 78px;
 }
 
 .masu tr {
-	height: 60px;
+  height: 78px;
+  border-width: 10px;
 }
