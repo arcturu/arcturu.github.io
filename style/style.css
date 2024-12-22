@@ -1,10 +1,28 @@
+@font-face {
+  font-family: "Oxygen";
+  src: url(./Oxygen-Bold.woff2) format("woff2");
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #aaaaaa;
+    background-color: #181b1e;
+  }
+}
+
+@media (preferes-color-scheme: light) {
+  body {
+    color: #333333;
+    background-color: #ffffff;
+  }
+}
+
 html {
   font-family: sans-serif;
   font-size: 0.625em;
 }
 
 body {
-  color: #333333;
   font-size: 1.6rem;
   max-width: 960px;
   margin: 0 auto 80px;
