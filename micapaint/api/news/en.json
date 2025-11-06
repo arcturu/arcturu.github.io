@@ -33,7 +33,7 @@
             {
                 "id": "5",
                 "title": "■ Improved Stability",
-                "body": "・Fixed saturation values occasionally jumping in the color picker\n・Undo / Redo availability now reflected in the button appearance\n・Additional bug fixes"
+                "body": "・Fixed hue values occasionally jumping in the color picker\n・Undo / Redo availability now reflected in the button appearance\n・Additional bug fixes"
             }
         ]
     }
