@@ -1,0 +1,40 @@
+[
+    {
+        "id": "2025-11-08-1",
+        "version": "1.2.0",
+        "title": "What's New in Version 1.2.0",
+        "publishedAt": "2025-11-08T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Maintain Brightness While Adjusting Saturation",
+                "body": "In the Hue / Saturation / Brightness filter, switching to Perceptual mode now lets you adjust saturation while keeping the original brightness.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.2.0-perceptual.webp",
+                "imageCaption": "Original / Perceptual Saturation -100 / Compatible Mode Saturation -100"
+            },
+            {
+                "id": "2",
+                "title": "■ Create a Layer Merged from All Layers",
+                "body": "Tap Add Merged Layer from the layer menu to insert a layer above the current one that contains a merge of all layers.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.2.0-merge.gif"
+            },
+            {
+                "id": "3",
+                "title": "■ Swipe Left on Layers to Delete",
+                "body": "Swiping left on a layer or folder now reveals the Delete button.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.2.0-delete.gif"
+            },
+            {
+                "id": "4",
+                "title": "■ Show Tooltips",
+                "body": "Hover Apple Pencil over a button to see a description (requires a device that supports hover)."
+            },
+            {
+                "id": "5",
+                "title": "■ Improved Stability",
+                "body": "・Fixed saturation values occasionally jumping in the color picker\n・Undo / Redo availability now reflected in the button appearance\n・Additional bug fixes"
+            }
+        ]
+    }
+]

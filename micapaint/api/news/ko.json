@@ -1,0 +1,40 @@
+[
+    {
+        "id": "2025-11-08-1",
+        "version": "1.2.0",
+        "title": "버전 1.2.0 의 새로운 기능",
+        "publishedAt": "2025-11-08T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ 밝기를 유지한 채 채도 조절",
+                "body": "‘색조, 채도, 명도’ 필터에서 ‘지각적’ 모드를 선택하면, 색의 밝기를 유지한 채로 채도를 조절할 수 있게 되었습니다.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.2.0-perceptual.webp",
+                "imageCaption": "원본 / 지각적 채도 -100 / 호환 모드 채도 -100"
+            },
+            {
+                "id": "2",
+                "title": "■ 모든 레이어를 병합한 레이어 생성",
+                "body": "레이어 메뉴에서 ‘결합 레이어 추가’를 누르면, 현재 레이어 위에 모든 레이어를 병합한 새로운 레이어가 추가되도록 변경되었습니다.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.2.0-merge.gif"
+            },
+            {
+                "id": "3",
+                "title": "■ 레이어를 왼쪽으로 스와이프하여 삭제",
+                "body": "레이어나 폴더를 왼쪽으로 스와이프하면 삭제 버튼이 표시되도록 개선되었습니다.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.2.0-delete.gif"
+            },
+            {
+                "id": "4",
+                "title": "■ 툴팁 표시",
+                "body": "Apple Pencil을 버튼 위에 호버하면 설명이 표시되도록 변경되었습니다. (호버 지원 기기 한정)"
+            },
+            {
+                "id": "5",
+                "title": "■ 안정성 향상",
+                "body": "· 컬러 피커에서 채도 값이 갑자기 변하던 문제 수정\n· 실행 취소 / 다시 실행 가능 여부를 버튼 외형에 반영\n· 기타 버그 수정"
+            }
+        ]
+    }
+]

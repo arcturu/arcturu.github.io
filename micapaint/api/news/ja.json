@@ -1,0 +1,40 @@
+[
+    {
+        "id": "2025-11-08-1",
+        "version": "1.2.0",
+        "title": "バージョン 1.2.0 の新機能",
+        "publishedAt": "2025-11-08T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ 明度を保った彩度調整",
+                "body": "「色相・彩度・明度」フィルターで「知覚的」モードにすると、色の明度を保ったまま彩度を調整できるようになりました。",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.2.0-perceptual.webp",
+                "imageCaption": "オリジナル / 知覚的彩度 -100 / 互換モード彩度 -100"
+            },
+            {
+                "id": "2",
+                "title": "■ 全レイヤーを結合したレイヤーを作成",
+                "body": "レイヤーメニューから「結合レイヤーを追加」を押すと、現在のレイヤーの上に全レイヤーを結合したレイヤーが追加されるようになりました。",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.2.0-merge.gif"
+            },
+            {
+                "id": "3",
+                "title": "■ レイヤーを左にスワイプして削除",
+                "body": "レイヤーやフォルダーを左にスワイプすると削除ボタンが表示されるようになりました。",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.2.0-delete.gif"
+            },
+            {
+                "id": "4",
+                "title": "■ ツールチップを表示",
+                "body": "Apple Pencil をボタン上でホバーすると説明が表示されるようになりました。（ホバー対応機種のみ）"
+            },
+            {
+                "id": "5",
+                "title": "■ 安定性の向上",
+                "body": "・カラーピッカーで彩度の値がジャンプする問題を修正\n・Undo / Redo 可否をボタンの見た目に反映\n・その他不具合修正"
+            }
+        ]
+    }
+]
