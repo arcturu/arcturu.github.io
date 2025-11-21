@@ -1,5 +1,31 @@
 [
     {
+        "id": "2025-11-21-1",
+        "version": "1.3.0",
+        "title": "What's New in Version 1.3.0",
+        "publishedAt": "2025-11-21T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Explicitly Save Canvas",
+                "body": "Added an option to save without returning when pressing the back to gallery button. When you turn ON \"Always Save and Back to Gallery\", it behaves like before.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.3.0-save.gif"
+            },
+            {
+                "id": "2",
+                "title": "■ Layer Rotation & Flip Features",
+                "body": "Added buttons to rotate and flip layers in the Transform tool's operation panel.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.3.0-rotate-flip-layer.webp"
+            },
+            {
+                "id": "3",
+                "title": "■ Improved Stability",
+                "body": "・Fixed canvas not being saved when returning to gallery page during filter editing\n・Fixed layer content corruption when performing other layer operations during filter editing\n・Fixed alpha lock not working on slime brush\n・Additional bug fixes"
+            }
+        ]
+    },
+    {
         "id": "2025-11-08-1",
         "version": "1.2.0",
         "title": "What's New in Version 1.2.0",

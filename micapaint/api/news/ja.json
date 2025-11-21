@@ -1,5 +1,31 @@
 [
     {
+        "id": "2025-11-21-1",
+        "version": "1.3.0",
+        "title": "バージョン 1.3.0 の新機能",
+        "publishedAt": "2025-11-21T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ キャンバスを明示的に保存",
+                "body": "一覧に戻るボタンを押したとき、戻らずに保存するオプションを追加しました。「常に保存して一覧に戻る」を ON にすると従来の動作になります。",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.3.0-save.gif"
+            },
+            {
+                "id": "2",
+                "title": "■ レイヤーの回転・反転機能",
+                "body": "移動ツールの操作パネルにレイヤーを回転・反転させるボタンを追加しました。",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.3.0-rotate-flip-layer.webp"
+            },
+            {
+                "id": "3",
+                "title": "■ 安定性の向上",
+                "body": "・フィルター編集中に一覧ページへ戻るとキャンバスが保存されない問題を修正\n・フィルター編集中に別のレイヤー操作を行うとレイヤーの中身が崩れる問題を修正\n・スライムブラシに透明度保護が効かない問題を修正\n・その他不具合修正"
+            }
+        ]
+    },
+    {
         "id": "2025-11-08-1",
         "version": "1.2.0",
         "title": "バージョン 1.2.0 の新機能",
