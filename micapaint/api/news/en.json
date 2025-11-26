@@ -1,5 +1,19 @@
 [
     {
+        "id": "2025-11-27-1",
+        "version": "1.3.1",
+        "title": "What's New in Version 1.3.1",
+        "publishedAt": "2025-11-27T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Fixed an issue where image importing failed",
+                "body": "Fixed an issue in v1.3.0 where importing an image into a layer caused an error."
+            }
+        ]
+    },
+    {
         "id": "2025-11-21-1",
         "version": "1.3.0",
         "title": "What's New in Version 1.3.0",
