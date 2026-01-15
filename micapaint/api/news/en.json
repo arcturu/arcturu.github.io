@@ -1,5 +1,42 @@
 [
     {
+        "id": "2026-01-15-1",
+        "version": "1.4.0",
+        "title": "What's New in Version 1.4.0",
+        "publishedAt": "2026-01-15T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Added Liquify Tool",
+                "body": "Added a liquify tool that lets you transform layers by dragging across them. It supports Push, Scale, Rotate, and Reset modes. If you're using Apple Pencil Pro, you can also control rotation by rolling the pencil in Push mode. Use the Softness parameter to adjust the smoothness of transformation edges and the Strength parameter to adjust the amount of deformation.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.4.0-liquify.webp"
+            },
+            {
+                "id": "2",
+                "title": "■ PSD File Export Support",
+                "body": "You can now select PSD from the export menu. Edit the file in other tools while preserving the layer structure.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.4.0-export-psd.webp"
+            },
+            {
+                "id": "3",
+                "title": "■ PSD File Import Support",
+                "body": "You can now import and edit PSD files from the Files app or camera roll. Select Micapaint from the share destination in the File menu.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.4.0-import-psd.webp"
+            },
+            {
+                "id": "4",
+                "title": "■ iPadOS 26 Design Support",
+                "body": "Tool UI now supports iPadOS 26 design. Fixed UI issues such as the back to gallery button being hidden by window controls."
+            },
+            {
+                "id": "5",
+                "title": "■ Improved Stability",
+                "body": "・Fixed an issue where the topmost item was always deleted when pressing the localization delete button for brush names\n・Fixed layout corruption when reducing sidebar width\n・Additional bug fixes"
+            }
+        ]
+    },
+    {
         "id": "2025-11-27-1",
         "version": "1.3.1",
         "title": "What's New in Version 1.3.1",

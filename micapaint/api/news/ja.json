@@ -1,5 +1,42 @@
 [
     {
+        "id": "2026-01-15-1",
+        "version": "1.4.0",
+        "title": "バージョン 1.4.0 の新機能",
+        "publishedAt": "2026-01-15T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ ゆがみツールを追加",
+                "body": "レイヤー上をなぞって変形できるゆがみツールを追加しました。\n移動・拡大・縮小・回転・リセットモードに対応しています。\nApple Pencil Pro をご利用中の方は、移動モードでペンをロールさせることで回転も制御できます。\n「柔らかさ」パラメータで変形輪郭の滑らかさを、\n「強さ」パラメータで変形量を調整できます。",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.4.0-liquify.webp"
+            },
+            {
+                "id": "2",
+                "title": "■ PSD ファイル出力に対応",
+                "body": "出力メニューで PSD を選択できるようになりました。\nレイヤー構造を保ったまま、他のツールで編集することができます。",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.4.0-export-psd.webp"
+            },
+            {
+                "id": "3",
+                "title": "■ PSD ファイル読み込みに対応",
+                "body": "ファイルアプリやカメラロール内の PSD ファイルを読み込んで編集できるようになりました。ファイルメニューの共有先から Micapaint を選択してください。",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.4.0-import-psd.webp"
+            },
+            {
+                "id": "4",
+                "title": "■ iPadOS 26 のデザインに対応",
+                "body": "ツール UI が iPadOS 26 のデザインに対応しました。ウィンドウコントロールによって一覧へ戻るボタンが隠されるなどの UI 上の問題を修正しました。"
+            },
+            {
+                "id": "5",
+                "title": "■ 安定性の向上",
+                "body": "・ブラシ名のローカライズ削除ボタンを押したときに常に一番上のアイテムが削除される問題を修正\n・サイドバーの幅を小さくした際のレイアウト崩れを修正\n・その他不具合修正"
+            }
+        ]
+    },
+    {
         "id": "2025-11-27-1",
         "version": "1.3.1",
         "title": "バージョン 1.3.1 の更新内容",
