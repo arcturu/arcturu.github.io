@@ -1,5 +1,20 @@
 [
     {
+        "id": "2026-01-20-1",
+        "version": "1.5.0",
+        "title": "バージョン 1.5.0 の新機能",
+        "publishedAt": "2026-01-20T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ 色履歴とスウォッチを追加",
+                "body": "カラーピッカーに色履歴とスウォッチを追加しました。\n各セルをタップすると選択できます。\nスウォッチ（２行目）のセルを長押しすると、現在の色で上書きできます。\n設定から色履歴とスウォッチを表示/非表示を切り替えられます。",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.5.0-color-history-and-swatch.webp"
+            }
+        ]
+    },
+    {
         "id": "2026-01-15-1",
         "version": "1.4.0",
         "title": "バージョン 1.4.0 の新機能",

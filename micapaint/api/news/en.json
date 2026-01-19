@@ -1,5 +1,20 @@
 [
     {
+        "id": "2026-01-20-1",
+        "version": "1.5.0",
+        "title": "What's New in Version 1.5.0",
+        "publishedAt": "2026-01-20T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Added Color History and Swatches",
+                "body": "Added color history and swatches to the color picker. Tap each cell to select it. Long press a cell in the swatches (second row) to overwrite it with the current color. You can toggle the display of color history and swatches in the settings.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.5.0-color-history-and-swatch.webp"
+            }
+        ]
+    },
+    {
         "id": "2026-01-15-1",
         "version": "1.4.0",
         "title": "What's New in Version 1.4.0",
