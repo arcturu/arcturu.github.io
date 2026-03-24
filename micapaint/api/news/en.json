@@ -1,5 +1,19 @@
 [
     {
+        "id": "2026-03-25-1",
+        "version": "1.7.3",
+        "title": "What's New in Version 1.7.3",
+        "publishedAt": "2026-03-25T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Improved Stability",
+                "body": "・Fixed an issue where move tool handles could jump to incorrect positions\n・Fixed an issue where noise appeared at brush stroke edges when using a dither filter layer\n・Fixed an issue where the latest changes might not be reflected when duplicating a canvas\n・Other bug fixes"
+            }
+        ]
+    },
+    {
         "id": "2026-02-25-1",
         "version": "1.7.1",
         "title": "What's New in Version 1.7.1",
