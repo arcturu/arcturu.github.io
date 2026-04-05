@@ -1,5 +1,25 @@
 [
     {
+        "id": "2026-04-04-1",
+        "version": "1.8.0",
+        "title": "What's New in Version 1.8.0",
+        "publishedAt": "2026-04-04T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Added Slider Snap Feature",
+                "body": "Added a snap feature to the brush size, opacity, and stabilization sliders. Tap the pin icon in the slider popup to add or remove a pin at the current position. Nearby values will snap to pinned positions, making it easy to select frequently used brush sizes.\nYou can also use the ... icon menu to copy all pins at once and paste them to another brush.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.8.0-snap.webp"
+            },
+            {
+                "id": "2",
+                "title": "■ Improved Stability",
+                "body": "Fixed issues related to tool stability."
+            }
+        ]
+    },
+    {
         "id": "2026-03-25-1",
         "version": "1.7.3",
         "title": "What's New in Version 1.7.3",
