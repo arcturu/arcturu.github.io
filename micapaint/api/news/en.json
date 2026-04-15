@@ -1,5 +1,48 @@
 [
     {
+        "id": "2026-04-15-1",
+        "version": "1.9.0",
+        "title": "What's New in Version 1.9.0",
+        "publishedAt": "2026-04-15T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Added Canvas Reordering (Pro Only)",
+                "body": "This feature is available after purchasing the Pro Upgrade Plan.\nYou can now reorder canvases by long-pressing and dragging a canvas on the Home screen."
+            },
+            {
+                "id": "2",
+                "title": "■ Added Brush Export and Import (Pro Only)",
+                "body": "This feature is available after purchasing the Pro Upgrade Plan.\nYou can now export brush data outside the app and import brush data from outside the app.\nHow to export: Open the brush parameter screen from the canvas screen, scroll to the bottom, and tap the Export button. A save location selection dialog will appear, allowing you to save it wherever you like.\nHow to import: Tap Import Brush from the import icon at the top of the Home screen to open the file selection dialog, then select a brush file to import it."
+            },
+            {
+                "id": "3",
+                "title": "■ Added Feature to Create a Canvas by Importing an Image",
+                "body": "Tap the import icon at the top of the Home screen, then tap Create Canvas from Photos to create a canvas from an image in your camera roll, or tap Create Canvas from Files to create a canvas from an image in the Files app."
+            },
+            {
+                "id": "4",
+                "title": "■ Improved Stability",
+                "body": "Fixed issues related to tool stability."
+            }
+        ]
+    },
+    {
+        "id": "2026-04-10-1",
+        "version": "1.8.1",
+        "title": "What's New in Version 1.8.1",
+        "publishedAt": "2026-04-10T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Improved Stability",
+                "body": "Fixed issues related to tool stability."
+            }
+        ]
+    },
+    {
         "id": "2026-04-04-1",
         "version": "1.8.0",
         "title": "What's New in Version 1.8.0",
