@@ -1,5 +1,29 @@
 [
     {
+        "id": "2026-05-27-1",
+        "version": "1.10.0",
+        "title": "What's New in Version 1.10.0",
+        "publishedAt": "2026-05-27T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Added Three New Filters",
+                "body": "[Gradient Map] Replaces colors based on the brightness of the image. Gradients can be saved as templates and reused.\n[Chromatic Aberration] Splits the image into RGB channels and offsets them. Supports both parallel and concentric offset modes.\n[Gaussian Blur] Blurs the image. The blur radius can be adjusted."
+            },
+            {
+                "id": "2",
+                "title": "■ Added Feature to Merge Layers Below the Selected Layer into a New Layer",
+                "body": "As a variant of the layer command \"Add Merged Layer\", you can now add a layer that merges only the layers below the currently selected layer. This is useful when you want to manually edit the result of an applied filter layer."
+            },
+            {
+                "id": "3",
+                "title": "■ Other Changes",
+                "body": "・Support multiple color picker type for the background color\n・Fixed an issue where rendering was delayed when using tools such as lasso selection\n・Reduced update delay in the Reference view\n・Other bug fixes related to stability"
+            }
+        ]
+    },
+    {
         "id": "2026-04-15-1",
         "version": "1.9.0",
         "title": "What's New in Version 1.9.0",
