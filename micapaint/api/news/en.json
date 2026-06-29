@@ -1,5 +1,24 @@
 [
     {
+        "id": "2026-06-29-1",
+        "version": "1.11.0",
+        "title": "What's New in Version 1.11.0",
+        "publishedAt": "2026-06-29T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Added Pen Tip Position Correction Setting",
+                "body": "Added a pen tip position correction setting in the settings on the canvas screen. You can offset the actual detected pen tip position from the pen tip position where drawing occurs."
+            },
+            {
+                "id": "2",
+                "title": "■ Other Changes",
+                "body": "・Fixed an issue where brush drawing could be delayed\n・Fixed an issue where the drawing result could become distorted when using the slime brush\n・Fixed an issue where the layout could break when the accessibility setting to show button shapes was enabled\n・Fixed an issue where some icons were not displayed on iOS 17\n・Other bug fixes related to stability"
+            }
+        ]
+    },
+    {
         "id": "2026-05-27-1",
         "version": "1.10.0",
         "title": "What's New in Version 1.10.0",
