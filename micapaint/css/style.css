@@ -20,8 +20,8 @@ html {
 body {
   font-size: 1.6rem;
   max-width: 960px;
-  margin: 0 auto 80px;
-  padding: 20px;
+  margin: 0 auto clamp(4rem, 10vw, 8rem);
+  padding: clamp(1.2rem, 4vw, 2rem);
   line-height: 1.7;
 }
 
@@ -30,33 +30,28 @@ a {
   text-decoration: underline;
 }
 
-a.silent {
-  text-decoration: none;
-}
-
-.link {
-  width: 1.4rem;
-  height: 1.4rem;
-  display: inline-block;
-  background-image: url(external-link-symbol.svg);
-  background-position: center;
-  background-size: contain;
-  background-repeat: no-repeat;
-}
-
 h1 {
-  font-size: 5rem;
+  font-size: clamp(3.2rem, 8vw, 5rem);
   font-weight: bold;
   line-height: 1.2;
-  margin: 80px 0 20px 0;
+  margin: clamp(4rem, 10vw, 8rem) 0 2rem 0;
   padding: 0;
 }
 
 h2 {
-  font-size: 3rem;
+  font-size: clamp(2.2rem, 5vw, 3rem);
   font-weight: bold;
   line-height: 1.2;
-  margin: 60px 0 20px;
+  margin: clamp(3.2rem, 8vw, 6rem) 0 2rem;
+}
+
+.phrase {
+  display: inline-block;
+}
+
+.app-store-badge {
+  width: auto;
+  height: clamp(4.8rem, 13vw, 6.4rem);
 }
 
 h3 {
@@ -73,83 +68,41 @@ p {
   padding: 0;
 }
 
+.feature-detail {
+  margin: 0 0 20px 0;
+}
+
+img,
+video {
+  max-width: 100%;
+  height: auto;
+}
+
+body>img,
+body>video {
+  display: block;
+}
+
 ul {
   font-size: 1.6rem;
+  padding-inline-start: clamp(2rem, 5vw, 4rem);
 }
 
-hr {
-  border: 0;
-  height: 1px;
-  background-color: #dddddd;
+.feature-list {
+  columns: 2 28rem;
+  column-gap: 4rem;
 }
 
-#footer {
-  color: #888888;
-  font-size: 1.2rem;
-  margin-top: 40px;
+.feature-list>li {
+  break-inside: avoid;
 }
 
 .content {
   padding: 0;
 }
 
-.content > .item {
+.content>.item {
   margin: 0 0 20px 0;
-}
-
-.posts {
-  margin: 0;
-  padding: 0;
-  list-style-type: none;
-}
-
-.posts li {
-  margin: 0;
-  margin-bottom: 20px;
-  font-size: 1.8rem;
-  line-height: 1.2;
-}
-
-.note {
-  color: #888888;
-  font-size: 1.1rem;
-  margin: 4px 0 0 0;
-}
-
-.sns-list {
-  display: flex;
-  align-items: center;
-  flex-wrap: wrap;
-  font-size: 1.4rem;
-  padding: 0;
-  margin: 10px 0;
-}
-
-.sns-list > li {
-  display: flex;
-  align-items: center;
-  list-style-type: none;
-  line-height: 2;
-  margin-right: 1em;
-}
-
-.sns-icon {
-  font-size: 18px !important;
-  margin-right: 4px;
-}
-
-.icon-hatenablog {
-  display: inline-block;
-  vertical-align: middle;
-  width: 24px;
-  height: 24px;
-  background-image: url(../img/hatenablog-logo.svg);
-  background-size: 100%;
-  background-repeat: no-repeat;
-}
-
-.icon-pixiv {
-  vertical-align: middle;
 }
 
 .copy {
@@ -158,12 +111,20 @@ hr {
 
 header {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   align-items: baseline;
+  column-gap: 1.6rem;
   margin-bottom: 1rem;
+}
+
+header>h1 {
+  flex: 1 1 auto;
 }
 
 .language-toggle {
   display: flex;
+  flex: 0 0 auto;
   gap: 0.5rem;
+  white-space: nowrap;
 }
