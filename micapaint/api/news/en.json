@@ -1,5 +1,31 @@
 [
     {
+        "id": "2026-08-12-1",
+        "version": "1.12.0",
+        "title": "What's New in Version 1.12.0",
+        "publishedAt": "2026-08-12T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Added Bucket Fill Tool",
+                "body": "Drag the ... button on the toolbar with your finger or Apple Pencil, and release on the bucket icon in the sub toolbar that appears to use the bucket tool.\n[Detect Region From]\nSelects whether fill detection is performed on the entire canvas or on a specific layer.\n[Expansion Method]\nSelects the method used when expanding the region.\nUniform: Expands the region by a fixed amount of [Expansion] pixels.\nAdaptive: Expands the region with a correction that prevents it from crossing borders.\n[Threshold]\nThe larger the value, the more pixels that differ from the source pixel will be treated as fill targets.\n[Expansion]\nExpands the region by the specified number of pixels after fill detection.\n[Gap Closing]\nPerforms the fill with a correction that treats the region as closed even when there is a gap of the specified number of pixels. Setting a value greater than 0 increases the processing load.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.12.0-bucket.gif"
+            },
+            {
+                "id": "2",
+                "title": "■ Added Canvas Resize Feature",
+                "body": "Accessible from the \"Resize Canvas\" button at the top of the settings panel.\nYou can change the canvas to your preferred size by dragging the blue handles displayed on the canvas or by changing the values in the  panel.\nFree users are limited to 5 uses. Upgrading to Pro lets you use it as many times as you like.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.12.0-resize-canvas.gif"
+            },
+            {
+                "id": "3",
+                "title": "■ Other Changes",
+                "body": "・Fixed an issue where screen rendering could become distorted under heavy load\n・Changed the A4 template size calculation from truncation to rounding\n・Other bug fixes related to stability"
+            }
+        ]
+    },
+    {
         "id": "2026-06-29-1",
         "version": "1.11.0",
         "title": "What's New in Version 1.11.0",
