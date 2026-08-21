@@ -1,5 +1,19 @@
 [
     {
+        "id": "2026-08-21-1",
+        "version": "1.12.2",
+        "title": "What's New in Version 1.12.2",
+        "publishedAt": "2026-08-21T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Improved Stability",
+                "body": "Fixed an issue where brushes with the \"Max Opacity\" blend mode could not draw on alpha-locked layers."
+            }
+        ]
+    },
+    {
         "id": "2026-08-17-1",
         "version": "1.12.1",
         "title": "What's New in Version 1.12.1",
