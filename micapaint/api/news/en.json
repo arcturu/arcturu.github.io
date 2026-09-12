@@ -1,5 +1,42 @@
 [
     {
+        "id": "2026-09-12-1",
+        "version": "1.13.0",
+        "title": "What's New in Version 1.13.0",
+        "publishedAt": "2026-09-12T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Move and Resize Panels Such as the Color Picker",
+                "body": "You can now detach the Color Picker, Layer Panel, Reference Panel, and other panels from the sidebar to move and resize them. Drag the gray bar at the top of a panel to move it. Once detached, drag the bottom-right corner of the panel to resize it.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.13.0-docking-panel.gif"
+            },
+            {
+                "id": "2",
+                "title": "■ Import External Images and Sample Colors in the Reference Panel",
+                "body": "You can now import up to 5 external images by tapping the Reference Panel to display its menu bar, then tapping the photo icon. You can also sample the color under your finger by pressing and holding a reference image with one finger.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.13.0-reference-external-image-eyedropper.gif"
+            },
+            {
+                "id": "3",
+                "title": "■ Expand Color Picker Swatches to 5 Rows",
+                "body": "Turn on Settings > Color Picker > More Swatches, or tap the swatch icon in the Color Picker panel, to expand swatches to 5 rows and save more colors.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.13.0-swatch-expansion.gif"
+            },
+            {
+                "id": "4",
+                "title": "■ Added Global Pressure Adjustment",
+                "body": "You can now adjust Apple Pencil pressure across the app by editing the curve in Settings > Apple Pencil > Pressure Adjustment."
+            },
+            {
+                "id": "5",
+                "title": "■ Other Changes",
+                "body": "・Reduced the need to manually confirm changes when switching tools\n・Added Undo / Redo support to the Transform tool\n・Increased the resolution of brush previews in the brush list\n・Fixed an issue where the brush outline could remain visible after hovering\n・Other bug fixes related to stability"
+            }
+        ]
+    },
+    {
         "id": "2026-08-21-1",
         "version": "1.12.2",
         "title": "What's New in Version 1.12.2",

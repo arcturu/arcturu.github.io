@@ -1,5 +1,42 @@
 [
     {
+        "id": "2026-09-12-1",
+        "version": "1.13.0",
+        "title": "버전 1.13.0 의 업데이트 내용",
+        "publishedAt": "2026-09-12T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ 색상 선택기 등 패널의 이동 및 크기 조정 지원",
+                "body": "색상 선택기, 레이어 패널, 참조 패널 등을 사이드바에서 분리하여 이동하고 크기를 조정할 수 있게 되었습니다. 패널 상단의 회색 막대를 드래그하여 이동할 수 있으며, 분리된 상태에서 패널 오른쪽 아래 모서리를 드래그하면 크기를 변경할 수 있습니다.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.13.0-docking-panel.gif"
+            },
+            {
+                "id": "2",
+                "title": "■ 참조 패널에서 외부 이미지 불러오기 및 스포이트 지원",
+                "body": "참조 패널을 탭하여 메뉴 막대를 표시한 다음 사진 아이콘을 탭하면 외부 이미지를 최대 5장까지 불러올 수 있게 되었습니다. 또한 참조 이미지를 한 손가락으로 길게 누르면 손가락 아래의 색상을 스포이트로 추출할 수 있습니다.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.13.0-reference-external-image-eyedropper.gif"
+            },
+            {
+                "id": "3",
+                "title": "■ 색상 선택기의 스와치를 5행으로 확장하는 옵션 추가",
+                "body": "설정 > 색상 선택기 > 스와치 확장을 켜거나 색상 선택기 패널의 스와치 아이콘을 탭하면 스와치를 5행으로 넓혀 더 많은 색상을 저장할 수 있습니다.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.13.0-swatch-expansion.gif"
+            },
+            {
+                "id": "4",
+                "title": "■ 전체에 적용되는 필압 조정 기능 추가",
+                "body": "설정 > Apple Pencil > 필압 조정의 곡선을 편집하여 앱 전체에서 Apple Pencil의 필압을 일괄 보정할 수 있게 되었습니다."
+            },
+            {
+                "id": "5",
+                "title": "■ 기타 변경 사항",
+                "body": "・도구 전환 시 변경 사항을 수동으로 확정해야 하는 경우를 줄임\n・변형 도구에서 Undo / Redo 지원\n・브러시 목록의 미리보기 해상도 향상\n・호버 후 브러시 윤곽선이 남아 있는 경우가 있는 문제 수정\n・기타 안정성과 관련된 문제 수정"
+            }
+        ]
+    },
+    {
         "id": "2026-08-21-1",
         "version": "1.12.2",
         "title": "버전 1.12.2 의 업데이트 내용",
