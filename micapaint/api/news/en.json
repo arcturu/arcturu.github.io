@@ -1,5 +1,19 @@
 [
     {
+        "id": "2026-09-20-1",
+        "version": "1.13.1",
+        "title": "What's New in Version 1.13.1",
+        "publishedAt": "2026-09-20T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Improved Stability",
+                "body": "・Improved brush tracking with the pen\n・Improved the accuracy of UI labels\n・Other bug fixes related to stability"
+            }
+        ]
+    },
+    {
         "id": "2026-09-12-1",
         "version": "1.13.0",
         "title": "What's New in Version 1.13.0",
