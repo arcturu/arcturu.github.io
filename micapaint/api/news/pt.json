@@ -1,0 +1,454 @@
+[
+    {
+        "id": "2026-10-06-1",
+        "version": "1.14.0",
+        "title": "Novidades da versão 1.14.0",
+        "publishedAt": "2026-10-06T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Suporte ao gesto de pinça rápida",
+                "body": "Na tela, fazer rapidamente um movimento de pinça para dentro com dois dedos redefine o posicionamento da tela (posição, rotação e escala). Se, em seguida, você fizer rapidamente um movimento de pinça para fora com dois dedos, o posicionamento anterior à redefinição será restaurado. O tempo de detecção pode ser ajustado em Configurações > Gestos de toque > Duração da pinça rápida, e definir o valor como 0 desativa esse recurso."
+            },
+            {
+                "id": "2",
+                "title": "■ Melhorias de estabilidade",
+                "body": "・Corrigimos um problema em que os dados da tela podiam voltar a um estado anterior\n・Corrigimos um problema no iPadOS 17 em que pop-ups, como o menu de camadas, apareciam em posições inesperadas\n・Corrigimos outros problemas relacionados à estabilidade"
+            }
+        ]
+    },
+    {
+        "id": "2026-09-20-1",
+        "version": "1.13.1",
+        "title": "Novidades da versão 1.13.1",
+        "publishedAt": "2026-09-20T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Melhorias de estabilidade",
+                "body": "・Melhoramos o acompanhamento do pincel em relação à caneta\n・Melhoramos a precisão dos rótulos da interface\n・Corrigimos outros problemas relacionados à estabilidade"
+            }
+        ]
+    },
+    {
+        "id": "2026-09-12-1",
+        "version": "1.13.0",
+        "title": "Novidades da versão 1.13.0",
+        "publishedAt": "2026-09-12T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Mova e redimensione painéis como o seletor de cores",
+                "body": "Agora você pode desacoplar da barra lateral o seletor de cores, o painel de camadas, o painel de referência e outros painéis para movê-los e redimensioná-los. Arraste a barra cinza na parte superior de um painel para movê-lo. Depois de desacoplado, arraste o canto inferior direito do painel para alterar o tamanho.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.13.0-docking-panel.gif"
+            },
+            {
+                "id": "2",
+                "title": "■ Importe imagens externas e colete cores no painel de referência",
+                "body": "Agora você pode importar até 5 imagens externas: toque no painel de referência para mostrar a barra de menu e depois toque no ícone de foto. Além disso, mantenha o dedo pressionado sobre uma imagem de referência para coletar a cor que está embaixo dele.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.13.0-reference-external-image-eyedropper.gif"
+            },
+            {
+                "id": "3",
+                "title": "■ Opção para ampliar as amostras do seletor de cores para 5 linhas",
+                "body": "Ative Configurações > Seletor de cores > Mais amostras ou toque no ícone de amostras no painel do seletor de cores para ampliar as amostras para 5 linhas e salvar mais cores.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.13.0-swatch-expansion.gif"
+            },
+            {
+                "id": "4",
+                "title": "■ Ajuste global de pressão",
+                "body": "Agora você pode ajustar a pressão do Apple Pencil em todo o app editando a curva em Configurações > Apple Pencil > Ajuste de pressão."
+            },
+            {
+                "id": "5",
+                "title": "■ Outras alterações",
+                "body": "・Reduzimos a necessidade de confirmar alterações manualmente ao trocar de ferramenta\n・A ferramenta Transformar agora é compatível com Desfazer / Refazer\n・Aumentamos a resolução das pré-visualizações na lista de pincéis\n・Corrigimos um problema em que o contorno do pincel podia continuar visível depois de passar a caneta por cima\n・Corrigimos outros problemas relacionados à estabilidade"
+            }
+        ]
+    },
+    {
+        "id": "2026-08-21-1",
+        "version": "1.12.2",
+        "title": "Novidades da versão 1.12.2",
+        "publishedAt": "2026-08-21T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Melhorias de estabilidade",
+                "body": "Corrigimos um problema em que pincéis com o modo de mesclagem \"Opacidade máxima\" não conseguiam desenhar em camadas com bloqueio alfa."
+            }
+        ]
+    },
+    {
+        "id": "2026-08-17-1",
+        "version": "1.12.1",
+        "title": "Novidades da versão 1.12.1",
+        "publishedAt": "2026-08-17T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Melhorias de estabilidade",
+                "body": "Corrigimos um problema em que os traços do pincel podiam atrasar."
+            }
+        ]
+    },
+    {
+        "id": "2026-08-12-1",
+        "version": "1.12.0",
+        "title": "Novidades da versão 1.12.0",
+        "publishedAt": "2026-08-12T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Nova ferramenta balde de tinta",
+                "body": "Para usar o balde de tinta, arraste o botão ... da barra de ferramentas com o dedo ou o Apple Pencil e solte-o sobre o ícone do balde na barra secundária que aparece.\n[Detectar região de]\nEscolha se a detecção do preenchimento é feita na tela inteira ou em uma camada específica.\n[Método de expansão]\nEscolha como a região é expandida.\nLargura fixa: expande a região em uma quantidade fixa de [Expansão] pixels.\nAté a borda: expande a região com uma correção que evita ultrapassar as bordas.\n[Limiar]\nQuanto maior o valor, mais pixels diferentes do pixel de origem são considerados parte do preenchimento.\n[Expansão]\nExpande a região na quantidade de pixels indicada depois de detectar o preenchimento.\n[Fechamento de lacunas]\nPreenche com uma correção que considera a região fechada mesmo que haja lacunas da quantidade de pixels indicada. Valores maiores que 0 aumentam a carga de processamento.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.12.0-bucket.gif"
+            },
+            {
+                "id": "2",
+                "title": "■ Novo recurso para redimensionar a tela",
+                "body": "Acesse pelo botão \"Redimensionar tela\" na parte superior do painel de configurações.\nVocê pode deixar a tela no tamanho que quiser movendo os controles azuis exibidos sobre a tela ou alterando os valores no painel.\nUsuários gratuitos podem usá-lo até 5 vezes. Fazendo upgrade para o Pro, você pode usá-lo quantas vezes quiser.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.12.0-resize-canvas.gif"
+            },
+            {
+                "id": "3",
+                "title": "■ Outras alterações",
+                "body": "・Corrigimos um problema em que a exibição podia ficar distorcida com carga alta\n・O tamanho do modelo A4 agora é arredondado em vez de truncado\n・Corrigimos outros problemas relacionados à estabilidade"
+            }
+        ]
+    },
+    {
+        "id": "2026-06-29-1",
+        "version": "1.11.0",
+        "title": "Novidades da versão 1.11.0",
+        "publishedAt": "2026-06-29T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Nova configuração de deslocamento da ponta da caneta",
+                "body": "Adicionamos às configurações da tela de desenho uma opção para deslocar a posição da ponta da caneta. Ela permite deslocar a posição onde o traço é desenhado em relação à posição real detectada da ponta."
+            },
+            {
+                "id": "2",
+                "title": "■ Outras alterações",
+                "body": "・Corrigimos um problema em que o desenho com pincel podia atrasar\n・Corrigimos um problema em que o resultado podia ficar distorcido ao usar o pincel slime\n・Corrigimos um problema em que o layout podia se desorganizar com o ajuste de acessibilidade Formas dos botões ativado\n・Corrigimos um problema em que alguns ícones não apareciam no iOS 17\n・Corrigimos outros problemas relacionados à estabilidade"
+            }
+        ]
+    },
+    {
+        "id": "2026-05-27-1",
+        "version": "1.10.0",
+        "title": "Novidades da versão 1.10.0",
+        "publishedAt": "2026-05-27T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Três novos filtros",
+                "body": "[Mapa de gradiente] Substitui as cores de acordo com a luminosidade da imagem. Os gradientes podem ser salvos como modelos e reutilizados.\n[Aberração cromática] Separa as cores da imagem em RGB e as desloca. É compatível com deslocamento paralelo e concêntrico.\n[Desfoque gaussiano] Desfoca a imagem. O raio do desfoque pode ser ajustado."
+            },
+            {
+                "id": "2",
+                "title": "■ Adicione como nova camada a mesclagem das camadas abaixo da selecionada",
+                "body": "Como variação do comando de camada \"Adicionar camada mesclada\", agora você pode adicionar uma camada que mescla apenas a camada selecionada e as que estão abaixo dela. É útil, por exemplo, quando você quer editar à mão o resultado de uma camada de filtro."
+            },
+            {
+                "id": "3",
+                "title": "■ Outras alterações",
+                "body": "・Agora é possível escolher o tipo de seletor de cores para a cor de fundo\n・Corrigimos um problema em que o desenho atrasava ao usar ferramentas como a seleção com laço\n・Reduzimos o atraso de atualização do painel de referência\n・Corrigimos outros problemas relacionados à estabilidade"
+            }
+        ]
+    },
+    {
+        "id": "2026-04-15-1",
+        "version": "1.9.0",
+        "title": "Novidades da versão 1.9.0",
+        "publishedAt": "2026-04-15T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Reordene as telas da galeria (somente Pro)",
+                "body": "※ Este recurso fica disponível após a compra do plano de upgrade para o Pro.\nAgora você pode reordenar as telas mantendo uma tela pressionada na galeria e arrastando-a."
+            },
+            {
+                "id": "2",
+                "title": "■ Exporte e importe pincéis (somente Pro)",
+                "body": "※ Este recurso fica disponível após a compra do plano de upgrade para o Pro.\nAgora você pode exportar os dados de um pincel para fora do app e importá-los de fora do app.\nComo exportar: abra a tela de parâmetros do pincel na tela de desenho, role até o final e toque no botão \"Exportar\". Aparecerá uma caixa de diálogo para escolher onde salvar.\nComo importar: toque em \"Importar pincel\" no ícone de importação na parte superior da galeria. Uma caixa de diálogo de seleção de arquivos será aberta; escolha um arquivo de pincel para importá-lo."
+            },
+            {
+                "id": "3",
+                "title": "■ Crie uma tela a partir de uma imagem",
+                "body": "No ícone de importação na parte superior da galeria, toque em \"Criar tela a partir de fotos\" para usar uma imagem da sua fototeca ou em \"Criar tela a partir de arquivos\" para usar uma imagem do app Arquivos."
+            },
+            {
+                "id": "4",
+                "title": "■ Melhorias de estabilidade",
+                "body": "Corrigimos problemas relacionados à estabilidade das ferramentas."
+            }
+        ]
+    },
+    {
+        "id": "2026-04-10-1",
+        "version": "1.8.1",
+        "title": "Novidades da versão 1.8.1",
+        "publishedAt": "2026-04-10T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Melhorias de estabilidade",
+                "body": "Corrigimos problemas relacionados à estabilidade das ferramentas."
+            }
+        ]
+    },
+    {
+        "id": "2026-04-04-1",
+        "version": "1.8.0",
+        "title": "Novidades da versão 1.8.0",
+        "publishedAt": "2026-04-04T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Pontos de ajuste nos controles deslizantes",
+                "body": "Adicionamos pontos de ajuste aos controles deslizantes de tamanho do pincel, opacidade e estabilização. Toque no ícone de alfinete na janela do controle deslizante para adicionar ou remover um alfinete na posição atual. Os valores próximos se ajustam às posições fixadas; assim, se você fixar os tamanhos de pincel que usa com frequência, poderá escolhê-los com facilidade.\nNo menu do ícone ..., você também pode copiar todos os alfinetes de uma vez e colá-los em outro pincel.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.8.0-snap.webp"
+            },
+            {
+                "id": "2",
+                "title": "■ Melhorias de estabilidade",
+                "body": "Corrigimos problemas relacionados à estabilidade das ferramentas."
+            }
+        ]
+    },
+    {
+        "id": "2026-03-25-1",
+        "version": "1.7.3",
+        "title": "Novidades da versão 1.7.3",
+        "publishedAt": "2026-03-25T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Melhorias de estabilidade",
+                "body": "・Corrigimos um problema em que os controles da ferramenta Transformar podiam saltar para uma posição incorreta\n・Corrigimos um problema em que aparecia ruído nas bordas dos traços ao usar uma camada de filtro de pontilhamento\n・Corrigimos um problema em que as últimas alterações podiam não aparecer ao duplicar uma tela\n・Outras correções de bugs"
+            }
+        ]
+    },
+    {
+        "id": "2026-02-25-1",
+        "version": "1.7.1",
+        "title": "Novidades da versão 1.7.1",
+        "publishedAt": "2026-02-25T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Melhorias de estabilidade",
+                "body": "Corrigimos problemas relacionados à estabilidade das ferramentas."
+            }
+        ]
+    },
+    {
+        "id": "2026-02-22-1",
+        "version": "1.7.0",
+        "title": "Novidades da versão 1.7.0",
+        "publishedAt": "2026-02-22T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Novo seletor de cores triangular",
+                "body": "Adicionamos um seletor de cores com uma área triangular para escolher o brilho e a saturação."
+            },
+            {
+                "id": "2",
+                "title": "■ Melhorias de estabilidade",
+                "body": "Corrigimos problemas relacionados à estabilidade das ferramentas."
+            }
+        ]
+    },
+    {
+        "id": "2026-02-20-1",
+        "version": "1.6.1",
+        "title": "Novidades da versão 1.6.1",
+        "publishedAt": "2026-02-20T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Melhorias de estabilidade",
+                "body": "Corrigimos problemas relacionados à estabilidade das ferramentas."
+            }
+        ]
+    },
+    {
+        "id": "2026-02-14-1",
+        "version": "1.6.0",
+        "title": "Novidades da versão 1.6.0",
+        "publishedAt": "2026-02-14T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Novas camadas de filtro (camadas de ajuste não destrutivas)",
+                "body": "Adicionamos as camadas de filtro, que aplicam um filtro ao resultado mesclado das camadas abaixo. Para adicionar uma, toque no ícone de filtro no painel de camadas e escolha \"Criar camada de filtro\".\nVocê pode controlar o alcance de uma camada de filtro com máscaras de recorte e pastas. Se você ativar o recorte em uma camada de filtro, o filtro será aplicado ao conteúdo da camada imediatamente abaixo. Se você colocar uma camada de filtro dentro de uma pasta, o filtro será aplicado ao resultado mesclado das camadas abaixo dela dentro dessa pasta.\nA imagem abaixo mostra um exemplo em que uma camada de filtro \"Matiz, saturação, luminosidade\" foi colocada sobre três camadas com vermelho, verde e azul puros, reduzindo o contraste e a saturação.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.6.0-filter-layer.webp"
+            },
+            {
+                "id": "2",
+                "title": "■ Novo filtro de pontilhamento",
+                "body": "Adicionamos um filtro de pontilhamento que binariza de acordo com a cor ou a transparência.\nEm \"Modo\", você pode escolher entre \"RGBA\", que aplica o pontilhamento a todos os canais, e \"Somente opacidade\", que o aplica apenas ao canal alfa.\nEm \"Limiar\", você pode ajustar o limiar do pontilhamento.\nEm \"Tamanho do ponto\", você pode ajustar o tamanho dos pontos do padrão.\nA imagem abaixo mostra um gradiente desenhado com pincel (em cima) e o resultado de copiá-lo e aplicar o filtro de pontilhamento (embaixo).",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.6.0-dither.webp"
+            },
+            {
+                "id": "3",
+                "title": "■ Novo botão para criar pastas de camadas",
+                "body": "Adicionamos o botão \"Adicionar pasta\" ao menu aberto em ... no painel de camadas. Antes, só era possível criar pastas arrastando uma camada sobre outra; agora você pode criá-las diretamente."
+            },
+            {
+                "id": "4",
+                "title": "■ Melhorias de estabilidade",
+                "body": "・Melhoramos a compatibilidade dos arquivos PSD exportados\n・A exportação para PSD ficou mais rápida\n・Corrigimos um problema em que as cores usadas com o preenchimento com laço ou o pincel slime não eram adicionadas ao histórico de cores\n・Corrigimos um problema em que os números da interface tremiam ao mudar\n・Corrigimos um problema em que a rotação do pincel era aplicada no sentido contrário com a tela espelhada\n・Outras correções de bugs"
+            }
+        ]
+    },
+    {
+        "id": "2026-01-20-1",
+        "version": "1.5.0",
+        "title": "Novidades da versão 1.5.0",
+        "publishedAt": "2026-01-20T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Histórico de cores e amostras",
+                "body": "Adicionamos o histórico de cores e as amostras ao seletor de cores.\nToque em uma célula para escolher essa cor.\nMantenha pressionada uma célula das amostras (segunda linha) para substituí-la pela cor atual.\nVocê pode mostrar ou ocultar o histórico de cores e as amostras nas configurações.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.5.0-color-history-and-swatch.webp"
+            }
+        ]
+    },
+    {
+        "id": "2026-01-15-1",
+        "version": "1.4.0",
+        "title": "Novidades da versão 1.4.0",
+        "publishedAt": "2026-01-15T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Nova ferramenta Liquefazer",
+                "body": "Adicionamos a ferramenta Liquefazer, que deforma uma camada conforme você traça sobre ela.\nÉ compatível com os modos empurrar, expandir, contrair, girar e redefinir.\nSe você usa um Apple Pencil Pro, também pode controlar o giro rotacionando a caneta no modo empurrar.\nO parâmetro \"Suavidade\" ajusta a suavidade da borda da deformação,\ne o parâmetro \"Força\" ajusta a intensidade da deformação.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.4.0-liquify.webp"
+            },
+            {
+                "id": "2",
+                "title": "■ Exportação para PSD",
+                "body": "Agora você pode escolher PSD no menu de exportação.\nVocê pode continuar editando em outras ferramentas mantendo a estrutura de camadas.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.4.0-export-psd.webp"
+            },
+            {
+                "id": "3",
+                "title": "■ Importação de PSD",
+                "body": "Agora você pode importar e editar arquivos PSD do app Arquivos ou da sua fototeca. Escolha o Micapaint como destino no menu Compartilhar do arquivo.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.4.0-import-psd.webp"
+            },
+            {
+                "id": "4",
+                "title": "■ Compatibilidade com o design do iPadOS 26",
+                "body": "A interface das ferramentas agora segue o design do iPadOS 26. Corrigimos problemas como os controles da janela ocultarem o botão para voltar à galeria."
+            },
+            {
+                "id": "5",
+                "title": "■ Melhorias de estabilidade",
+                "body": "・Corrigimos um problema em que o botão para excluir a tradução de um nome de pincel sempre excluía o primeiro item\n・Corrigimos o layout desorganizado ao reduzir a largura da barra lateral\n・Outras correções de bugs"
+            }
+        ]
+    },
+    {
+        "id": "2025-11-27-1",
+        "version": "1.3.1",
+        "title": "Novidades da versão 1.3.1",
+        "publishedAt": "2025-11-27T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Corrigimos um erro ao importar imagens",
+                "body": "Corrigimos um problema da v1.3.0 em que aparecia um erro ao tocar no botão para importar uma imagem em uma camada."
+            }
+        ]
+    },
+    {
+        "id": "2025-11-21-1",
+        "version": "1.3.0",
+        "title": "Novidades da versão 1.3.0",
+        "publishedAt": "2025-11-21T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Salve a tela explicitamente",
+                "body": "Adicionamos uma opção para salvar sem sair ao tocar no botão para voltar à galeria. Ativando \"Sempre salvar e voltar à galeria\", o comportamento volta a ser o de antes.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.3.0-save.gif"
+            },
+            {
+                "id": "2",
+                "title": "■ Rotação e espelhamento de camadas",
+                "body": "Adicionamos botões para girar e espelhar camadas no painel da ferramenta Transformar.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.3.0-rotate-flip-layer.webp"
+            },
+            {
+                "id": "3",
+                "title": "■ Melhorias de estabilidade",
+                "body": "・Corrigimos um problema em que a tela não era salva ao voltar à galeria durante a edição de um filtro\n・Corrigimos um problema em que o conteúdo de uma camada era danificado ao fazer outra operação de camada durante a edição de um filtro\n・Corrigimos um problema em que o bloqueio alfa não funcionava com o pincel slime\n・Outras correções de bugs"
+            }
+        ]
+    },
+    {
+        "id": "2025-11-08-1",
+        "version": "1.2.0",
+        "title": "Novidades da versão 1.2.0",
+        "publishedAt": "2025-11-08T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Ajuste de saturação que preserva o brilho",
+                "body": "No filtro \"Matiz, saturação, luminosidade\", ao escolher \"Perceptual\", agora você pode ajustar a saturação preservando o brilho das cores.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.2.0-perceptual.webp",
+                "imageCaption": "Original / Saturação perceptual -100 / Saturação tradicional -100"
+            },
+            {
+                "id": "2",
+                "title": "■ Crie uma camada que mescla todas as camadas",
+                "body": "Toque em \"Adicionar camada mesclada\" no menu de camadas para adicionar, acima da camada atual, uma camada que mescla todas as camadas.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.2.0-merge.gif"
+            },
+            {
+                "id": "3",
+                "title": "■ Deslize uma camada para a esquerda para excluí-la",
+                "body": "Ao deslizar uma camada ou pasta para a esquerda, agora aparece o botão Excluir.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.2.0-delete.gif"
+            },
+            {
+                "id": "4",
+                "title": "■ Dicas de ferramentas",
+                "body": "Ao passar o Apple Pencil sobre um botão, agora a descrição dele é exibida (somente em modelos compatíveis com a detecção da caneta à distância)."
+            },
+            {
+                "id": "5",
+                "title": "■ Melhorias de estabilidade",
+                "body": "・Corrigimos um problema em que o valor da matiz podia saltar no seletor de cores\n・A aparência dos botões Desfazer / Refazer agora indica se estão disponíveis\n・Outras correções de bugs"
+            }
+        ]
+    }
+]

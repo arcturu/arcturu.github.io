@@ -1,0 +1,454 @@
+[
+    {
+        "id": "2026-10-06-1",
+        "version": "1.14.0",
+        "title": "Có gì mới trong phiên bản 1.14.0",
+        "publishedAt": "2026-10-06T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Hỗ trợ cử chỉ chụm nhanh",
+                "body": "Trên màn hình khung vẽ, khi bạn chụm nhanh hai ngón tay vào, bố cục khung vẽ (vị trí, góc xoay, tỉ lệ) sẽ được đặt lại. Nếu tiếp tục mở nhanh hai ngón tay ra, khung vẽ sẽ trở về bố cục trước khi đặt lại. Bạn có thể điều chỉnh thời gian nhận diện tại Cài đặt > Cử chỉ chạm > Thời gian chụm nhanh, và đặt giá trị này thành 0 để tắt tính năng."
+            },
+            {
+                "id": "2",
+                "title": "■ Cải thiện độ ổn định",
+                "body": "・Sửa lỗi dữ liệu khung vẽ đôi khi bị quay về trạng thái trước đó\n・Sửa lỗi trên iPadOS 17, các cửa sổ bật lên như menu lớp hiển thị ở vị trí không mong muốn\n・Sửa các vấn đề khác liên quan đến độ ổn định"
+            }
+        ]
+    },
+    {
+        "id": "2026-09-20-1",
+        "version": "1.13.1",
+        "title": "Có gì mới trong phiên bản 1.13.1",
+        "publishedAt": "2026-09-20T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Cải thiện độ ổn định",
+                "body": "・Cải thiện khả năng bám theo bút của cọ\n・Cải thiện độ chính xác của nhãn giao diện\n・Sửa các vấn đề khác liên quan đến độ ổn định"
+            }
+        ]
+    },
+    {
+        "id": "2026-09-12-1",
+        "version": "1.13.0",
+        "title": "Có gì mới trong phiên bản 1.13.0",
+        "publishedAt": "2026-09-12T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Có thể di chuyển và đổi kích thước các bảng như Bộ chọn màu",
+                "body": "Giờ đây bạn có thể tách Bộ chọn màu, Bảng lớp, Bảng tham chiếu và các bảng khác khỏi thanh bên để di chuyển và đổi kích thước. Kéo thanh màu xám ở phía trên bảng để di chuyển bảng. Khi bảng đã được tách ra, kéo góc dưới bên phải của bảng để đổi kích thước.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.13.0-docking-panel.gif"
+            },
+            {
+                "id": "2",
+                "title": "■ Bảng tham chiếu hỗ trợ nhập ảnh bên ngoài và lấy màu",
+                "body": "Giờ đây bạn có thể nhập tối đa 5 ảnh bên ngoài bằng cách chạm vào Bảng tham chiếu để hiện thanh menu, rồi chạm vào biểu tượng ảnh. Ngoài ra, bạn có thể lấy màu tại vị trí ngón tay bằng cách nhấn giữ một ngón tay trên ảnh tham chiếu.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.13.0-reference-external-image-eyedropper.gif"
+            },
+            {
+                "id": "3",
+                "title": "■ Thêm tùy chọn mở rộng mẫu màu của Bộ chọn màu lên 5 hàng",
+                "body": "Bật Cài đặt > Bộ chọn màu > Nhiều mẫu màu hơn, hoặc chạm vào biểu tượng mẫu màu trong Bộ chọn màu để mở rộng mẫu màu lên 5 hàng và lưu được nhiều màu hơn.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.13.0-swatch-expansion.gif"
+            },
+            {
+                "id": "4",
+                "title": "■ Thêm tính năng điều chỉnh lực nhấn chung",
+                "body": "Giờ đây bạn có thể điều chỉnh lực nhấn của Apple Pencil trên toàn ứng dụng bằng cách chỉnh đường cong trong Cài đặt > Apple Pencil > Điều chỉnh lực nhấn."
+            },
+            {
+                "id": "5",
+                "title": "■ Các thay đổi khác",
+                "body": "・Giảm số lần phải xác nhận thủ công khi chuyển công cụ\n・Công cụ Biến đổi hỗ trợ Hoàn tác / Làm lại\n・Tăng độ phân giải của ảnh xem trước trong danh sách cọ\n・Sửa lỗi đường viền cọ đôi khi vẫn còn hiển thị sau khi di Apple Pencil phía trên màn hình mà không chạm\n・Sửa các vấn đề khác liên quan đến độ ổn định"
+            }
+        ]
+    },
+    {
+        "id": "2026-08-21-1",
+        "version": "1.12.2",
+        "title": "Có gì mới trong phiên bản 1.12.2",
+        "publishedAt": "2026-08-21T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Cải thiện độ ổn định",
+                "body": "Đã sửa lỗi cọ dùng chế độ hòa trộn “Độ mờ đục tối đa” không vẽ được trên lớp đã bật Khóa alpha."
+            }
+        ]
+    },
+    {
+        "id": "2026-08-17-1",
+        "version": "1.12.1",
+        "title": "Có gì mới trong phiên bản 1.12.1",
+        "publishedAt": "2026-08-17T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Cải thiện độ ổn định",
+                "body": "Đã sửa lỗi nét cọ đôi khi bị trễ."
+            }
+        ]
+    },
+    {
+        "id": "2026-08-12-1",
+        "version": "1.12.0",
+        "title": "Có gì mới trong phiên bản 1.12.0",
+        "publishedAt": "2026-08-12T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Thêm công cụ Xô sơn",
+                "body": "Dùng ngón tay hoặc Apple Pencil kéo nút ... trên thanh công cụ, rồi thả tại biểu tượng xô sơn trên thanh công cụ phụ hiện ra để dùng công cụ Xô sơn.\n[Nguồn phát hiện vùng]\nChọn phát hiện vùng tô trên toàn bộ khung vẽ hay trên một lớp cụ thể.\n[Phương pháp mở rộng]\nChọn cách mở rộng vùng.\nĐộ rộng cố định: Mở rộng vùng thêm đúng số pixel đặt ở [Mở rộng].\nĐến đường viền: Mở rộng vùng có hiệu chỉnh để không vượt qua đường viền.\n[Ngưỡng]\nGiá trị càng lớn thì các pixel càng khác với pixel gốc cũng được coi là vùng cần tô.\n[Mở rộng]\nMở rộng vùng thêm số pixel đã chỉ định sau khi phát hiện vùng tô.\n[Đóng khe hở]\nTô màu có hiệu chỉnh để coi vùng là khép kín ngay cả khi có khe hở rộng bằng số pixel đã chỉ định. Đặt giá trị lớn hơn 0 sẽ làm tăng tải xử lý.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.12.0-bucket.gif"
+            },
+            {
+                "id": "2",
+                "title": "■ Thêm tính năng đổi kích thước khung vẽ",
+                "body": "Truy cập từ nút “Đổi kích thước khung vẽ” ở phía trên bảng Cài đặt.\nBạn có thể đổi khung vẽ sang kích thước mong muốn bằng cách kéo các tay cầm màu xanh hiển thị trên khung vẽ hoặc thay đổi giá trị trong bảng.\nNgười dùng miễn phí được dùng tối đa 5 lần. Nâng cấp lên Pro để dùng không giới hạn.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.12.0-resize-canvas.gif"
+            },
+            {
+                "id": "3",
+                "title": "■ Các thay đổi khác",
+                "body": "・Sửa lỗi hiển thị trên màn hình đôi khi bị lỗi khi tải nặng\n・Đổi cách tính kích thước mẫu A4 từ làm tròn xuống sang làm tròn gần nhất\n・Sửa các vấn đề khác liên quan đến độ ổn định"
+            }
+        ]
+    },
+    {
+        "id": "2026-06-29-1",
+        "version": "1.11.0",
+        "title": "Có gì mới trong phiên bản 1.11.0",
+        "publishedAt": "2026-06-29T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Thêm cài đặt hiệu chỉnh vị trí đầu bút",
+                "body": "Đã thêm cài đặt hiệu chỉnh vị trí đầu bút vào phần cài đặt trên màn hình khung vẽ. Bạn có thể đặt vị trí vẽ lệch khỏi vị trí đầu bút thực tế được phát hiện."
+            },
+            {
+                "id": "2",
+                "title": "■ Các thay đổi khác",
+                "body": "・Sửa lỗi nét cọ đôi khi bị trễ\n・Sửa lỗi kết quả vẽ đôi khi bị sai lệch khi dùng cọ Slime\n・Sửa lỗi bố cục bị vỡ khi bật cài đặt trợ năng hiển thị hình dạng nút\n・Sửa lỗi một số biểu tượng không hiển thị trên iOS 17\n・Sửa các vấn đề khác liên quan đến độ ổn định"
+            }
+        ]
+    },
+    {
+        "id": "2026-05-27-1",
+        "version": "1.10.0",
+        "title": "Có gì mới trong phiên bản 1.10.0",
+        "publishedAt": "2026-05-27T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Thêm 3 bộ lọc mới",
+                "body": "[Bản đồ chuyển màu] Bộ lọc thay thế màu theo độ sáng của ảnh. Bạn cũng có thể lưu dải chuyển màu làm mẫu để dùng lại.\n[Quang sai màu] Bộ lọc tách màu của ảnh thành các kênh RGB rồi dịch lệch chúng. Hỗ trợ cả dịch lệch song song và dịch lệch đồng tâm.\n[Làm mờ Gauss] Bộ lọc làm mờ ảnh. Có thể điều chỉnh độ rộng làm mờ."
+            },
+            {
+                "id": "2",
+                "title": "■ Thêm tính năng hợp nhất lớp đang chọn và các lớp bên dưới thành một lớp mới",
+                "body": "Là một biến thể của lệnh “Thêm lớp hợp nhất”, giờ đây bạn có thể thêm một lớp chỉ hợp nhất lớp đang chọn và các lớp bên dưới nó. Tính năng này hữu ích khi bạn muốn chỉnh sửa thủ công kết quả sau khi áp dụng lớp bộ lọc."
+            },
+            {
+                "id": "3",
+                "title": "■ Các thay đổi khác",
+                "body": "・Có thể chọn loại bộ chọn màu cho màu nền\n・Sửa lỗi hiển thị bị trễ khi dùng các công cụ như vùng chọn lasso\n・Giảm độ trễ cập nhật của bảng tham chiếu\n・Sửa các vấn đề khác liên quan đến độ ổn định"
+            }
+        ]
+    },
+    {
+        "id": "2026-04-15-1",
+        "version": "1.9.0",
+        "title": "Có gì mới trong phiên bản 1.9.0",
+        "publishedAt": "2026-04-15T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Hỗ trợ sắp xếp lại danh sách khung vẽ (chỉ dành cho Pro)",
+                "body": "※ Tính năng này có sẵn sau khi mua gói nâng cấp Pro.\nGiờ đây bạn có thể sắp xếp lại thứ tự khung vẽ bằng cách nhấn giữ rồi kéo khung vẽ trên màn hình thư viện."
+            },
+            {
+                "id": "2",
+                "title": "■ Hỗ trợ xuất và nhập cọ (chỉ dành cho Pro)",
+                "body": "※ Tính năng này có sẵn sau khi mua gói nâng cấp Pro.\nGiờ đây bạn có thể xuất dữ liệu cọ ra ngoài ứng dụng và nhập dữ liệu cọ từ bên ngoài vào ứng dụng.\nCách xuất: Trên màn hình khung vẽ, mở màn hình thông số cọ, cuộn xuống dưới cùng rồi chạm vào nút “Xuất”. Hộp thoại chọn vị trí lưu sẽ hiện ra để bạn lưu vào nơi mình muốn.\nCách nhập: Chạm vào biểu tượng nhập ở phía trên màn hình thư viện rồi chọn “Nhập cọ” để mở hộp thoại chọn tệp, sau đó chọn tệp cọ để nhập."
+            },
+            {
+                "id": "3",
+                "title": "■ Thêm tính năng tạo khung vẽ từ ảnh",
+                "body": "Chạm vào biểu tượng nhập ở phía trên màn hình thư viện, rồi chọn “Tạo khung vẽ từ ảnh” để tạo khung vẽ từ một ảnh trong thư viện ảnh, hoặc chọn “Tạo khung vẽ từ tệp” để tạo khung vẽ từ một ảnh trong ứng dụng Tệp."
+            },
+            {
+                "id": "4",
+                "title": "■ Cải thiện độ ổn định",
+                "body": "Đã sửa các vấn đề liên quan đến độ ổn định của công cụ."
+            }
+        ]
+    },
+    {
+        "id": "2026-04-10-1",
+        "version": "1.8.1",
+        "title": "Có gì mới trong phiên bản 1.8.1",
+        "publishedAt": "2026-04-10T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Cải thiện độ ổn định",
+                "body": "Đã sửa các vấn đề liên quan đến độ ổn định của công cụ."
+            }
+        ]
+    },
+    {
+        "id": "2026-04-04-1",
+        "version": "1.8.0",
+        "title": "Có gì mới trong phiên bản 1.8.0",
+        "publishedAt": "2026-04-04T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Thêm tính năng bám điểm cho thanh trượt",
+                "body": "Đã thêm tính năng bám điểm cho các thanh trượt kích thước cọ, độ mờ đục và độ ổn định nét. Chạm vào biểu tượng ghim trong cửa sổ bật lên của thanh trượt để thêm hoặc xóa ghim tại vị trí hiện tại. Các giá trị lân cận sẽ bám vào vị trí đã ghim, nên nếu ghim sẵn các kích thước cọ hay dùng, bạn có thể chọn chúng dễ dàng.\nBạn cũng có thể dùng menu của biểu tượng ... để sao chép tất cả ghim cùng lúc rồi dán sang cọ khác.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.8.0-snap.webp"
+            },
+            {
+                "id": "2",
+                "title": "■ Cải thiện độ ổn định",
+                "body": "Đã sửa các vấn đề liên quan đến độ ổn định của công cụ."
+            }
+        ]
+    },
+    {
+        "id": "2026-03-25-1",
+        "version": "1.7.3",
+        "title": "Có gì mới trong phiên bản 1.7.3",
+        "publishedAt": "2026-03-25T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Cải thiện độ ổn định",
+                "body": "・Sửa lỗi tay cầm của công cụ Biến đổi đôi khi nhảy sai vị trí\n・Sửa lỗi xuất hiện nhiễu ở mép nét cọ khi dùng lớp bộ lọc Dithering\n・Sửa lỗi những thay đổi mới nhất đôi khi không được phản ánh khi tạo bản sao khung vẽ\n・Sửa các lỗi khác"
+            }
+        ]
+    },
+    {
+        "id": "2026-02-25-1",
+        "version": "1.7.1",
+        "title": "Có gì mới trong phiên bản 1.7.1",
+        "publishedAt": "2026-02-25T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Cải thiện độ ổn định",
+                "body": "Đã sửa các vấn đề liên quan đến độ ổn định của công cụ."
+            }
+        ]
+    },
+    {
+        "id": "2026-02-22-1",
+        "version": "1.7.0",
+        "title": "Có gì mới trong phiên bản 1.7.0",
+        "publishedAt": "2026-02-22T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Thêm bộ chọn màu hình tam giác",
+                "body": "Đã thêm bộ chọn màu có vùng chọn độ sáng và độ bão hòa hình tam giác."
+            },
+            {
+                "id": "2",
+                "title": "■ Cải thiện độ ổn định",
+                "body": "Đã sửa các vấn đề liên quan đến độ ổn định của công cụ."
+            }
+        ]
+    },
+    {
+        "id": "2026-02-20-1",
+        "version": "1.6.1",
+        "title": "Có gì mới trong phiên bản 1.6.1",
+        "publishedAt": "2026-02-20T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Cải thiện độ ổn định",
+                "body": "Đã sửa các vấn đề liên quan đến độ ổn định của công cụ."
+            }
+        ]
+    },
+    {
+        "id": "2026-02-14-1",
+        "version": "1.6.0",
+        "title": "Có gì mới trong phiên bản 1.6.0",
+        "publishedAt": "2026-02-14T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Thêm tính năng lớp bộ lọc (lớp điều chỉnh không phá hủy)",
+                "body": "Đã thêm tính năng lớp bộ lọc, cho phép áp dụng bộ lọc lên kết quả kết hợp của các lớp bên dưới. Bạn có thể thêm bằng cách chạm vào biểu tượng bộ lọc trong Bảng lớp rồi chọn menu “Tạo lớp bộ lọc”.\nPhạm vi áp dụng của lớp bộ lọc có thể được kiểm soát bằng mặt nạ cắt và thư mục. Khi bật mặt nạ cắt cho lớp bộ lọc, bộ lọc sẽ được áp dụng lên nội dung của lớp ngay bên dưới. Khi đặt lớp bộ lọc trong một thư mục, bộ lọc sẽ được áp dụng lên kết quả kết hợp của các lớp nằm dưới nó trong thư mục đó.\nẢnh dưới đây là ví dụ đặt lớp bộ lọc “Sắc độ, độ bão hòa, độ sáng” lên trên 3 lớp được tô màu đỏ, xanh lục và xanh lam thuần, rồi giảm độ tương phản và độ bão hòa.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.6.0-filter-layer.webp"
+            },
+            {
+                "id": "2",
+                "title": "■ Thêm bộ lọc Dithering",
+                "body": "Đã thêm bộ lọc Dithering, chuyển ảnh thành hai mức theo màu hoặc độ trong suốt.\nTrong “Chế độ”, bạn có thể chọn “RGBA” để dithering mọi kênh, hoặc “Chỉ độ mờ đục” để chỉ dithering kênh alpha.\n“Ngưỡng” cho phép điều chỉnh ngưỡng dithering.\n“Kích thước điểm” cho phép điều chỉnh kích thước các điểm của mẫu dithering.\nẢnh dưới đây là ví dụ về một dải chuyển màu vẽ bằng cọ (phía trên) và kết quả sau khi sao chép rồi áp dụng bộ lọc Dithering (phía dưới).",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.6.0-dither.webp"
+            },
+            {
+                "id": "3",
+                "title": "■ Thêm nút tạo thư mục lớp",
+                "body": "Đã thêm nút “Thêm thư mục” vào menu mở từ nút ... trong Bảng lớp. Trước đây, bạn chỉ có thể tạo thư mục bằng cách kéo một lớp thả lên lớp khác. Giờ đây bạn có thể tạo thư mục một cách trực tiếp."
+            },
+            {
+                "id": "4",
+                "title": "■ Cải thiện độ ổn định",
+                "body": "・Cải thiện khả năng tương thích của tệp PSD được xuất\n・Tăng tốc độ xuất tệp PSD\n・Sửa lỗi màu vẽ bằng Tô màu lasso / cọ Slime không được thêm vào lịch sử màu\n・Sửa lỗi các con số trên giao diện bị giật khi thay đổi\n・Sửa lỗi hướng xoay của cọ bị đảo ngược khi đang lật ngang khung vẽ\n・Sửa các lỗi khác"
+            }
+        ]
+    },
+    {
+        "id": "2026-01-20-1",
+        "version": "1.5.0",
+        "title": "Có gì mới trong phiên bản 1.5.0",
+        "publishedAt": "2026-01-20T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Thêm lịch sử màu và mẫu màu",
+                "body": "Đã thêm lịch sử màu và mẫu màu vào Bộ chọn màu.\nChạm vào từng ô để chọn màu.\nNhấn giữ một ô mẫu màu (hàng thứ hai) để ghi đè bằng màu hiện tại.\nBạn có thể bật/tắt hiển thị lịch sử màu và mẫu màu trong Cài đặt.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.5.0-color-history-and-swatch.webp"
+            }
+        ]
+    },
+    {
+        "id": "2026-01-15-1",
+        "version": "1.4.0",
+        "title": "Có gì mới trong phiên bản 1.4.0",
+        "publishedAt": "2026-01-15T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Thêm công cụ Hóa lỏng",
+                "body": "Đã thêm công cụ Hóa lỏng, cho phép biến dạng lớp bằng cách vuốt lên trên lớp.\nHỗ trợ các chế độ Đẩy, Phình ra, Thu vào, Xoắn và Đặt lại.\nNếu dùng Apple Pencil Pro, bạn cũng có thể điều khiển góc xoay bằng cách xoay thân bút ở chế độ Đẩy.\nTham số “Độ mềm” điều chỉnh độ mượt của đường biên vùng biến dạng,\nvà tham số “Độ mạnh” điều chỉnh mức độ biến dạng.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.4.0-liquify.webp"
+            },
+            {
+                "id": "2",
+                "title": "■ Hỗ trợ xuất tệp PSD",
+                "body": "Giờ đây bạn có thể chọn PSD trong menu Xuất.\nBạn có thể chỉnh sửa tệp trong các công cụ khác mà vẫn giữ nguyên cấu trúc lớp.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.4.0-export-psd.webp"
+            },
+            {
+                "id": "3",
+                "title": "■ Hỗ trợ nhập tệp PSD",
+                "body": "Giờ đây bạn có thể nhập và chỉnh sửa tệp PSD từ ứng dụng Tệp hoặc thư viện ảnh. Hãy chọn Micapaint làm đích chia sẻ trong menu của tệp.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.4.0-import-psd.webp"
+            },
+            {
+                "id": "4",
+                "title": "■ Hỗ trợ thiết kế iPadOS 26",
+                "body": "Giao diện công cụ đã hỗ trợ thiết kế của iPadOS 26. Đã sửa các vấn đề giao diện như nút quay lại thư viện bị các nút điều khiển cửa sổ che khuất."
+            },
+            {
+                "id": "5",
+                "title": "■ Cải thiện độ ổn định",
+                "body": "・Sửa lỗi khi nhấn nút xóa bản dịch tên cọ thì mục trên cùng luôn bị xóa\n・Sửa lỗi bố cục bị vỡ khi thu hẹp độ rộng thanh bên\n・Sửa các lỗi khác"
+            }
+        ]
+    },
+    {
+        "id": "2025-11-27-1",
+        "version": "1.3.1",
+        "title": "Có gì mới trong phiên bản 1.3.1",
+        "publishedAt": "2025-11-27T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Sửa lỗi không nhập được ảnh",
+                "body": "Đã sửa lỗi xuất hiện từ v1.3.0, khiến việc nhấn nút nhập ảnh vào lớp gây ra lỗi."
+            }
+        ]
+    },
+    {
+        "id": "2025-11-21-1",
+        "version": "1.3.0",
+        "title": "Có gì mới trong phiên bản 1.3.0",
+        "publishedAt": "2025-11-21T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Lưu khung vẽ một cách chủ động",
+                "body": "Đã thêm tùy chọn chỉ lưu mà không quay lại khi nhấn nút quay lại thư viện. Bật “Luôn lưu và quay lại thư viện” để dùng cách hoạt động như trước.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.3.0-save.gif"
+            },
+            {
+                "id": "2",
+                "title": "■ Xoay và lật lớp",
+                "body": "Đã thêm các nút xoay và lật lớp vào bảng thao tác của công cụ Biến đổi.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.3.0-rotate-flip-layer.webp"
+            },
+            {
+                "id": "3",
+                "title": "■ Cải thiện độ ổn định",
+                "body": "・Sửa lỗi khung vẽ không được lưu khi quay lại thư viện trong lúc đang chỉnh sửa bộ lọc\n・Sửa lỗi nội dung lớp bị hỏng khi thực hiện thao tác khác trên lớp trong lúc đang chỉnh sửa bộ lọc\n・Sửa lỗi Khóa alpha không có tác dụng với cọ Slime\n・Sửa các lỗi khác"
+            }
+        ]
+    },
+    {
+        "id": "2025-11-08-1",
+        "version": "1.2.0",
+        "title": "Có gì mới trong phiên bản 1.2.0",
+        "publishedAt": "2025-11-08T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Điều chỉnh độ bão hòa mà vẫn giữ độ sáng",
+                "body": "Khi chọn “Theo cảm nhận” trong bộ lọc “Sắc độ, độ bão hòa, độ sáng”, giờ đây bạn có thể điều chỉnh độ bão hòa mà vẫn giữ nguyên độ sáng của màu.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.2.0-perceptual.webp",
+                "imageCaption": "Ảnh gốc / Theo cảm nhận, độ bão hòa -100 / Truyền thống, độ bão hòa -100"
+            },
+            {
+                "id": "2",
+                "title": "■ Tạo lớp hợp nhất từ tất cả các lớp",
+                "body": "Giờ đây khi chọn “Thêm lớp hợp nhất” từ menu lớp, một lớp hợp nhất tất cả các lớp sẽ được thêm lên trên lớp hiện tại.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.2.0-merge.gif"
+            },
+            {
+                "id": "3",
+                "title": "■ Vuốt sang trái trên lớp để xóa",
+                "body": "Giờ đây khi vuốt sang trái trên một lớp hoặc thư mục, nút Xóa sẽ hiện ra.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.2.0-delete.gif"
+            },
+            {
+                "id": "4",
+                "title": "■ Hiển thị chú thích công cụ",
+                "body": "Giờ đây khi đưa Apple Pencil lại gần màn hình, phía trên một nút mà không chạm vào, phần mô tả của nút đó sẽ hiện ra. (Chỉ trên thiết bị hỗ trợ di Apple Pencil phía trên màn hình)"
+            },
+            {
+                "id": "5",
+                "title": "■ Cải thiện độ ổn định",
+                "body": "・Sửa lỗi giá trị sắc độ đôi khi bị nhảy trong Bộ chọn màu\n・Giao diện nút giờ thể hiện việc có thể Hoàn tác / Làm lại hay không\n・Sửa các lỗi khác"
+            }
+        ]
+    }
+]

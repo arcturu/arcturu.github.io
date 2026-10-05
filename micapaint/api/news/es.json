@@ -1,0 +1,454 @@
+[
+    {
+        "id": "2026-10-06-1",
+        "version": "1.14.0",
+        "title": "Novedades de la versión 1.14.0",
+        "publishedAt": "2026-10-06T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Compatibilidad con el gesto de pellizco rápido",
+                "body": "En la pantalla del lienzo, al pellizcar rápidamente hacia dentro con dos dedos, se restablece la disposición del lienzo (posición, rotación y escala). Si a continuación se pellizca rápidamente hacia fuera con dos dedos, se vuelve a la disposición anterior al restablecimiento. El tiempo de detección se puede ajustar en Configuración > Gestos táctiles > Duración del pellizco rápido, y esta función se puede desactivar estableciéndolo en 0."
+            },
+            {
+                "id": "2",
+                "title": "■ Mejoras de estabilidad",
+                "body": "・Se corrigió un problema por el que los datos del lienzo podían revertirse a un estado anterior\n・Se corrigió un problema en iPadOS 17 por el que las ventanas emergentes, como el menú de capas, aparecían en una posición no deseada\n・Se corrigieron otros problemas relacionados con la estabilidad"
+            }
+        ]
+    },
+    {
+        "id": "2026-09-20-1",
+        "version": "1.13.1",
+        "title": "Novedades de la versión 1.13.1",
+        "publishedAt": "2026-09-20T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Mejoras de estabilidad",
+                "body": "・Se mejoró el seguimiento del lápiz por parte del pincel\n・Se mejoró la precisión de las etiquetas de la interfaz\n・Se corrigieron otros problemas relacionados con la estabilidad"
+            }
+        ]
+    },
+    {
+        "id": "2026-09-12-1",
+        "version": "1.13.0",
+        "title": "Novedades de la versión 1.13.0",
+        "publishedAt": "2026-09-12T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Mueve y cambia el tamaño de paneles como el selector de color",
+                "body": "Ahora puedes separar de la barra lateral el selector de color, el panel de capas, el panel de referencia y otros paneles para moverlos y cambiar su tamaño. Arrastra la barra gris de la parte superior de un panel para moverlo. Una vez separado, arrastra la esquina inferior derecha del panel para cambiar su tamaño.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.13.0-docking-panel.gif"
+            },
+            {
+                "id": "2",
+                "title": "■ Importa imágenes externas y toma colores en el panel de referencia",
+                "body": "Ahora puedes importar hasta 5 imágenes externas: toca el panel de referencia para mostrar su barra de menú y luego toca el ícono de foto. Además, puedes tomar el color que está debajo manteniendo presionada una imagen de referencia con un dedo.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.13.0-reference-external-image-eyedropper.gif"
+            },
+            {
+                "id": "3",
+                "title": "■ Opción para ampliar las muestras del selector de color a 5 filas",
+                "body": "Activa Configuración > Selector de color > Más muestras, o toca el ícono de muestras en el panel del selector de color, para ampliar las muestras a 5 filas y guardar más colores.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.13.0-swatch-expansion.gif"
+            },
+            {
+                "id": "4",
+                "title": "■ Ajuste global de la presión",
+                "body": "Ahora puedes ajustar la presión del Apple Pencil en toda la app editando la curva en Configuración > Apple Pencil > Ajuste de presión."
+            },
+            {
+                "id": "5",
+                "title": "■ Otros cambios",
+                "body": "・Se redujo la necesidad de confirmar los cambios manualmente al cambiar de herramienta\n・La herramienta Transformar ahora admite Deshacer / Rehacer\n・Se aumentó la resolución de las vistas previas en la lista de pinceles\n・Se corrigió un problema por el que el contorno del pincel podía quedarse visible después de pasar el lápiz por encima\n・Se corrigieron otros problemas relacionados con la estabilidad"
+            }
+        ]
+    },
+    {
+        "id": "2026-08-21-1",
+        "version": "1.12.2",
+        "title": "Novedades de la versión 1.12.2",
+        "publishedAt": "2026-08-21T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Mejoras de estabilidad",
+                "body": "Se corrigió un problema por el que los pinceles con el modo de fusión \"Opacidad máxima\" no podían dibujar en capas con bloqueo alfa."
+            }
+        ]
+    },
+    {
+        "id": "2026-08-17-1",
+        "version": "1.12.1",
+        "title": "Novedades de la versión 1.12.1",
+        "publishedAt": "2026-08-17T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Mejoras de estabilidad",
+                "body": "Se corrigió un problema por el que los trazos del pincel podían retrasarse."
+            }
+        ]
+    },
+    {
+        "id": "2026-08-12-1",
+        "version": "1.12.0",
+        "title": "Novedades de la versión 1.12.0",
+        "publishedAt": "2026-08-12T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Nueva herramienta de bote de pintura",
+                "body": "Para usar el bote de pintura, arrastra el botón ... de la barra de herramientas con el dedo o el Apple Pencil y suéltalo sobre el ícono del bote en la barra secundaria que aparece.\n[Detectar región desde]\nElige si la detección del relleno se hace sobre todo el lienzo o sobre una capa específica.\n[Método de expansión]\nElige cómo se expande la región.\nAncho fijo: expande la región una cantidad fija de [Expansión] píxeles.\nHasta el borde: expande la región con una corrección que evita que cruce los bordes.\n[Umbral]\nCuanto mayor sea el valor, más píxeles distintos del píxel de origen se considerarán parte del relleno.\n[Expansión]\nExpande la región la cantidad de píxeles indicada después de detectar el relleno.\n[Cierre de huecos]\nRellena con una corrección que considera la región cerrada aunque tenga huecos de la cantidad de píxeles indicada. Un valor mayor que 0 aumenta la carga de procesamiento.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.12.0-bucket.gif"
+            },
+            {
+                "id": "2",
+                "title": "■ Nueva función para cambiar el tamaño del lienzo",
+                "body": "Accede desde el botón \"Cambiar tamaño del lienzo\" en la parte superior del panel de configuración.\nPuedes cambiar el lienzo al tamaño que quieras moviendo los controles azules que aparecen sobre el lienzo o cambiando los valores del panel.\nLos usuarios gratuitos pueden usarla hasta 5 veces. Si actualizas a Pro, puedes usarla tantas veces como quieras.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.12.0-resize-canvas.gif"
+            },
+            {
+                "id": "3",
+                "title": "■ Otros cambios",
+                "body": "・Se corrigió un problema por el que la pantalla podía mostrarse distorsionada con carga alta\n・El tamaño de la plantilla A4 ahora se redondea en lugar de truncarse\n・Se corrigieron otros problemas relacionados con la estabilidad"
+            }
+        ]
+    },
+    {
+        "id": "2026-06-29-1",
+        "version": "1.11.0",
+        "title": "Novedades de la versión 1.11.0",
+        "publishedAt": "2026-06-29T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Nuevo ajuste de desplazamiento de la punta del lápiz",
+                "body": "Se agregó en la configuración de la pantalla del lienzo un ajuste para desplazar la posición de la punta del lápiz. Permite desplazar la posición donde se dibuja respecto a la posición real detectada de la punta."
+            },
+            {
+                "id": "2",
+                "title": "■ Otros cambios",
+                "body": "・Se corrigió un problema por el que el dibujo con pincel podía retrasarse\n・Se corrigió un problema por el que el resultado podía verse distorsionado al usar el pincel slime\n・Se corrigió un problema por el que el diseño podía descomponerse con el ajuste de accesibilidad para mostrar las formas de los botones activado\n・Se corrigió un problema por el que algunos íconos no se mostraban en iOS 17\n・Se corrigieron otros problemas relacionados con la estabilidad"
+            }
+        ]
+    },
+    {
+        "id": "2026-05-27-1",
+        "version": "1.10.0",
+        "title": "Novedades de la versión 1.10.0",
+        "publishedAt": "2026-05-27T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Tres filtros nuevos",
+                "body": "[Mapa de degradado] Reemplaza los colores según la luminosidad de la imagen. Los degradados se pueden guardar como plantillas y reutilizar.\n[Aberración cromática] Separa los colores de la imagen en RGB y los desplaza. Admite desplazamiento paralelo y concéntrico.\n[Desenfoque gaussiano] Desenfoca la imagen. Se puede ajustar el radio del desenfoque."
+            },
+            {
+                "id": "2",
+                "title": "■ Agrega como capa nueva la combinación de las capas debajo de la seleccionada",
+                "body": "Como variante del comando de capa \"Agregar capa combinada\", ahora puedes agregar una capa que combine solo la capa seleccionada y las que están debajo. Es útil, por ejemplo, cuando quieres editar a mano el resultado de aplicar una capa de filtro."
+            },
+            {
+                "id": "3",
+                "title": "■ Otros cambios",
+                "body": "・Ahora se puede elegir el tipo de selector de color para el color de fondo\n・Se corrigió un problema por el que el dibujo se retrasaba al usar herramientas como la selección con lazo\n・Se redujo el retraso de actualización del panel de referencia\n・Se corrigieron otros problemas relacionados con la estabilidad"
+            }
+        ]
+    },
+    {
+        "id": "2026-04-15-1",
+        "version": "1.9.0",
+        "title": "Novedades de la versión 1.9.0",
+        "publishedAt": "2026-04-15T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Reordena los lienzos de la galería (solo Pro)",
+                "body": "※ Esta función está disponible después de comprar el plan de actualización a Pro.\nAhora puedes reordenar los lienzos manteniendo presionado un lienzo en la pantalla de la galería y arrastrándolo."
+            },
+            {
+                "id": "2",
+                "title": "■ Exporta e importa pinceles (solo Pro)",
+                "body": "※ Esta función está disponible después de comprar el plan de actualización a Pro.\nAhora puedes exportar los datos de un pincel fuera de la app e importarlos desde fuera de la app.\nCómo exportar: abre la pantalla de parámetros del pincel en la pantalla del lienzo, desplázate hasta el final y toca el botón \"Exportar\". Aparecerá un diálogo para elegir dónde guardarlo.\nCómo importar: toca \"Importar pincel\" desde el ícono de importación en la parte superior de la pantalla de la galería. Se abrirá un diálogo de selección de archivos; elige un archivo de pincel para importarlo."
+            },
+            {
+                "id": "3",
+                "title": "■ Crea un lienzo a partir de una imagen",
+                "body": "Desde el ícono de importación en la parte superior de la pantalla de la galería, toca \"Crear lienzo desde fotos\" para usar una imagen de tu fototeca, o \"Crear lienzo desde archivos\" para usar una imagen de la app Archivos."
+            },
+            {
+                "id": "4",
+                "title": "■ Mejoras de estabilidad",
+                "body": "Se corrigieron problemas relacionados con la estabilidad de las herramientas."
+            }
+        ]
+    },
+    {
+        "id": "2026-04-10-1",
+        "version": "1.8.1",
+        "title": "Novedades de la versión 1.8.1",
+        "publishedAt": "2026-04-10T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Mejoras de estabilidad",
+                "body": "Se corrigieron problemas relacionados con la estabilidad de las herramientas."
+            }
+        ]
+    },
+    {
+        "id": "2026-04-04-1",
+        "version": "1.8.0",
+        "title": "Novedades de la versión 1.8.0",
+        "publishedAt": "2026-04-04T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Puntos de ajuste en los controles deslizantes",
+                "body": "Se agregaron puntos de ajuste a los controles deslizantes de tamaño del pincel, opacidad y estabilización. Toca el ícono de pin en la ventana emergente del control deslizante para agregar o quitar un pin en la posición actual. Los valores cercanos se ajustan a las posiciones fijadas, así que si fijas los tamaños de pincel que usas a menudo, podrás elegirlos fácilmente.\nDesde el menú del ícono ..., también puedes copiar todos los pines a la vez y pegarlos en otro pincel.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.8.0-snap.webp"
+            },
+            {
+                "id": "2",
+                "title": "■ Mejoras de estabilidad",
+                "body": "Se corrigieron problemas relacionados con la estabilidad de las herramientas."
+            }
+        ]
+    },
+    {
+        "id": "2026-03-25-1",
+        "version": "1.7.3",
+        "title": "Novedades de la versión 1.7.3",
+        "publishedAt": "2026-03-25T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Mejoras de estabilidad",
+                "body": "・Se corrigió un problema por el que los controles de la herramienta Transformar podían saltar a una posición incorrecta\n・Se corrigió un problema por el que aparecía ruido en los bordes de los trazos al usar una capa de filtro de tramado\n・Se corrigió un problema por el que los últimos cambios podían no reflejarse al duplicar un lienzo\n・Otras correcciones de errores"
+            }
+        ]
+    },
+    {
+        "id": "2026-02-25-1",
+        "version": "1.7.1",
+        "title": "Novedades de la versión 1.7.1",
+        "publishedAt": "2026-02-25T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Mejoras de estabilidad",
+                "body": "Se corrigieron problemas relacionados con la estabilidad de las herramientas."
+            }
+        ]
+    },
+    {
+        "id": "2026-02-22-1",
+        "version": "1.7.0",
+        "title": "Novedades de la versión 1.7.0",
+        "publishedAt": "2026-02-22T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Nuevo selector de color triangular",
+                "body": "Se agregó un selector de color con un área triangular para elegir el brillo y la saturación."
+            },
+            {
+                "id": "2",
+                "title": "■ Mejoras de estabilidad",
+                "body": "Se corrigieron problemas relacionados con la estabilidad de las herramientas."
+            }
+        ]
+    },
+    {
+        "id": "2026-02-20-1",
+        "version": "1.6.1",
+        "title": "Novedades de la versión 1.6.1",
+        "publishedAt": "2026-02-20T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Mejoras de estabilidad",
+                "body": "Se corrigieron problemas relacionados con la estabilidad de las herramientas."
+            }
+        ]
+    },
+    {
+        "id": "2026-02-14-1",
+        "version": "1.6.0",
+        "title": "Novedades de la versión 1.6.0",
+        "publishedAt": "2026-02-14T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Nuevas capas de filtro (capas de ajuste no destructivas)",
+                "body": "Se agregaron las capas de filtro, que aplican un filtro al resultado combinado de las capas de abajo. Para agregar una, toca el ícono de filtro en el panel de capas y elige \"Crear capa de filtro\".\nPuedes controlar el alcance de una capa de filtro con máscaras de recorte y carpetas. Si activas el recorte en una capa de filtro, el filtro se aplica al contenido de la capa inmediatamente inferior. Si colocas una capa de filtro dentro de una carpeta, el filtro se aplica al resultado combinado de las capas que están debajo de ella dentro de esa carpeta.\nLa imagen de abajo muestra un ejemplo en el que se colocó una capa de filtro \"Tono, saturación, luminosidad\" sobre tres capas con rojo, verde y azul puros, reduciendo el contraste y la saturación.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.6.0-filter-layer.webp"
+            },
+            {
+                "id": "2",
+                "title": "■ Nuevo filtro de tramado",
+                "body": "Se agregó un filtro de tramado que binariza según el color o la transparencia.\nEn \"Modo\" puedes elegir entre \"RGBA\", que aplica el tramado a todos los canales, y \"Solo opacidad\", que lo aplica solo al canal alfa.\nCon \"Umbral\" puedes ajustar el umbral del tramado.\nCon \"Tamaño de punto\" puedes ajustar el tamaño de los puntos del patrón.\nLa imagen de abajo muestra un degradado dibujado con pincel (arriba) y el resultado de copiarlo y aplicarle el filtro de tramado (abajo).",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.6.0-dither.webp"
+            },
+            {
+                "id": "3",
+                "title": "■ Nuevo botón para crear carpetas de capas",
+                "body": "Se agregó el botón \"Agregar carpeta\" al menú que se abre desde ... en el panel de capas. Antes, solo se podían crear carpetas arrastrando una capa sobre otra; ahora puedes crearlas directamente."
+            },
+            {
+                "id": "4",
+                "title": "■ Mejoras de estabilidad",
+                "body": "・Se mejoró la compatibilidad de los archivos PSD exportados\n・Se aceleró la exportación a PSD\n・Se corrigió un problema por el que los colores usados con el relleno con lazo o el pincel slime no se agregaban al historial de colores\n・Se corrigió un problema por el que los números de la interfaz temblaban al cambiar\n・Se corrigió un problema por el que la rotación del pincel se aplicaba en sentido contrario con el lienzo volteado\n・Otras correcciones de errores"
+            }
+        ]
+    },
+    {
+        "id": "2026-01-20-1",
+        "version": "1.5.0",
+        "title": "Novedades de la versión 1.5.0",
+        "publishedAt": "2026-01-20T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Historial de colores y muestras",
+                "body": "Se agregaron el historial de colores y las muestras al selector de color.\nToca una celda para elegir ese color.\nMantén presionada una celda de las muestras (segunda fila) para reemplazarla con el color actual.\nPuedes mostrar u ocultar el historial de colores y las muestras desde la configuración.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.5.0-color-history-and-swatch.webp"
+            }
+        ]
+    },
+    {
+        "id": "2026-01-15-1",
+        "version": "1.4.0",
+        "title": "Novedades de la versión 1.4.0",
+        "publishedAt": "2026-01-15T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Nueva herramienta Licuar",
+                "body": "Se agregó la herramienta Licuar, que deforma una capa al trazar sobre ella.\nAdmite los modos empujar, expandir, contraer, girar y restablecer.\nSi usas un Apple Pencil Pro, también puedes controlar el giro rotando el lápiz en el modo empujar.\nCon el parámetro \"Suavidad\" ajustas la suavidad del borde de la deformación,\ny con \"Fuerza\", la cantidad de deformación.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.4.0-liquify.webp"
+            },
+            {
+                "id": "2",
+                "title": "■ Exportación a PSD",
+                "body": "Ahora puedes elegir PSD en el menú de exportación.\nPuedes seguir editando en otras herramientas conservando la estructura de capas.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.4.0-export-psd.webp"
+            },
+            {
+                "id": "3",
+                "title": "■ Importación de PSD",
+                "body": "Ahora puedes importar y editar archivos PSD de la app Archivos o de tu fototeca. Elige Micapaint como destino en el menú Compartir del archivo.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.4.0-import-psd.webp"
+            },
+            {
+                "id": "4",
+                "title": "■ Compatibilidad con el diseño de iPadOS 26",
+                "body": "La interfaz de herramientas ahora sigue el diseño de iPadOS 26. Se corrigieron problemas como que los controles de ventana ocultaran el botón para volver a la galería."
+            },
+            {
+                "id": "5",
+                "title": "■ Mejoras de estabilidad",
+                "body": "・Se corrigió un problema por el que el botón para eliminar la traducción de un nombre de pincel siempre eliminaba el primer elemento\n・Se corrigió el diseño descompuesto al reducir el ancho de la barra lateral\n・Otras correcciones de errores"
+            }
+        ]
+    },
+    {
+        "id": "2025-11-27-1",
+        "version": "1.3.1",
+        "title": "Novedades de la versión 1.3.1",
+        "publishedAt": "2025-11-27T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Se corrigió un error al importar imágenes",
+                "body": "Se corrigió un problema de la v1.3.0 por el que aparecía un error al tocar el botón para importar una imagen en una capa."
+            }
+        ]
+    },
+    {
+        "id": "2025-11-21-1",
+        "version": "1.3.0",
+        "title": "Novedades de la versión 1.3.0",
+        "publishedAt": "2025-11-21T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Guarda el lienzo de forma explícita",
+                "body": "Se agregó una opción para guardar sin salir al tocar el botón para volver a la galería. Si activas \"Guardar siempre y volver a la galería\", funciona como antes.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.3.0-save.gif"
+            },
+            {
+                "id": "2",
+                "title": "■ Rotación y volteo de capas",
+                "body": "Se agregaron botones para rotar y voltear capas en el panel de la herramienta Transformar.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.3.0-rotate-flip-layer.webp"
+            },
+            {
+                "id": "3",
+                "title": "■ Mejoras de estabilidad",
+                "body": "・Se corrigió un problema por el que el lienzo no se guardaba al volver a la galería mientras se editaba un filtro\n・Se corrigió un problema por el que el contenido de una capa se dañaba al hacer otra operación de capas mientras se editaba un filtro\n・Se corrigió un problema por el que el bloqueo alfa no funcionaba con el pincel slime\n・Otras correcciones de errores"
+            }
+        ]
+    },
+    {
+        "id": "2025-11-08-1",
+        "version": "1.2.0",
+        "title": "Novedades de la versión 1.2.0",
+        "publishedAt": "2025-11-08T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Ajuste de saturación que conserva el brillo",
+                "body": "En el filtro \"Tono, saturación, luminosidad\", si eliges \"Perceptual\", ahora puedes ajustar la saturación conservando el brillo de los colores.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.2.0-perceptual.webp",
+                "imageCaption": "Original / Saturación perceptual -100 / Saturación tradicional -100"
+            },
+            {
+                "id": "2",
+                "title": "■ Crea una capa que combina todas las capas",
+                "body": "Toca \"Agregar capa combinada\" en el menú de capas para agregar, encima de la capa actual, una capa que combina todas las capas.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.2.0-merge.gif"
+            },
+            {
+                "id": "3",
+                "title": "■ Desliza una capa a la izquierda para eliminarla",
+                "body": "Al deslizar una capa o carpeta a la izquierda, ahora aparece el botón Eliminar.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.2.0-delete.gif"
+            },
+            {
+                "id": "4",
+                "title": "■ Descripciones emergentes",
+                "body": "Al pasar el Apple Pencil por encima de un botón, ahora se muestra su descripción (solo en modelos compatibles con la detección del lápiz a distancia)."
+            },
+            {
+                "id": "5",
+                "title": "■ Mejoras de estabilidad",
+                "body": "・Se corrigió un problema por el que el valor del tono podía saltar en el selector de color\n・La apariencia de los botones Deshacer / Rehacer ahora indica si están disponibles\n・Otras correcciones de errores"
+            }
+        ]
+    }
+]

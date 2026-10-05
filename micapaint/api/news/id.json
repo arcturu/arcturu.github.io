@@ -1,0 +1,454 @@
+[
+    {
+        "id": "2026-10-06-1",
+        "version": "1.14.0",
+        "title": "Pembaruan di Versi 1.14.0",
+        "publishedAt": "2026-10-06T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Dukungan Gerakan Cubit Cepat",
+                "body": "Cubit masuk dengan cepat menggunakan dua jari di layar kanvas untuk mengatur ulang tata letak kanvas (posisi, rotasi, skala). Jika setelahnya Anda langsung cubit keluar dengan cepat menggunakan dua jari, tata letak akan kembali seperti sebelum diatur ulang. Waktu deteksi dapat disesuaikan di Pengaturan > Gerakan Sentuh > Durasi Cubit Cepat. Atur ke 0 untuk menonaktifkan fitur ini."
+            },
+            {
+                "id": "2",
+                "title": "■ Peningkatan Stabilitas",
+                "body": "・Perbaikan masalah data kanvas yang terkadang kembali ke kondisi sebelumnya\n・Perbaikan masalah pop-up seperti menu lapisan yang muncul di posisi yang tidak semestinya di iPadOS 17\n・Perbaikan masalah stabilitas lainnya"
+            }
+        ]
+    },
+    {
+        "id": "2026-09-20-1",
+        "version": "1.13.1",
+        "title": "Pembaruan di Versi 1.13.1",
+        "publishedAt": "2026-09-20T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Peningkatan Stabilitas",
+                "body": "・Peningkatan respons kuas terhadap gerakan pena\n・Peningkatan akurasi label UI\n・Perbaikan masalah stabilitas lainnya"
+            }
+        ]
+    },
+    {
+        "id": "2026-09-12-1",
+        "version": "1.13.0",
+        "title": "Pembaruan di Versi 1.13.0",
+        "publishedAt": "2026-09-12T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Panel seperti Pemilih Warna Kini Dapat Dipindahkan dan Diubah Ukurannya",
+                "body": "Kini Anda dapat melepas Pemilih Warna, Panel Lapisan, Panel Referensi, dan panel lainnya dari bar samping untuk memindahkan dan mengubah ukurannya. Seret bar abu-abu di bagian atas panel untuk memindahkannya. Setelah panel dilepas, seret sudut kanan bawahnya untuk mengubah ukurannya.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.13.0-docking-panel.gif"
+            },
+            {
+                "id": "2",
+                "title": "■ Impor Gambar Eksternal dan Ambil Warna dengan Pipet di Panel Referensi",
+                "body": "Kini Anda dapat mengimpor hingga 5 gambar eksternal dengan mengetuk Panel Referensi untuk menampilkan bar menunya, lalu mengetuk ikon foto. Anda juga dapat mengambil warna di bawah jari dengan menekan lama gambar referensi menggunakan satu jari.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.13.0-reference-external-image-eyedropper.gif"
+            },
+            {
+                "id": "3",
+                "title": "■ Opsi Baru untuk Memperluas Swatch Pemilih Warna hingga 5 Baris",
+                "body": "Aktifkan Pengaturan > Pemilih Warna > Lebih Banyak Swatch, atau ketuk ikon swatch di panel Pemilih Warna, untuk memperluas swatch hingga 5 baris dan menyimpan lebih banyak warna.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.13.0-swatch-expansion.gif"
+            },
+            {
+                "id": "4",
+                "title": "■ Penyesuaian Tekanan untuk Seluruh Aplikasi",
+                "body": "Kini Anda dapat mengoreksi tekanan Apple Pencil secara merata di seluruh aplikasi dengan mengedit kurva di Pengaturan > Apple Pencil > Penyesuaian Tekanan."
+            },
+            {
+                "id": "5",
+                "title": "■ Perubahan Lainnya",
+                "body": "・Lebih sedikit konfirmasi manual yang diperlukan saat berganti alat\n・Alat Transformasi kini mendukung Urungkan / Ulangi\n・Peningkatan resolusi pratinjau di daftar kuas\n・Perbaikan masalah garis luar kuas yang ditampilkan saat pena melayang di atas layar terkadang tidak hilang\n・Perbaikan masalah stabilitas lainnya"
+            }
+        ]
+    },
+    {
+        "id": "2026-08-21-1",
+        "version": "1.12.2",
+        "title": "Pembaruan di Versi 1.12.2",
+        "publishedAt": "2026-08-21T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Peningkatan Stabilitas",
+                "body": "Memperbaiki masalah kuas dengan mode campuran “Opasitas Maksimum” yang tidak dapat menggambar pada lapisan dengan Kunci Alfa."
+            }
+        ]
+    },
+    {
+        "id": "2026-08-17-1",
+        "version": "1.12.1",
+        "title": "Pembaruan di Versi 1.12.1",
+        "publishedAt": "2026-08-17T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Peningkatan Stabilitas",
+                "body": "Memperbaiki masalah goresan kuas yang terkadang tertunda."
+            }
+        ]
+    },
+    {
+        "id": "2026-08-12-1",
+        "version": "1.12.0",
+        "title": "Pembaruan di Versi 1.12.0",
+        "publishedAt": "2026-08-12T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Alat Ember Cat Baru",
+                "body": "Seret tombol ... di bar alat dengan jari atau Apple Pencil, lalu lepaskan di atas ikon ember cat pada bar alat tambahan yang muncul untuk menggunakan alat Ember Cat.\n[Sumber Deteksi Area]\nMemilih apakah area isian dideteksi dari seluruh kanvas atau dari lapisan tertentu.\n[Metode Perluasan]\nMemilih metode yang digunakan saat memperluas area.\nLebar Tetap: Memperluas area sebanyak [Perluasan] piksel secara tetap.\nHingga Tepi: Memperluas area dengan koreksi agar tidak melewati garis tepi.\n[Ambang]\nSemakin besar nilainya, semakin banyak piksel yang warnanya berbeda dari piksel awal yang ikut diisi.\n[Perluasan]\nMemperluas area sebanyak piksel yang ditentukan setelah area isian terdeteksi.\n[Penutupan Celah]\nMengisi dengan koreksi yang menganggap area tetap tertutup meskipun ada celah selebar piksel yang ditentukan. Nilai yang lebih besar dari 0 akan menambah beban pemrosesan.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.12.0-bucket.gif"
+            },
+            {
+                "id": "2",
+                "title": "■ Fitur Ubah Ukuran Kanvas Baru",
+                "body": "Dapat diakses dari tombol “Ubah Ukuran Kanvas” di bagian atas panel Pengaturan.\nAnda dapat mengubah kanvas ke ukuran yang diinginkan dengan menyeret pegangan biru yang tampil di kanvas atau dengan mengubah nilai di panel.\nPengguna gratis dapat menggunakannya hingga 5 kali. Tingkatkan ke Pro untuk menggunakannya tanpa batas.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.12.0-resize-canvas.gif"
+            },
+            {
+                "id": "3",
+                "title": "■ Perubahan Lainnya",
+                "body": "・Perbaikan masalah tampilan layar yang terkadang rusak saat beban tinggi\n・Ukuran templat A4 kini dibulatkan ke angka terdekat, bukan dibulatkan ke bawah\n・Perbaikan masalah stabilitas lainnya"
+            }
+        ]
+    },
+    {
+        "id": "2026-06-29-1",
+        "version": "1.11.0",
+        "title": "Pembaruan di Versi 1.11.0",
+        "publishedAt": "2026-06-29T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Pengaturan Baru untuk Mengoreksi Posisi Ujung Pena",
+                "body": "Pengaturan koreksi posisi ujung pena (“Pergeseran Posisi Gambar”) telah ditambahkan ke pengaturan di layar kanvas. Anda dapat menggeser posisi goresan dari posisi ujung pena yang sebenarnya terdeteksi."
+            },
+            {
+                "id": "2",
+                "title": "■ Perubahan Lainnya",
+                "body": "・Perbaikan masalah goresan kuas yang terkadang tertunda\n・Perbaikan masalah hasil gambar yang terkadang rusak saat menggunakan Kuas Slime\n・Perbaikan masalah tata letak yang rusak saat pengaturan aksesibilitas Bentuk Tombol diaktifkan\n・Perbaikan masalah beberapa ikon yang tidak ditampilkan di iOS 17\n・Perbaikan masalah stabilitas lainnya"
+            }
+        ]
+    },
+    {
+        "id": "2026-05-27-1",
+        "version": "1.10.0",
+        "title": "Pembaruan di Versi 1.10.0",
+        "publishedAt": "2026-05-27T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Tiga Filter Baru",
+                "body": "[Peta Gradien] Filter yang mengganti warna berdasarkan kecerahan gambar. Gradien dapat disimpan sebagai templat dan digunakan kembali.\n[Aberasi Kromatik] Filter yang memisahkan warna gambar menjadi kanal RGB lalu menggesernya. Mendukung pergeseran sejajar dan pergeseran melingkar konsentris.\n[Gaussian Blur] Filter yang mengaburkan gambar. Radius kekaburan dapat diatur."
+            },
+            {
+                "id": "2",
+                "title": "■ Gabungkan Lapisan Terpilih dan Lapisan di Bawahnya menjadi Lapisan Baru",
+                "body": "Sebagai variasi dari perintah lapisan “Tambah Lapisan Gabungan”, kini Anda dapat menambahkan lapisan yang hanya menggabungkan lapisan yang sedang dipilih beserta lapisan di bawahnya. Fitur ini berguna, misalnya, saat Anda ingin mengedit secara manual hasil dari lapisan filter yang diterapkan."
+            },
+            {
+                "id": "3",
+                "title": "■ Perubahan Lainnya",
+                "body": "・Jenis Pemilih Warna untuk warna latar belakang kini dapat diganti\n・Perbaikan masalah penggambaran yang tertunda saat menggunakan alat seperti seleksi laso\n・Pengurangan jeda pembaruan panel referensi\n・Perbaikan masalah stabilitas lainnya"
+            }
+        ]
+    },
+    {
+        "id": "2026-04-15-1",
+        "version": "1.9.0",
+        "title": "Pembaruan di Versi 1.9.0",
+        "publishedAt": "2026-04-15T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Ubah Urutan Kanvas di Galeri (Khusus Pro)",
+                "body": "*Fitur ini dapat digunakan setelah membeli paket Pro.\nKini Anda dapat mengubah urutan kanvas dengan menekan lama lalu menyeret kanvas di layar utama."
+            },
+            {
+                "id": "2",
+                "title": "■ Ekspor dan Impor Kuas (Khusus Pro)",
+                "body": "*Fitur ini dapat digunakan setelah membeli paket Pro.\nKini Anda dapat mengekspor data kuas ke luar aplikasi dan mengimpornya dari luar aplikasi.\nCara mengekspor: Di layar kanvas, buka layar parameter kuas, gulir ke bagian paling bawah, lalu ketuk tombol “Ekspor”. Dialog pemilihan lokasi penyimpanan akan muncul sehingga Anda dapat menyimpannya di lokasi mana pun.\nCara mengimpor: Ketuk “Impor Kuas” dari ikon impor di bagian atas layar utama untuk membuka dialog pemilihan file, lalu pilih file kuas untuk mengimpornya."
+            },
+            {
+                "id": "3",
+                "title": "■ Buat Kanvas dengan Mengimpor Gambar",
+                "body": "Dari ikon impor di bagian atas layar utama, ketuk “Buat Kanvas dari Foto” untuk membuat kanvas dari gambar di Rol Kamera, atau ketuk “Buat Kanvas dari File” untuk membuat kanvas dari gambar di app File."
+            },
+            {
+                "id": "4",
+                "title": "■ Peningkatan Stabilitas",
+                "body": "Masalah terkait stabilitas alat telah diperbaiki."
+            }
+        ]
+    },
+    {
+        "id": "2026-04-10-1",
+        "version": "1.8.1",
+        "title": "Pembaruan di Versi 1.8.1",
+        "publishedAt": "2026-04-10T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Peningkatan Stabilitas",
+                "body": "Masalah terkait stabilitas alat telah diperbaiki."
+            }
+        ]
+    },
+    {
+        "id": "2026-04-04-1",
+        "version": "1.8.0",
+        "title": "Fitur Baru di Versi 1.8.0",
+        "publishedAt": "2026-04-04T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Fitur Snap pada Slider",
+                "body": "Fitur snap telah ditambahkan ke slider ukuran kuas, opasitas, dan kekuatan stabilisasi. Ketuk ikon pin di popup slider untuk menambahkan atau menghapus pin pada posisi saat ini. Nilai di sekitar pin akan menempel ke posisi pin tersebut, sehingga ukuran kuas yang sering digunakan mudah dipilih jika Anda memasang pin di sana.\nMelalui menu ikon ..., Anda juga dapat menyalin semua pin sekaligus dan menempelkannya ke kuas lain.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.8.0-snap.webp"
+            },
+            {
+                "id": "2",
+                "title": "■ Peningkatan Stabilitas",
+                "body": "Masalah terkait stabilitas alat telah diperbaiki."
+            }
+        ]
+    },
+    {
+        "id": "2026-03-25-1",
+        "version": "1.7.3",
+        "title": "Pembaruan di Versi 1.7.3",
+        "publishedAt": "2026-03-25T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Peningkatan Stabilitas",
+                "body": "・Perbaikan masalah posisi pegangan alat Transformasi yang terkadang melompat\n・Perbaikan masalah derau di tepi goresan kuas saat menggunakan lapisan filter Dithering\n・Perbaikan masalah perubahan terbaru yang terkadang tidak ikut tersalin saat menduplikatkan kanvas\n・Perbaikan bug lainnya"
+            }
+        ]
+    },
+    {
+        "id": "2026-02-25-1",
+        "version": "1.7.1",
+        "title": "Pembaruan di Versi 1.7.1",
+        "publishedAt": "2026-02-25T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Peningkatan Stabilitas",
+                "body": "Masalah terkait stabilitas alat telah diperbaiki."
+            }
+        ]
+    },
+    {
+        "id": "2026-02-22-1",
+        "version": "1.7.0",
+        "title": "Fitur Baru di Versi 1.7.0",
+        "publishedAt": "2026-02-22T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Pemilih Warna Segitiga",
+                "body": "Pemilih warna baru dengan area segitiga untuk memilih kecerahan dan saturasi telah ditambahkan."
+            },
+            {
+                "id": "2",
+                "title": "■ Peningkatan Stabilitas",
+                "body": "Masalah terkait stabilitas alat telah diperbaiki."
+            }
+        ]
+    },
+    {
+        "id": "2026-02-20-1",
+        "version": "1.6.1",
+        "title": "Pembaruan di Versi 1.6.1",
+        "publishedAt": "2026-02-20T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Peningkatan Stabilitas",
+                "body": "Masalah terkait stabilitas alat telah diperbaiki."
+            }
+        ]
+    },
+    {
+        "id": "2026-02-14-1",
+        "version": "1.6.0",
+        "title": "Fitur Baru di Versi 1.6.0",
+        "publishedAt": "2026-02-14T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Lapisan Filter (Lapisan Penyesuaian Non-Destruktif)",
+                "body": "Fitur lapisan filter telah ditambahkan, yang memungkinkan Anda menerapkan filter pada hasil gabungan lapisan di bawahnya. Untuk menambahkannya, ketuk ikon filter di Panel Lapisan, lalu pilih menu “Buat Lapisan Filter”.\nCakupan lapisan filter dapat diatur dengan Clipping Mask dan folder. Jika Clipping Mask diaktifkan pada lapisan filter, filter diterapkan pada isi lapisan tepat di bawahnya. Jika lapisan filter ditempatkan di dalam folder, filter diterapkan pada hasil gabungan semua lapisan di bawahnya dalam folder tersebut.\nGambar di bawah ini menunjukkan contoh lapisan filter “Rona, Saturasi, Kecerahan” yang ditumpuk di atas tiga lapisan berisi warna merah, hijau, dan biru murni, dengan kontras dan saturasi diturunkan.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.6.0-filter-layer.webp"
+            },
+            {
+                "id": "2",
+                "title": "■ Filter Dithering",
+                "body": "Filter Dithering baru mengubah gambar menjadi dua nilai berdasarkan warna atau transparansi.\nDi “Mode”, Anda dapat memilih “RGBA” untuk menerapkan dithering ke semua kanal, atau “Hanya Opasitas” untuk menerapkannya hanya ke kanal alfa.\n“Ambang” mengatur ambang dithering.\n“Ukuran Titik” mengatur ukuran titik pada pola dithering.\nGambar di bawah ini menunjukkan contoh gradien yang digambar dengan kuas (atas) dan hasil setelah gradien tersebut disalin lalu diberi filter Dithering (bawah).",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.6.0-dither.webp"
+            },
+            {
+                "id": "3",
+                "title": "■ Tombol untuk Membuat Folder Lapisan",
+                "body": "Tombol “Tambah Folder” telah ditambahkan ke menu yang dibuka dari tombol ... di Panel Lapisan. Sebelumnya, folder hanya dapat dibuat dengan menyeret lapisan ke atas lapisan lain. Kini Anda dapat membuat folder secara langsung."
+            },
+            {
+                "id": "4",
+                "title": "■ Peningkatan Stabilitas",
+                "body": "・Peningkatan kompatibilitas file PSD yang diekspor\n・Ekspor file PSD yang lebih cepat\n・Perbaikan masalah warna yang digambar dengan Isian Laso / Kuas Slime tidak masuk ke riwayat warna\n・Perbaikan masalah angka di UI yang bergetar saat berubah\n・Perbaikan masalah rotasi kuas yang diterapkan ke arah berlawanan saat tampilan kanvas dibalik\n・Perbaikan bug lainnya"
+            }
+        ]
+    },
+    {
+        "id": "2026-01-20-1",
+        "version": "1.5.0",
+        "title": "Fitur Baru di Versi 1.5.0",
+        "publishedAt": "2026-01-20T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Riwayat Warna dan Swatch",
+                "body": "Riwayat warna dan swatch telah ditambahkan ke Pemilih Warna.\nKetuk sel untuk memilih warnanya.\nTekan lama sel swatch (baris kedua) untuk menimpanya dengan warna saat ini.\nAnda dapat menampilkan atau menyembunyikan riwayat warna dan swatch di Pengaturan.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.5.0-color-history-and-swatch.webp"
+            }
+        ]
+    },
+    {
+        "id": "2026-01-15-1",
+        "version": "1.4.0",
+        "title": "Fitur Baru di Versi 1.4.0",
+        "publishedAt": "2026-01-15T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Alat Liquify",
+                "body": "Alat Liquify telah ditambahkan, yang memungkinkan Anda mengubah bentuk lapisan dengan menyapukan jari atau pena di atasnya.\nTersedia mode Dorong, Kembungkan, Kerutkan, Putar, dan Atur Ulang.\nJika Anda menggunakan Apple Pencil Pro, Anda juga dapat mengatur rotasi dengan memutar pena dalam mode Dorong.\nParameter “Kelembutan” mengatur kehalusan tepi area yang diubah bentuknya,\ndan parameter “Kekuatan” mengatur besarnya perubahan bentuk.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.4.0-liquify.webp"
+            },
+            {
+                "id": "2",
+                "title": "■ Dukungan Ekspor File PSD",
+                "body": "Kini Anda dapat memilih PSD di menu ekspor.\nAnda dapat mengeditnya di aplikasi lain dengan struktur lapisan tetap terjaga.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.4.0-export-psd.webp"
+            },
+            {
+                "id": "3",
+                "title": "■ Dukungan Impor File PSD",
+                "body": "Kini Anda dapat mengimpor dan mengedit file PSD dari app File atau Rol Kamera. Pilih Micapaint sebagai tujuan dari menu Bagikan pada file tersebut.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.4.0-import-psd.webp"
+            },
+            {
+                "id": "4",
+                "title": "■ Dukungan Desain iPadOS 26",
+                "body": "UI alat kini mendukung desain iPadOS 26. Masalah UI, seperti tombol kembali ke Galeri yang tertutup oleh kontrol jendela, telah diperbaiki."
+            },
+            {
+                "id": "5",
+                "title": "■ Peningkatan Stabilitas",
+                "body": "・Perbaikan masalah tombol hapus terjemahan nama kuas yang selalu menghapus item paling atas\n・Perbaikan tata letak yang rusak saat bar samping dipersempit\n・Perbaikan bug lainnya"
+            }
+        ]
+    },
+    {
+        "id": "2025-11-27-1",
+        "version": "1.3.1",
+        "title": "Pembaruan di Versi 1.3.1",
+        "publishedAt": "2025-11-27T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Perbaikan Masalah Gagal Mengimpor Gambar",
+                "body": "Memperbaiki masalah di v1.3.0 yang menyebabkan kesalahan saat menekan tombol untuk mengimpor gambar ke lapisan."
+            }
+        ]
+    },
+    {
+        "id": "2025-11-21-1",
+        "version": "1.3.0",
+        "title": "Fitur Baru di Versi 1.3.0",
+        "publishedAt": "2025-11-21T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Simpan Kanvas secara Eksplisit",
+                "body": "Opsi untuk menyimpan tanpa kembali ke Galeri saat menekan tombol Galeri telah ditambahkan. Aktifkan “Selalu Simpan dan Kembali ke Galeri” untuk menggunakan perilaku sebelumnya.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.3.0-save.gif"
+            },
+            {
+                "id": "2",
+                "title": "■ Putar dan Balik Lapisan",
+                "body": "Tombol untuk memutar dan membalik lapisan telah ditambahkan ke panel kontrol alat Transformasi.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.3.0-rotate-flip-layer.webp"
+            },
+            {
+                "id": "3",
+                "title": "■ Peningkatan Stabilitas",
+                "body": "・Perbaikan masalah kanvas tidak tersimpan saat kembali ke Galeri ketika sedang mengedit filter\n・Perbaikan masalah isi lapisan yang rusak saat melakukan operasi lapisan lain ketika sedang mengedit filter\n・Perbaikan masalah Kunci Alfa yang tidak berfungsi pada Kuas Slime\n・Perbaikan bug lainnya"
+            }
+        ]
+    },
+    {
+        "id": "2025-11-08-1",
+        "version": "1.2.0",
+        "title": "Fitur Baru di Versi 1.2.0",
+        "publishedAt": "2025-11-08T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Atur Saturasi dengan Kecerahan Tetap Terjaga",
+                "body": "Pilih “Perseptual” di filter “Rona, Saturasi, Kecerahan” untuk mengatur saturasi sambil mempertahankan kecerahan warna.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.2.0-perceptual.webp",
+                "imageCaption": "Asli / Saturasi Perseptual -100 / Saturasi Tradisional -100"
+            },
+            {
+                "id": "2",
+                "title": "■ Buat Lapisan dari Gabungan Semua Lapisan",
+                "body": "Ketuk “Tambah Lapisan Gabungan” di menu lapisan untuk menambahkan lapisan baru berisi gabungan semua lapisan tepat di atas lapisan saat ini.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.2.0-merge.gif"
+            },
+            {
+                "id": "3",
+                "title": "■ Geser ke Kiri untuk Menghapus Lapisan",
+                "body": "Geser lapisan atau folder ke kiri untuk menampilkan tombol Hapus.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.2.0-delete.gif"
+            },
+            {
+                "id": "4",
+                "title": "■ Tampilkan Keterangan Tombol",
+                "body": "Dekatkan ujung Apple Pencil ke layar di atas tombol tanpa menyentuhnya (hover) untuk menampilkan keterangan tombol tersebut. (Hanya pada perangkat yang mendukung hover)"
+            },
+            {
+                "id": "5",
+                "title": "■ Peningkatan Stabilitas",
+                "body": "・Perbaikan masalah nilai rona di Pemilih Warna yang terkadang melompat\n・Tampilan tombol Urungkan / Ulangi kini menunjukkan apakah tindakan tersebut tersedia\n・Perbaikan bug lainnya"
+            }
+        ]
+    }
+]

@@ -1,0 +1,454 @@
+[
+    {
+        "id": "2026-10-06-1",
+        "version": "1.14.0",
+        "title": "Neuerungen in Version 1.14.0",
+        "publishedAt": "2026-10-06T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Unterstützung für schnelle Pinch-Gesten",
+                "body": "Wenn du auf dem Leinwand-Bildschirm zwei Finger schnell zusammenziehst, wird die Leinwandanordnung (Position, Drehung, Skalierung) zurückgesetzt. Ziehst du direkt danach zwei Finger schnell auseinander, wird die Anordnung von vor dem Zurücksetzen wiederhergestellt. Die Erkennungszeit lässt sich unter Einstellungen > Touch-Gesten > Dauer der schnellen Pinch-Geste anpassen. Mit dem Wert 0 wird diese Funktion deaktiviert."
+            },
+            {
+                "id": "2",
+                "title": "■ Verbesserte Stabilität",
+                "body": "・Behebung eines Problems, bei dem Leinwanddaten auf einen früheren Stand zurückgesetzt werden konnten\n・Behebung eines Problems, bei dem Pop-ups wie das Ebenenmenü unter iPadOS 17 an einer unerwarteten Position angezeigt wurden\n・Behebung weiterer Stabilitätsprobleme"
+            }
+        ]
+    },
+    {
+        "id": "2026-09-20-1",
+        "version": "1.13.1",
+        "title": "Neuerungen in Version 1.13.1",
+        "publishedAt": "2026-09-20T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Verbesserte Stabilität",
+                "body": "・Pinsel folgen dem Stift jetzt genauer\n・Genauere UI-Beschriftungen\n・Behebung weiterer Stabilitätsprobleme"
+            }
+        ]
+    },
+    {
+        "id": "2026-09-12-1",
+        "version": "1.13.0",
+        "title": "Neuerungen in Version 1.13.0",
+        "publishedAt": "2026-09-12T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Bedienfelder wie den Farbwähler verschieben und skalieren",
+                "body": "Du kannst den Farbwähler, das Ebenenbedienfeld, das Referenzbedienfeld und weitere Bedienfelder jetzt von der Seitenleiste lösen, um sie zu verschieben und ihre Größe zu ändern. Ziehe am grauen Balken oben im Bedienfeld, um es zu verschieben. Ist ein Bedienfeld gelöst, ziehst du an seiner unteren rechten Ecke, um seine Größe zu ändern.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.13.0-docking-panel.gif"
+            },
+            {
+                "id": "2",
+                "title": "■ Externe Bilder im Referenzbedienfeld laden und Farben aufnehmen",
+                "body": "Tippe auf das Referenzbedienfeld, um die Menüleiste einzublenden, und tippe dann auf das Fotosymbol, um bis zu 5 externe Bilder zu laden. Außerdem kannst du jetzt mit einem Finger lange auf ein Referenzbild drücken, um die Farbe an dieser Stelle aufzunehmen.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.13.0-reference-external-image-eyedropper.gif"
+            },
+            {
+                "id": "3",
+                "title": "■ Farbfelder im Farbwähler auf 5 Zeilen erweitern",
+                "body": "Aktiviere „Einstellungen > Farbwähler > Weitere Farbfelder“ oder tippe im Farbwähler auf das Farbfeldsymbol, um die Farbfelder auf 5 Zeilen zu erweitern und mehr Farben zu speichern.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.13.0-swatch-expansion.gif"
+            },
+            {
+                "id": "4",
+                "title": "■ Globale Druckanpassung hinzugefügt",
+                "body": "Unter „Einstellungen > Apple Pencil > Druckanpassung“ kannst du jetzt mit einer Kurve den Druck des Apple Pencil für die gesamte App anpassen."
+            },
+            {
+                "id": "5",
+                "title": "■ Weitere Änderungen",
+                "body": "・Beim Wechseln des Werkzeugs musst du Änderungen seltener manuell bestätigen\n・Das Werkzeug „Transformieren“ unterstützt jetzt Widerrufen / Wiederholen\n・Höhere Auflösung der Pinselvorschau in der Pinselliste\n・Problem behoben, bei dem der Pinselumriss nach dem Schweben sichtbar bleiben konnte\n・Behebung weiterer Stabilitätsprobleme"
+            }
+        ]
+    },
+    {
+        "id": "2026-08-21-1",
+        "version": "1.12.2",
+        "title": "Neuerungen in Version 1.12.2",
+        "publishedAt": "2026-08-21T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Verbesserte Stabilität",
+                "body": "Problem behoben, bei dem Pinsel mit dem Mischmodus „Maximale Deckkraft“ nicht auf Ebenen mit Alpha-Sperre zeichnen konnten."
+            }
+        ]
+    },
+    {
+        "id": "2026-08-17-1",
+        "version": "1.12.1",
+        "title": "Neuerungen in Version 1.12.1",
+        "publishedAt": "2026-08-17T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Verbesserte Stabilität",
+                "body": "Problem behoben, bei dem Pinselstriche verzögert erscheinen konnten."
+            }
+        ]
+    },
+    {
+        "id": "2026-08-12-1",
+        "version": "1.12.0",
+        "title": "Neuerungen in Version 1.12.0",
+        "publishedAt": "2026-08-12T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Werkzeug „Farbeimer“ hinzugefügt",
+                "body": "Ziehe mit dem Finger oder dem Apple Pencil an der Taste „…“ in der Werkzeugleiste und lass sie in der eingeblendeten Unterleiste über dem Farbeimersymbol los, um den Farbeimer zu verwenden.\n[Quelle für Bereichserkennung]\nLegt fest, ob der zu füllende Bereich anhand der gesamten Leinwand oder einer bestimmten Ebene erkannt wird.\n[Erweiterungsmethode]\nLegt fest, wie der Bereich erweitert wird.\nFeste Breite: Erweitert den Bereich um genau [Erweiterung] Pixel.\nBis zum Rand: Erweitert den Bereich, ohne dabei über Konturlinien hinauszugehen.\n[Schwellenwert]\nJe höher der Wert, desto stärker dürfen Pixel vom Ausgangspixel abweichen und trotzdem gefüllt werden.\n[Erweiterung]\nErweitert den erkannten Bereich um die angegebene Anzahl Pixel.\n[Lückenschluss]\nBehandelt einen Bereich auch dann als geschlossen, wenn seine Kontur Lücken bis zur angegebenen Pixelzahl hat. Werte über 0 erhöhen die Rechenlast.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.12.0-bucket.gif"
+            },
+            {
+                "id": "2",
+                "title": "■ Funktion „Leinwandgröße ändern“ hinzugefügt",
+                "body": "Du erreichst die Funktion über die Taste „Leinwandgröße ändern“ oben im Einstellungsbedienfeld.\nZiehe an den blauen Anfassern auf der Leinwand oder ändere die Werte im Bedienfeld, um die gewünschte Größe einzustellen.\nIn der kostenlosen Version kannst du die Funktion bis zu 5-mal nutzen. Mit einem Upgrade auf Pro unbegrenzt oft.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.12.0-resize-canvas.gif"
+            },
+            {
+                "id": "3",
+                "title": "■ Weitere Änderungen",
+                "body": "・Problem behoben, bei dem die Bildschirmdarstellung bei hoher Last gestört sein konnte\n・Die Größe der A4-Vorlage wird jetzt gerundet statt abgeschnitten\n・Behebung weiterer Stabilitätsprobleme"
+            }
+        ]
+    },
+    {
+        "id": "2026-06-29-1",
+        "version": "1.11.0",
+        "title": "Neuerungen in Version 1.11.0",
+        "publishedAt": "2026-06-29T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Einstellung für den Zeichenversatz hinzugefügt",
+                "body": "In den Einstellungen der Leinwandansicht gibt es jetzt die Einstellung „Zeichenversatz“. Damit kannst du die Position, an der gezeichnet wird, gegenüber der erkannten Position der Stiftspitze verschieben."
+            },
+            {
+                "id": "2",
+                "title": "■ Weitere Änderungen",
+                "body": "・Problem behoben, bei dem Pinselstriche verzögert erscheinen konnten\n・Problem behoben, bei dem das Ergebnis mit dem Slime-Pinsel gestört sein konnte\n・Problem behoben, bei dem das Layout bei aktivierter Bedienungshilfe „Tastenformen“ fehlerhaft sein konnte\n・Problem behoben, bei dem unter iOS 17 einige Symbole nicht angezeigt wurden\n・Behebung weiterer Stabilitätsprobleme"
+            }
+        ]
+    },
+    {
+        "id": "2026-05-27-1",
+        "version": "1.10.0",
+        "title": "Neuerungen in Version 1.10.0",
+        "publishedAt": "2026-05-27T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Drei neue Filter",
+                "body": "[Verlaufsumsetzung] Ersetzt die Farben des Bildes abhängig von ihrer Helligkeit. Verläufe lassen sich als Vorlage speichern und wiederverwenden.\n[Chromatische Aberration] Zerlegt das Bild in die RGB-Kanäle und verschiebt sie gegeneinander. Unterstützt parallele und kreisförmige Verschiebung.\n[Gaußscher Weichzeichner] Zeichnet das Bild weich. Der Radius ist einstellbar."
+            },
+            {
+                "id": "2",
+                "title": "■ Ausgewählte Ebene und darunterliegende Ebenen zu einer neuen Ebene zusammenführen",
+                "body": "Als Variante des Befehls „Zusammengeführte Ebene hinzufügen“ kannst du jetzt eine Ebene hinzufügen, die nur die ausgewählte Ebene und die Ebenen darunter zusammenführt. Das ist praktisch, wenn du das Ergebnis einer Filterebene von Hand weiterbearbeiten möchtest."
+            },
+            {
+                "id": "3",
+                "title": "■ Weitere Änderungen",
+                "body": "・Für die Hintergrundfarbe kann jetzt die Art des Farbwählers gewählt werden\n・Problem behoben, bei dem die Darstellung bei Werkzeugen wie der Lassoauswahl verzögert war\n・Geringere Verzögerung bei der Aktualisierung des Referenzbedienfelds\n・Behebung weiterer Stabilitätsprobleme"
+            }
+        ]
+    },
+    {
+        "id": "2026-04-15-1",
+        "version": "1.9.0",
+        "title": "Neuerungen in Version 1.9.0",
+        "publishedAt": "2026-04-15T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Leinwände in der Galerie neu anordnen (nur Pro)",
+                "body": "Diese Funktion ist nach dem Kauf des Pro-Upgrades verfügbar.\nDu kannst Leinwände in der Galerie jetzt neu anordnen, indem du lange auf eine Leinwand drückst und sie ziehst."
+            },
+            {
+                "id": "2",
+                "title": "■ Pinsel exportieren und importieren (nur Pro)",
+                "body": "Diese Funktion ist nach dem Kauf des Pro-Upgrades verfügbar.\nDu kannst Pinseldaten jetzt aus der App exportieren und von außerhalb importieren.\nExportieren: Öffne in der Leinwandansicht die Pinselparameter, scrolle ganz nach unten und tippe auf „Exportieren“. Im angezeigten Dialog wählst du einen beliebigen Speicherort aus.\nImportieren: Tippe oben in der Galerie auf das Importsymbol und dann auf „Pinsel importieren“. Wähle im Dateidialog eine Pinseldatei aus, um sie zu importieren."
+            },
+            {
+                "id": "3",
+                "title": "■ Leinwand aus einem Bild erstellen",
+                "body": "Tippe oben in der Galerie auf das Importsymbol. Mit „Leinwand aus Fotos erstellen“ erstellst du eine Leinwand aus einem Bild in deiner Fotomediathek, mit „Leinwand aus Dateien erstellen“ aus einem Bild in der App „Dateien“."
+            },
+            {
+                "id": "4",
+                "title": "■ Verbesserte Stabilität",
+                "body": "Probleme mit der Stabilität der Werkzeuge wurden behoben."
+            }
+        ]
+    },
+    {
+        "id": "2026-04-10-1",
+        "version": "1.8.1",
+        "title": "Neuerungen in Version 1.8.1",
+        "publishedAt": "2026-04-10T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Verbesserte Stabilität",
+                "body": "Probleme mit der Stabilität der Werkzeuge wurden behoben."
+            }
+        ]
+    },
+    {
+        "id": "2026-04-04-1",
+        "version": "1.8.0",
+        "title": "Neuerungen in Version 1.8.0",
+        "publishedAt": "2026-04-04T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Einrasten für Schieberegler hinzugefügt",
+                "body": "Die Schieberegler für Pinselgröße, Deckkraft und Strichglättung haben jetzt eine Einrastfunktion. Tippe im Popup des Schiebereglers auf das Stecknadelsymbol, um an der aktuellen Position eine Markierung hinzuzufügen oder zu entfernen. Werte in der Nähe rasten an markierten Positionen ein, sodass du häufig verwendete Pinselgrößen leicht wiederfindest.\nÜber das Menü „…“ kannst du außerdem alle Markierungen auf einmal kopieren und in einen anderen Pinsel einfügen.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.8.0-snap.webp"
+            },
+            {
+                "id": "2",
+                "title": "■ Verbesserte Stabilität",
+                "body": "Probleme mit der Stabilität der Werkzeuge wurden behoben."
+            }
+        ]
+    },
+    {
+        "id": "2026-03-25-1",
+        "version": "1.7.3",
+        "title": "Neuerungen in Version 1.7.3",
+        "publishedAt": "2026-03-25T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Verbesserte Stabilität",
+                "body": "・Problem behoben, bei dem die Anfasser des Werkzeugs „Transformieren“ an falsche Positionen springen konnten\n・Problem behoben, bei dem bei Verwendung einer Dithering-Filterebene Rauschen an den Rändern von Pinselstrichen auftrat\n・Problem behoben, bei dem beim Duplizieren einer Leinwand die neuesten Änderungen fehlen konnten\n・Weitere Fehlerbehebungen"
+            }
+        ]
+    },
+    {
+        "id": "2026-02-25-1",
+        "version": "1.7.1",
+        "title": "Neuerungen in Version 1.7.1",
+        "publishedAt": "2026-02-25T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Verbesserte Stabilität",
+                "body": "Probleme mit der Stabilität der Werkzeuge wurden behoben."
+            }
+        ]
+    },
+    {
+        "id": "2026-02-22-1",
+        "version": "1.7.0",
+        "title": "Neuerungen in Version 1.7.0",
+        "publishedAt": "2026-02-22T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Dreieckiger Farbwähler hinzugefügt",
+                "body": "Neu ist ein Farbwähler, bei dem du Helligkeit und Sättigung in einem dreieckigen Feld auswählst."
+            },
+            {
+                "id": "2",
+                "title": "■ Verbesserte Stabilität",
+                "body": "Probleme mit der Stabilität der Werkzeuge wurden behoben."
+            }
+        ]
+    },
+    {
+        "id": "2026-02-20-1",
+        "version": "1.6.1",
+        "title": "Neuerungen in Version 1.6.1",
+        "publishedAt": "2026-02-20T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Verbesserte Stabilität",
+                "body": "Probleme mit der Stabilität der Werkzeuge wurden behoben."
+            }
+        ]
+    },
+    {
+        "id": "2026-02-14-1",
+        "version": "1.6.0",
+        "title": "Neuerungen in Version 1.6.0",
+        "publishedAt": "2026-02-14T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Filterebenen hinzugefügt (nicht-destruktive Einstellungsebenen)",
+                "body": "Mit Filterebenen kannst du Filter auf das zusammengesetzte Ergebnis der darunterliegenden Ebenen anwenden. Tippe im Ebenenbedienfeld auf das Filtersymbol und wähle „Filterebene erstellen“.\nWelche Ebenen eine Filterebene beeinflusst, steuerst du mit Schnittmasken und Ordnern. Ist für eine Filterebene eine Schnittmaske aktiviert, wirkt der Filter nur auf die direkt darunterliegende Ebene. Liegt eine Filterebene in einem Ordner, wirkt der Filter auf das Ergebnis aller Ebenen unter ihr innerhalb dieses Ordners.\nDas Bild unten zeigt eine Filterebene „Farbton, Sättigung, Helligkeit“ über drei Ebenen in reinem Rot, Grün und Blau, mit verringertem Kontrast und verringerter Sättigung.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.6.0-filter-layer.webp"
+            },
+            {
+                "id": "2",
+                "title": "■ Dithering-Filter hinzugefügt",
+                "body": "Der neue Dithering-Filter wandelt das Bild abhängig von Farbe oder Transparenz in zwei Stufen um.\nUnter „Modus“ wählst du zwischen „RGBA“, das alle Kanäle rastert, und „Nur Deckkraft“, das nur den Alphakanal rastert.\nMit „Schwellenwert“ stellst du die Schwelle für das Dithering ein.\nMit „Punktgröße“ stellst du die Größe der Punkte im Dithering-Muster ein.\nDas Bild unten zeigt einen mit dem Pinsel gemalten Verlauf (oben) und eine Kopie davon mit angewendetem Dithering-Filter (unten).",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.6.0-dither.webp"
+            },
+            {
+                "id": "3",
+                "title": "■ Taste zum Erstellen von Ebenenordnern hinzugefügt",
+                "body": "Im Menü, das du im Ebenenbedienfeld über „…“ öffnest, gibt es jetzt die Taste „Ordner hinzufügen“. Bisher ließen sich Ordner nur erstellen, indem du eine Ebene auf eine andere gezogen hast. Jetzt kannst du Ordner direkt erstellen."
+            },
+            {
+                "id": "4",
+                "title": "■ Verbesserte Stabilität",
+                "body": "・Bessere Kompatibilität exportierter PSD-Dateien\n・Schnellerer PSD-Export\n・Problem behoben, bei dem mit Lassofüllung / Slime-Pinsel gemalte Farben nicht in der Farbhistorie erschienen\n・Problem behoben, bei dem Zahlen in der Oberfläche beim Ändern ruckelten\n・Problem behoben, bei dem die Pinseldrehung bei gespiegelter Leinwand in die falsche Richtung angewendet wurde\n・Weitere Fehlerbehebungen"
+            }
+        ]
+    },
+    {
+        "id": "2026-01-20-1",
+        "version": "1.5.0",
+        "title": "Neuerungen in Version 1.5.0",
+        "publishedAt": "2026-01-20T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Farbhistorie und Farbfelder hinzugefügt",
+                "body": "Der Farbwähler hat jetzt eine Farbhistorie und Farbfelder.\nTippe auf ein Feld, um die Farbe auszuwählen.\nDrücke lange auf ein Farbfeld (zweite Zeile), um es mit der aktuellen Farbe zu überschreiben.\nIn den Einstellungen kannst du Farbhistorie und Farbfelder ein- oder ausblenden.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.5.0-color-history-and-swatch.webp"
+            }
+        ]
+    },
+    {
+        "id": "2026-01-15-1",
+        "version": "1.4.0",
+        "title": "Neuerungen in Version 1.4.0",
+        "publishedAt": "2026-01-15T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Werkzeug „Verflüssigen“ hinzugefügt",
+                "body": "Mit dem neuen Werkzeug „Verflüssigen“ verformst du eine Ebene, indem du darüberstreichst.\nEs bietet die Modi Schieben, Aufblasen, Zusammenziehen, Strudel und Zurücksetzen.\nMit dem Apple Pencil Pro kannst du im Modus „Schieben“ außerdem die Drehung steuern, indem du den Stift rollst.\nMit „Weichheit“ stellst du ein, wie weich der Rand der Verformung verläuft,\nund mit „Stärke“, wie stark verformt wird.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.4.0-liquify.webp"
+            },
+            {
+                "id": "2",
+                "title": "■ PSD-Export",
+                "body": "Im Exportmenü kannst du jetzt PSD auswählen.\nSo kannst du dein Bild mit erhaltener Ebenenstruktur in anderen Programmen weiterbearbeiten.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.4.0-export-psd.webp"
+            },
+            {
+                "id": "3",
+                "title": "■ PSD-Import",
+                "body": "Du kannst jetzt PSD-Dateien aus der App „Dateien“ oder deiner Fotomediathek importieren und bearbeiten. Wähle dazu im Teilen-Menü Micapaint aus.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.4.0-import-psd.webp"
+            },
+            {
+                "id": "4",
+                "title": "■ Unterstützung für das Design von iPadOS 26",
+                "body": "Die Werkzeugoberfläche unterstützt jetzt das Design von iPadOS 26. Probleme wie die Verdeckung der Taste „Zurück zur Galerie“ durch die Fenstersteuerelemente wurden behoben."
+            },
+            {
+                "id": "5",
+                "title": "■ Verbesserte Stabilität",
+                "body": "・Problem behoben, bei dem beim Löschen eines übersetzten Pinselnamens immer der oberste Eintrag gelöscht wurde\n・Fehlerhaftes Layout bei schmaler Seitenleiste behoben\n・Weitere Fehlerbehebungen"
+            }
+        ]
+    },
+    {
+        "id": "2025-11-27-1",
+        "version": "1.3.1",
+        "title": "Neuerungen in Version 1.3.1",
+        "publishedAt": "2025-11-27T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Fehler beim Laden von Bildern behoben",
+                "body": "Ein in v1.3.0 aufgetretenes Problem wurde behoben, bei dem das Laden eines Bildes in eine Ebene einen Fehler verursachte."
+            }
+        ]
+    },
+    {
+        "id": "2025-11-21-1",
+        "version": "1.3.0",
+        "title": "Neuerungen in Version 1.3.0",
+        "publishedAt": "2025-11-21T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Leinwand gezielt speichern",
+                "body": "Neu ist eine Option, mit der die Galerie-Taste die Leinwand speichert, ohne zur Galerie zurückzukehren. Aktiviere „Immer speichern und zur Galerie zurückkehren“, um das bisherige Verhalten beizubehalten.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.3.0-save.gif"
+            },
+            {
+                "id": "2",
+                "title": "■ Ebenen drehen und spiegeln",
+                "body": "Im Bedienfeld des Werkzeugs „Transformieren“ gibt es jetzt Tasten zum Drehen und Spiegeln von Ebenen.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.3.0-rotate-flip-layer.webp"
+            },
+            {
+                "id": "3",
+                "title": "■ Verbesserte Stabilität",
+                "body": "・Problem behoben, bei dem die Leinwand nicht gespeichert wurde, wenn du während der Filterbearbeitung zur Galerie zurückgekehrt bist\n・Problem behoben, bei dem Ebeneninhalte beschädigt wurden, wenn du während der Filterbearbeitung andere Ebenenaktionen ausgeführt hast\n・Problem behoben, bei dem die Alpha-Sperre beim Slime-Pinsel nicht wirkte\n・Weitere Fehlerbehebungen"
+            }
+        ]
+    },
+    {
+        "id": "2025-11-08-1",
+        "version": "1.2.0",
+        "title": "Neuerungen in Version 1.2.0",
+        "publishedAt": "2025-11-08T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Sättigung anpassen, ohne die Helligkeit zu verändern",
+                "body": "Wenn du im Filter „Farbton, Sättigung, Helligkeit“ den Modus „Perzeptiv“ wählst, kannst du die Sättigung anpassen und dabei die Helligkeit der Farben erhalten.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.2.0-perceptual.webp",
+                "imageCaption": "Original / Perzeptive Sättigung -100 / Traditionelle Sättigung -100"
+            },
+            {
+                "id": "2",
+                "title": "■ Ebene aus allen Ebenen zusammenführen",
+                "body": "Tippe im Ebenenmenü auf „Zusammengeführte Ebene hinzufügen“, um über der aktuellen Ebene eine Ebene einzufügen, die alle Ebenen zusammengeführt enthält.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.2.0-merge.gif"
+            },
+            {
+                "id": "3",
+                "title": "■ Ebenen durch Wischen nach links löschen",
+                "body": "Wenn du auf einer Ebene oder einem Ordner nach links wischst, erscheint jetzt die Taste „Löschen“.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.2.0-delete.gif"
+            },
+            {
+                "id": "4",
+                "title": "■ Tooltips anzeigen",
+                "body": "Wenn du den Apple Pencil über eine Taste hältst, wird eine Beschreibung angezeigt (nur auf Geräten mit Schwebefunktion)."
+            },
+            {
+                "id": "5",
+                "title": "■ Verbesserte Stabilität",
+                "body": "・Problem behoben, bei dem der Farbtonwert im Farbwähler springen konnte\n・Die Tasten zeigen jetzt an, ob Widerrufen / Wiederholen möglich ist\n・Weitere Fehlerbehebungen"
+            }
+        ]
+    }
+]

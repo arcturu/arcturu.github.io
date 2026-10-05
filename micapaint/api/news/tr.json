@@ -1,0 +1,454 @@
+[
+    {
+        "id": "2026-10-06-1",
+        "version": "1.14.0",
+        "title": "Sürüm 1.14.0'daki Yenilikler",
+        "publishedAt": "2026-10-06T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Hızlı Kıstırma Hareketi Desteği",
+                "body": "Tuval ekranında iki parmağınızla hızlıca içe doğru kıstırdığınızda tuvalin yerleşimi (konum, döndürme ve ölçek) sıfırlanır. Hemen ardından iki parmağınızla hızlıca dışa doğru açtığınızda tuval, sıfırlamadan önceki yerleşimine geri döner. Algılama süresini Ayarlar > Dokunma hareketleri > Hızlı kıstırma süresi bölümünden ayarlayabilirsiniz. Bu değeri 0 yaparak özelliği devre dışı bırakabilirsiniz."
+            },
+            {
+                "id": "2",
+                "title": "■ Kararlılık İyileştirmeleri",
+                "body": "・Tuval verilerinin bazen önceki bir duruma geri dönmesine neden olan sorun giderildi\n・iPadOS 17'de katman menüsü gibi açılır pencerelerin yanlış konumda görünmesi sorunu giderildi\n・Kararlılıkla ilgili diğer sorunlar giderildi"
+            }
+        ]
+    },
+    {
+        "id": "2026-09-20-1",
+        "version": "1.13.1",
+        "title": "Sürüm 1.13.1'deki Yenilikler",
+        "publishedAt": "2026-09-20T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Kararlılık İyileştirmeleri",
+                "body": "・Fırçanın kalem hareketlerini takip etme başarımı iyileştirildi\n・Arayüz etiketlerinin doğruluğu iyileştirildi\n・Kararlılıkla ilgili diğer sorunlar giderildi"
+            }
+        ]
+    },
+    {
+        "id": "2026-09-12-1",
+        "version": "1.13.0",
+        "title": "Sürüm 1.13.0'daki Yenilikler",
+        "publishedAt": "2026-09-12T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Renk seçici gibi paneller artık taşınabilir ve yeniden boyutlandırılabilir",
+                "body": "Renk seçiciyi, Katmanlar panelini, Referans panelini ve diğer panelleri kenar çubuğundan ayırarak taşıyabilir ve yeniden boyutlandırabilirsiniz. Paneli taşımak için üst kısmındaki gri çubuğu sürükleyin. Panel ayrıyken sağ alt köşesini sürükleyerek boyutunu değiştirebilirsiniz.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.13.0-docking-panel.gif"
+            },
+            {
+                "id": "2",
+                "title": "■ Referans panelinde harici görüntü içe aktarma ve damlalık desteği",
+                "body": "Referans paneline dokunarak menü çubuğunu gösterin, ardından fotoğraf simgesine dokunarak en fazla 5 harici görüntü içe aktarın. Ayrıca bir referans görüntüsüne tek parmakla uzun basarak altındaki rengi damlalıkla alabilirsiniz.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.13.0-reference-external-image-eyedropper.gif"
+            },
+            {
+                "id": "3",
+                "title": "■ Renk seçicideki renk örneklerini 5 satıra genişletme seçeneği eklendi",
+                "body": "Ayarlar > Renk seçici > Daha fazla renk örneği seçeneğini açarak veya Renk seçici panelindeki renk örneği simgesine dokunarak renk örneklerini 5 satıra genişletebilir ve daha fazla renk kaydedebilirsiniz.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.13.0-swatch-expansion.gif"
+            },
+            {
+                "id": "4",
+                "title": "■ Genel basınç ayarı eklendi",
+                "body": "Ayarlar > Apple Pencil > Basınç ayarı bölümündeki eğriyi düzenleyerek Apple Pencil basıncını uygulamanın tamamında tek seferde düzeltebilirsiniz."
+            },
+            {
+                "id": "5",
+                "title": "■ Diğer değişiklikler",
+                "body": "・Araç değiştirirken elle onaylama gerektiren durumlar azaltıldı\n・Dönüştür aracına Geri al / Yinele desteği eklendi\n・Fırça listesindeki önizlemelerin çözünürlüğü artırıldı\n・Kalem ekranın üzerinde gezinirken görünen fırça dış hattının ekranda kalabilmesi sorunu giderildi\n・Kararlılıkla ilgili diğer sorunlar giderildi"
+            }
+        ]
+    },
+    {
+        "id": "2026-08-21-1",
+        "version": "1.12.2",
+        "title": "Sürüm 1.12.2'deki Yenilikler",
+        "publishedAt": "2026-08-21T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Kararlılık iyileştirmeleri",
+                "body": "“Maksimum opaklık” karışım modundaki fırçaların alfa kilitli katmanlara çizim yapamaması sorunu giderildi."
+            }
+        ]
+    },
+    {
+        "id": "2026-08-17-1",
+        "version": "1.12.1",
+        "title": "Sürüm 1.12.1'deki Yenilikler",
+        "publishedAt": "2026-08-17T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Kararlılık iyileştirmeleri",
+                "body": "Fırça darbelerinin gecikebilmesi sorunu giderildi."
+            }
+        ]
+    },
+    {
+        "id": "2026-08-12-1",
+        "version": "1.12.0",
+        "title": "Sürüm 1.12.0'daki Yenilikler",
+        "publishedAt": "2026-08-12T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Boya kovası aracı eklendi",
+                "body": "Araç çubuğundaki ... düğmesini parmağınızla veya Apple Pencil ile sürükleyin ve açılan alt araç çubuğundaki boya kovası simgesinin üzerinde bırakarak boya kovası aracını kullanın.\n[Bölge algılama kaynağı]\nDolgu algılamasının tüm tuvalde mi yoksa belirli bir katmanda mı yapılacağını seçer.\n[Genişletme yöntemi]\nBölge genişletilirken kullanılacak yöntemi seçer.\nSabit genişlik: Bölgeyi sabit olarak [Genişletme] değeri kadar piksel genişletir.\nKenara kadar: Bölgeyi kenar çizgilerini aşmayacak şekilde düzelterek genişletir.\n[Eşik]\nDeğer büyüdükçe, dolgunun başladığı pikselden daha farklı olan pikseller de dolgu hedefi sayılır.\n[Genişletme]\nDolgu algılamasından sonra bölgeyi belirtilen piksel kadar genişletir.\n[Boşluk kapatma]\nBelirtilen piksel kadar boşluk olsa bile bölgeyi kapalı sayan bir düzeltmeyle dolgu yapar. 0'dan büyük bir değer ayarlamak işlem yükünü artırır.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.12.0-bucket.gif"
+            },
+            {
+                "id": "2",
+                "title": "■ Tuvali yeniden boyutlandırma özelliği eklendi",
+                "body": "Ayarlar panelinin üst kısmındaki “Tuvali yeniden boyutlandır” düğmesinden erişebilirsiniz.\nTuvalde görünen mavi tutamaçları sürükleyerek veya paneldeki değerleri değiştirerek tuvali istediğiniz boyuta getirebilirsiniz.\nÜcretsiz kullanıcılar bu özelliği en fazla 5 kez kullanabilir. Pro'ya yükselttiğinizde istediğiniz kadar kullanabilirsiniz.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.12.0-resize-canvas.gif"
+            },
+            {
+                "id": "3",
+                "title": "■ Diğer değişiklikler",
+                "body": "・Yoğun yük altında ekrandaki görüntünün bozulabilmesi sorunu giderildi\n・A4 şablon boyutunun hesaplanmasında aşağı yuvarlama yerine en yakın sayıya yuvarlama kullanılıyor\n・Kararlılıkla ilgili diğer sorunlar giderildi"
+            }
+        ]
+    },
+    {
+        "id": "2026-06-29-1",
+        "version": "1.11.0",
+        "title": "Sürüm 1.11.0'daki Yenilikler",
+        "publishedAt": "2026-06-29T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Kalem ucu konumu düzeltme ayarı eklendi",
+                "body": "Tuval ekranındaki ayarlara kalem ucu konumunu düzeltme ayarı (“Çizim kaydırması”) eklendi. Algılanan gerçek kalem ucu konumu ile çizimin yapıldığı konum arasında kaydırma uygulayabilirsiniz."
+            },
+            {
+                "id": "2",
+                "title": "■ Diğer değişiklikler",
+                "body": "・Fırça çiziminin gecikebilmesi sorunu giderildi\n・Slime fırçası kullanılırken çizim sonucunun bozulabilmesi sorunu giderildi\n・Düğme şekillerini gösteren erişilebilirlik ayarı açıkken düzenin bozulması sorunu giderildi\n・iOS 17'de bazı simgelerin görüntülenmemesi sorunu giderildi\n・Kararlılıkla ilgili diğer sorunlar giderildi"
+            }
+        ]
+    },
+    {
+        "id": "2026-05-27-1",
+        "version": "1.10.0",
+        "title": "Sürüm 1.10.0'daki Yenilikler",
+        "publishedAt": "2026-05-27T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Üç yeni filtre eklendi",
+                "body": "[Degrade haritası] Görüntünün parlaklığına göre renkleri değiştiren bir filtredir. Degradeleri şablon olarak kaydedip yeniden kullanabilirsiniz.\n[Renk sapması] Görüntünün renklerini RGB kanallarına ayırıp kaydıran bir filtredir. Paralel ve eş merkezli kaydırmayı destekler.\n[Gauss bulanıklığı] Görüntüyü bulanıklaştıran bir filtredir. Bulanıklık genişliği ayarlanabilir."
+            },
+            {
+                "id": "2",
+                "title": "■ Seçili katmanı ve altındaki katmanları birleştirip yeni katman olarak ekleme özelliği eklendi",
+                "body": "“Birleştirilmiş katman ekle” katman komutunun bir çeşidi olarak, yalnızca o anda seçili katmanı ve altındaki katmanları birleştiren bir katman ekleme özelliği eklendi. Bir filtre katmanının uygulanmış sonucunu elle düzenlemek istediğinizde kullanışlıdır."
+            },
+            {
+                "id": "3",
+                "title": "■ Diğer değişiklikler",
+                "body": "・Arka plan rengini seçerken kullanılan renk seçicinin türü seçilebilir hale getirildi\n・Kement seçimi gibi araçlar kullanılırken çizimin gecikmesi sorunu giderildi\n・Referans panelindeki güncelleme gecikmesi azaltıldı\n・Kararlılıkla ilgili diğer sorunlar giderildi"
+            }
+        ]
+    },
+    {
+        "id": "2026-04-15-1",
+        "version": "1.9.0",
+        "title": "Sürüm 1.9.0'daki Yenilikler",
+        "publishedAt": "2026-04-15T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Galerideki tuvalleri yeniden sıralama desteği (yalnızca Pro)",
+                "body": "※ Bu özellik, Pro yükseltme planı satın alındıktan sonra kullanılabilir.\nGaleri ekranında bir tuvale uzun basıp sürükleyerek tuvallerin sırasını değiştirebilirsiniz."
+            },
+            {
+                "id": "2",
+                "title": "■ Fırçaları dışa ve içe aktarma desteği (yalnızca Pro)",
+                "body": "※ Bu özellik, Pro yükseltme planı satın alındıktan sonra kullanılabilir.\nFırça verilerini uygulamanın dışına aktarabilir ve uygulamanın dışından içe aktarabilirsiniz.\nDışa aktarma: Tuval ekranında fırça parametreleri ekranını açın, en alta kaydırın ve “Dışa aktar” düğmesine dokunun. Kayıt konumu seçme iletişim kutusu açılır ve dosyayı istediğiniz yere kaydedebilirsiniz.\nİçe aktarma: Galeri ekranının üst kısmındaki içe aktarma simgesinden “Fırça içe aktar” seçeneğine dokunun. Dosya seçme iletişim kutusu açılır; bir fırça dosyası seçtiğinizde fırça içe aktarılır."
+            },
+            {
+                "id": "3",
+                "title": "■ Görüntü içe aktararak tuval oluşturma özelliği eklendi",
+                "body": "Galeri ekranının üst kısmındaki içe aktarma simgesinden “Fotoğraflardan tuval oluştur” seçeneğine dokunarak film rulosundaki bir görüntüden, “Dosyalardan tuval oluştur” seçeneğine dokunarak da Dosyalar uygulamasındaki bir görüntüden tuval oluşturabilirsiniz."
+            },
+            {
+                "id": "4",
+                "title": "■ Kararlılık iyileştirmeleri",
+                "body": "Araçların kararlılığıyla ilgili sorunlar giderildi."
+            }
+        ]
+    },
+    {
+        "id": "2026-04-10-1",
+        "version": "1.8.1",
+        "title": "Sürüm 1.8.1'deki Yenilikler",
+        "publishedAt": "2026-04-10T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Kararlılık iyileştirmeleri",
+                "body": "Araçların kararlılığıyla ilgili sorunlar giderildi."
+            }
+        ]
+    },
+    {
+        "id": "2026-04-04-1",
+        "version": "1.8.0",
+        "title": "Sürüm 1.8.0'daki Yenilikler",
+        "publishedAt": "2026-04-04T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Kaydırıcılara yakalama özelliği eklendi",
+                "body": "Fırça boyutu, opaklık ve çizgi sabitleme gücü kaydırıcılarına yakalama özelliği eklendi. Kaydırıcı açılır penceresindeki raptiye simgesine dokunduğunuzda geçerli konuma bir yakalama noktası eklenir veya kaldırılır. Yakındaki değerler bu noktalara yakalanır; böylece sık kullandığınız fırça boyutlarını yakalama noktası olarak ekleyip kolayca seçebilirsiniz.\n... simgesinin menüsünden tüm yakalama noktalarını birlikte kopyalayıp başka bir fırçaya yapıştırabilirsiniz.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.8.0-snap.webp"
+            },
+            {
+                "id": "2",
+                "title": "■ Kararlılık iyileştirmeleri",
+                "body": "Araçların kararlılığıyla ilgili sorunlar giderildi."
+            }
+        ]
+    },
+    {
+        "id": "2026-03-25-1",
+        "version": "1.7.3",
+        "title": "Sürüm 1.7.3'teki Yenilikler",
+        "publishedAt": "2026-03-25T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Kararlılık iyileştirmeleri",
+                "body": "・Dönüştür aracının tutamaçlarının yanlış konumlara atlayabilmesi sorunu giderildi\n・Renk taklidi filtre katmanı kullanılırken fırça darbesi kenarlarında gürültü oluşması sorunu giderildi\n・Tuval çoğaltılırken son değişikliklerin yansımayabilmesi sorunu giderildi\n・Diğer hata düzeltmeleri"
+            }
+        ]
+    },
+    {
+        "id": "2026-02-25-1",
+        "version": "1.7.1",
+        "title": "Sürüm 1.7.1'deki Yenilikler",
+        "publishedAt": "2026-02-25T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Kararlılık iyileştirmeleri",
+                "body": "Araçların kararlılığıyla ilgili sorunlar giderildi."
+            }
+        ]
+    },
+    {
+        "id": "2026-02-22-1",
+        "version": "1.7.0",
+        "title": "Sürüm 1.7.0'daki Yenilikler",
+        "publishedAt": "2026-02-22T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Üçgen renk seçici eklendi",
+                "body": "Açıklık ve doygunluğun seçildiği alanı üçgen olan bir renk seçici eklendi."
+            },
+            {
+                "id": "2",
+                "title": "■ Kararlılık iyileştirmeleri",
+                "body": "Araçların kararlılığıyla ilgili sorunlar giderildi."
+            }
+        ]
+    },
+    {
+        "id": "2026-02-20-1",
+        "version": "1.6.1",
+        "title": "Sürüm 1.6.1'deki Yenilikler",
+        "publishedAt": "2026-02-20T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Kararlılık iyileştirmeleri",
+                "body": "Araçların kararlılığıyla ilgili sorunlar giderildi."
+            }
+        ]
+    },
+    {
+        "id": "2026-02-14-1",
+        "version": "1.6.0",
+        "title": "Sürüm 1.6.0'daki Yenilikler",
+        "publishedAt": "2026-02-14T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Filtre katmanı özelliği eklendi (tahribatsız ayar katmanları)",
+                "body": "Alttaki katmanların birleşik sonucuna filtre uygulayabilen filtre katmanı özelliği eklendi. Katmanlar panelindeki filtre simgesine dokunup “Filtre katmanı oluştur” menüsünü seçerek ekleyebilirsiniz.\nFiltre katmanlarının etki alanını kırpma maskeleri ve klasörlerle denetleyebilirsiniz. Bir filtre katmanına kırpma uygulanırsa filtre hemen altındaki katmanın içeriğine uygulanır. Filtre katmanı bir klasörün içine yerleştirilirse filtre, o klasörde kendisinin altında kalan katmanların birleşik sonucuna uygulanır.\nAşağıdaki görüntü, saf kırmızı, yeşil ve mavi çizilmiş üç katmanın üzerine bir “Ton, doygunluk, açıklık” filtre katmanı yerleştirilerek kontrast ile doygunluğun düşürüldüğü bir örnektir.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.6.0-filter-layer.webp"
+            },
+            {
+                "id": "2",
+                "title": "■ Renk taklidi filtresi eklendi",
+                "body": "Renge veya saydamlığa göre ikili hale getiren bir renk taklidi filtresi eklendi.\n“Mod” bölümünde tüm kanallara renk taklidi uygulayan “RGBA” ile yalnızca alfa kanalına uygulayan “Yalnızca opaklık” arasında seçim yapabilirsiniz.\n“Eşik” ile renk taklidi eşiğini ayarlayabilirsiniz.\n“Nokta boyutu” ile renk taklidi desenindeki noktaların büyüklüğünü ayarlayabilirsiniz.\nAşağıdaki görüntü, fırçayla çizilmiş bir degradeyi (üstte) ve bunun kopyalanıp renk taklidi filtresi uygulanmış sonucunu (altta) gösteren bir örnektir.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.6.0-dither.webp"
+            },
+            {
+                "id": "3",
+                "title": "■ Katman klasörü oluşturma düğmesi eklendi",
+                "body": "Katmanlar panelindeki ... simgesinden açılan menüye “Klasör ekle” düğmesi eklendi. Önceden klasörler yalnızca bir katmanı başka bir katmanın üzerine sürükleyerek oluşturulabiliyordu; artık klasörleri doğrudan oluşturabilirsiniz."
+            },
+            {
+                "id": "4",
+                "title": "■ Kararlılık iyileştirmeleri",
+                "body": "・Dışa aktarılan PSD dosyalarının uyumluluğu iyileştirildi\n・PSD dışa aktarma hızlandırıldı\n・Kement dolgusu / Slime fırçasıyla çizilen renklerin renk geçmişine eklenmemesi sorunu giderildi\n・Arayüzde sayılar değişirken titreme olması sorunu giderildi\n・Tuval çevrilmişken fırça döndürmesinin ters yönde uygulanması sorunu giderildi\n・Diğer hata düzeltmeleri"
+            }
+        ]
+    },
+    {
+        "id": "2026-01-20-1",
+        "version": "1.5.0",
+        "title": "Sürüm 1.5.0'daki Yenilikler",
+        "publishedAt": "2026-01-20T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Renk geçmişi ve renk örnekleri eklendi",
+                "body": "Renk seçiciye renk geçmişi ve renk örnekleri eklendi.\nHücrelere dokunarak renk seçebilirsiniz.\nRenk örneklerindeki (ikinci satır) bir hücreye uzun basarak hücreyi geçerli renkle değiştirebilirsiniz.\nRenk geçmişini ve renk örneklerini Ayarlar'dan gösterebilir veya gizleyebilirsiniz.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.5.0-color-history-and-swatch.webp"
+            }
+        ]
+    },
+    {
+        "id": "2026-01-15-1",
+        "version": "1.4.0",
+        "title": "Sürüm 1.4.0'daki Yenilikler",
+        "publishedAt": "2026-01-15T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Sıvılaştır aracı eklendi",
+                "body": "Katmanın üzerinde sürükleyerek görüntüyü biçimlendirebileceğiniz Sıvılaştır aracı eklendi.\nİt, şişir, büz, döndür ve sıfırla modlarını destekler.\nApple Pencil Pro kullanıyorsanız, it modunda kalemi kendi ekseninde döndürerek döndürmeyi de denetleyebilirsiniz.\n“Yumuşaklık” parametresiyle biçim değişikliğinin kenarlarındaki yumuşaklığı,\n“Güç” parametresiyle biçim değişikliğinin miktarını ayarlayabilirsiniz.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.4.0-liquify.webp"
+            },
+            {
+                "id": "2",
+                "title": "■ PSD dosyası dışa aktarma desteği",
+                "body": "Dışa aktarma menüsünde artık PSD'yi seçebilirsiniz.\nDosyayı katman yapısını koruyarak başka araçlarda düzenleyebilirsiniz.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.4.0-export-psd.webp"
+            },
+            {
+                "id": "3",
+                "title": "■ PSD dosyası içe aktarma desteği",
+                "body": "Dosyalar uygulamasındaki veya film rulosundaki PSD dosyalarını içe aktarıp düzenleyebilirsiniz. Dosya menüsündeki paylaşım hedeflerinden Micapaint'i seçin.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.4.0-import-psd.webp"
+            },
+            {
+                "id": "4",
+                "title": "■ iPadOS 26 tasarım desteği",
+                "body": "Araç arayüzü iPadOS 26 tasarımına uyarlandı. Galeriye dön düğmesinin pencere denetimleri tarafından gizlenmesi gibi arayüz sorunları giderildi."
+            },
+            {
+                "id": "5",
+                "title": "■ Kararlılık iyileştirmeleri",
+                "body": "・Fırça adlarının çevirisini silme düğmesine basıldığında her zaman en üstteki öğenin silinmesi sorunu giderildi\n・Kenar çubuğu daraltıldığında düzenin bozulması sorunu giderildi\n・Diğer hata düzeltmeleri"
+            }
+        ]
+    },
+    {
+        "id": "2025-11-27-1",
+        "version": "1.3.1",
+        "title": "Sürüm 1.3.1'deki Yenilikler",
+        "publishedAt": "2025-11-27T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Görüntü içe aktarmanın başarısız olması sorunu giderildi",
+                "body": "v1.3.0'da ortaya çıkan, katmana görüntü yükleme düğmesine basıldığında hata oluşması sorunu giderildi."
+            }
+        ]
+    },
+    {
+        "id": "2025-11-21-1",
+        "version": "1.3.0",
+        "title": "Sürüm 1.3.0'daki Yenilikler",
+        "publishedAt": "2025-11-21T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Tuvali galeriye dönmeden kaydetme",
+                "body": "Galeriye dön düğmesine basıldığında geri dönmeden kaydetme seçeneği eklendi. “Her zaman kaydet ve galeriye dön” seçeneğini açarsanız eskisi gibi davranır.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.3.0-save.gif"
+            },
+            {
+                "id": "2",
+                "title": "■ Katmanları döndürme ve çevirme",
+                "body": "Dönüştür aracının işlem paneline katmanları döndürmek ve çevirmek için düğmeler eklendi.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.3.0-rotate-flip-layer.webp"
+            },
+            {
+                "id": "3",
+                "title": "■ Kararlılık iyileştirmeleri",
+                "body": "・Filtre düzenlenirken galeri sayfasına dönüldüğünde tuvalin kaydedilmemesi sorunu giderildi\n・Filtre düzenlenirken başka bir katman işlemi yapıldığında katman içeriğinin bozulması sorunu giderildi\n・Alfa kilidinin Slime fırçasında çalışmaması sorunu giderildi\n・Diğer hata düzeltmeleri"
+            }
+        ]
+    },
+    {
+        "id": "2025-11-08-1",
+        "version": "1.2.0",
+        "title": "Sürüm 1.2.0'daki Yenilikler",
+        "publishedAt": "2025-11-08T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Açıklığı koruyarak doygunluk ayarı",
+                "body": "“Ton, doygunluk, açıklık” filtresinde “Algısal” seçildiğinde, rengin açıklığını koruyarak doygunluğu ayarlayabilirsiniz.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.2.0-perceptual.webp",
+                "imageCaption": "Orijinal / Algısal doygunluk -100 / Geleneksel doygunluk -100"
+            },
+            {
+                "id": "2",
+                "title": "■ Tüm katmanları birleştiren bir katman oluşturma",
+                "body": "Katman menüsünde “Birleştirilmiş katman ekle” seçeneğine dokunduğunuzda, geçerli katmanın üzerine tüm katmanların birleştirildiği bir katman eklenir.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.2.0-merge.gif"
+            },
+            {
+                "id": "3",
+                "title": "■ Silmek için katmanı sola kaydırın",
+                "body": "Bir katmanı veya klasörü sola kaydırdığınızda Sil düğmesi görünür.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.2.0-delete.gif"
+            },
+            {
+                "id": "4",
+                "title": "■ Araç ipuçları eklendi",
+                "body": "Apple Pencil'ı bir düğmenin üzerinde gezdirdiğinizde düğmenin açıklaması görüntülenir. (Yalnızca kalemle üzerinde gezinmeyi destekleyen aygıtlarda)"
+            },
+            {
+                "id": "5",
+                "title": "■ Kararlılık iyileştirmeleri",
+                "body": "・Renk seçicide ton değerinin zaman zaman atlaması sorunu giderildi\n・Geri al / Yinele işlemlerinin kullanılabilirliği artık düğmelerin görünümüne yansıyor\n・Diğer hata düzeltmeleri"
+            }
+        ]
+    }
+]

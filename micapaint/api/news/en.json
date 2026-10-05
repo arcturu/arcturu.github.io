@@ -1,5 +1,24 @@
 [
     {
+        "id": "2026-10-06-1",
+        "version": "1.14.0",
+        "title": "What's New in Version 1.14.0",
+        "publishedAt": "2026-10-06T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Added Support for Quick Pinch Gestures",
+                "body": "On the canvas screen, quickly pinch in with two fingers to reset the canvas placement (position, rotation, and scale). Then quickly pinch out with two fingers to restore the placement from before the reset. You can adjust the detection time in Settings > Touch Gestures > Quick Pinch Duration. Set it to 0 to turn off this feature."
+            },
+            {
+                "id": "2",
+                "title": "■ Improved Stability",
+                "body": "・Fixed an issue where canvas data could revert to an earlier state\n・Fixed an issue where popups such as the layer menu could appear in unintended positions on iPadOS 17\n・Other bug fixes related to stability"
+            }
+        ]
+    },
+    {
         "id": "2026-09-20-1",
         "version": "1.13.1",
         "title": "What's New in Version 1.13.1",
@@ -143,7 +162,7 @@
             {
                 "id": "3",
                 "title": "■ Other Changes",
-                "body": "・Support multiple color picker type for the background color\n・Fixed an issue where rendering was delayed when using tools such as lasso selection\n・Reduced update delay in the Reference view\n・Other bug fixes related to stability"
+                "body": "・Support multiple color picker type for the background color\n・Fixed an issue where rendering was delayed when using tools such as lasso selection\n・Reduced update delay in the Reference Panel\n・Other bug fixes related to stability"
             }
         ]
     },

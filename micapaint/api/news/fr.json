@@ -1,0 +1,454 @@
+[
+    {
+        "id": "2026-10-06-1",
+        "version": "1.14.0",
+        "title": "Nouveautés de la version 1.14.0",
+        "publishedAt": "2026-10-06T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Prise en charge du geste de pincement rapide",
+                "body": "Sur l'écran de la toile, pincez rapidement avec deux doigts pour réinitialiser la disposition de la toile (position, rotation et échelle). Écartez ensuite rapidement deux doigts pour revenir à la disposition précédant la réinitialisation. Le délai de détection peut être ajusté dans Réglages > Gestes tactiles > Durée du pincement rapide. Réglez-le sur 0 pour désactiver cette fonctionnalité."
+            },
+            {
+                "id": "2",
+                "title": "■ Stabilité améliorée",
+                "body": "・Correction d'un problème pouvant faire revenir les données de la toile à un état antérieur\n・Correction d'un problème sous iPadOS 17 qui faisait apparaître les fenêtres contextuelles, comme le menu des calques, à un emplacement inattendu\n・Correction d'autres problèmes de stabilité"
+            }
+        ]
+    },
+    {
+        "id": "2026-09-20-1",
+        "version": "1.13.1",
+        "title": "Nouveautés de la version 1.13.1",
+        "publishedAt": "2026-09-20T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Stabilité améliorée",
+                "body": "・Meilleur suivi du stylet par le pinceau\n・Libellés de l'interface plus précis\n・Correction d'autres problèmes de stabilité"
+            }
+        ]
+    },
+    {
+        "id": "2026-09-12-1",
+        "version": "1.13.0",
+        "title": "Nouveautés de la version 1.13.0",
+        "publishedAt": "2026-09-12T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Déplacement et redimensionnement des panneaux comme le sélecteur de couleur",
+                "body": "Vous pouvez désormais détacher de la barre latérale le sélecteur de couleur, le panneau des calques, le panneau de référence et d'autres panneaux pour les déplacer et les redimensionner. Faites glisser la barre grise en haut d'un panneau pour le déplacer. Une fois le panneau détaché, faites glisser son coin inférieur droit pour le redimensionner.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.13.0-docking-panel.gif"
+            },
+            {
+                "id": "2",
+                "title": "■ Importation d'images externes et pipette dans le panneau de référence",
+                "body": "Touchez le panneau de référence pour afficher sa barre de menus, puis touchez l'icône Photo pour importer jusqu'à 5 images externes. Vous pouvez aussi prélever la couleur située sous votre doigt en maintenant un doigt appuyé sur une image de référence.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.13.0-reference-external-image-eyedropper.gif"
+            },
+            {
+                "id": "3",
+                "title": "■ Option pour étendre les échantillons du sélecteur de couleur à 5 lignes",
+                "body": "Activez Réglages > Sélecteur de couleur > Plus d'échantillons, ou touchez l'icône des échantillons dans le panneau du sélecteur de couleur, pour étendre les échantillons à 5 lignes et enregistrer davantage de couleurs.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.13.0-swatch-expansion.gif"
+            },
+            {
+                "id": "4",
+                "title": "■ Ajout d'un ajustement global de la pression",
+                "body": "Vous pouvez désormais corriger uniformément la pression de l'Apple Pencil dans toute l'app en modifiant la courbe dans Réglages > Apple Pencil > Ajustement de la pression."
+            },
+            {
+                "id": "5",
+                "title": "■ Autres modifications",
+                "body": "・Moins de validations manuelles nécessaires lors du changement d'outil\n・L'outil Transformer prend désormais en charge Annuler / Rétablir\n・Résolution accrue des aperçus dans la liste des pinceaux\n・Correction d'un problème où le contour du pinceau pouvait rester affiché après le survol\n・Correction d'autres problèmes de stabilité"
+            }
+        ]
+    },
+    {
+        "id": "2026-08-21-1",
+        "version": "1.12.2",
+        "title": "Nouveautés de la version 1.12.2",
+        "publishedAt": "2026-08-21T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Stabilité améliorée",
+                "body": "Correction d'un problème empêchant les pinceaux en mode de fusion « Opacité maximale » de dessiner sur les calques avec verrouillage alpha."
+            }
+        ]
+    },
+    {
+        "id": "2026-08-17-1",
+        "version": "1.12.1",
+        "title": "Nouveautés de la version 1.12.1",
+        "publishedAt": "2026-08-17T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Stabilité améliorée",
+                "body": "Correction d'un problème pouvant retarder les traits de pinceau."
+            }
+        ]
+    },
+    {
+        "id": "2026-08-12-1",
+        "version": "1.12.0",
+        "title": "Nouveautés de la version 1.12.0",
+        "publishedAt": "2026-08-12T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Ajout de l'outil Pot de peinture",
+                "body": "Pour utiliser l'outil Pot de peinture, faites glisser le bouton ... de la barre d'outils avec le doigt ou l'Apple Pencil, puis relâchez-le sur l'icône de pot de peinture dans la sous-barre d'outils qui s'affiche.\n[Source de détection]\nIndique si la détection de la zone à remplir porte sur toute la toile ou sur un calque précis.\n[Méthode d'extension]\nChoisit la méthode utilisée pour agrandir la zone.\nLargeur fixe : agrandit la zone d'un nombre fixe de pixels, défini par [Extension].\nJusqu'au bord : agrandit la zone avec une correction qui l'empêche de franchir les contours.\n[Seuil]\nPlus la valeur est élevée, plus les pixels dont la valeur s'éloigne de celle du pixel de départ sont inclus dans le remplissage.\n[Extension]\nAgrandit la zone du nombre de pixels indiqué après la détection.\n[Fermeture des espaces]\nRemplit avec une correction qui considère la zone comme fermée même si elle présente des espaces de la taille indiquée en pixels. Une valeur supérieure à 0 augmente la charge de traitement.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.12.0-bucket.gif"
+            },
+            {
+                "id": "2",
+                "title": "■ Ajout du redimensionnement de la toile",
+                "body": "Accessible depuis le bouton « Redimensionner la toile » en haut du panneau Réglages.\nFaites glisser les poignées bleues affichées sur la toile ou modifiez les valeurs du panneau pour obtenir la taille souhaitée.\nLes utilisateurs gratuits peuvent l'utiliser jusqu'à 5 fois. Passez à Pro pour l'utiliser sans limite.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.12.0-resize-canvas.gif"
+            },
+            {
+                "id": "3",
+                "title": "■ Autres modifications",
+                "body": "・Correction d'un problème pouvant perturber l'affichage en cas de forte charge\n・La taille du modèle A4 est désormais arrondie au lieu d'être tronquée\n・Correction d'autres problèmes de stabilité"
+            }
+        ]
+    },
+    {
+        "id": "2026-06-29-1",
+        "version": "1.11.0",
+        "title": "Nouveautés de la version 1.11.0",
+        "publishedAt": "2026-06-29T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Ajout d'un réglage de correction de la position de la pointe",
+                "body": "Les réglages de l'écran de la toile proposent désormais une correction de la position de la pointe : vous pouvez décaler la position où le trait est dessiné par rapport à la position de la pointe réellement détectée."
+            },
+            {
+                "id": "2",
+                "title": "■ Autres modifications",
+                "body": "・Correction d'un problème pouvant retarder le tracé du pinceau\n・Correction d'un problème pouvant altérer le rendu avec le pinceau Slime\n・Correction d'une mise en page défectueuse lorsque le réglage d'accessibilité « Formes des boutons » est activé\n・Correction de certaines icônes qui ne s'affichaient pas sous iOS 17\n・Correction d'autres problèmes de stabilité"
+            }
+        ]
+    },
+    {
+        "id": "2026-05-27-1",
+        "version": "1.10.0",
+        "title": "Nouveautés de la version 1.10.0",
+        "publishedAt": "2026-05-27T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Ajout de trois nouveaux filtres",
+                "body": "[Courbe de transfert de dégradé] Remplace les couleurs selon la luminosité de l'image. Les dégradés peuvent être enregistrés comme modèles et réutilisés.\n[Aberration chromatique] Décompose l'image en couches RVB et les décale. Le décalage peut être parallèle ou concentrique.\n[Flou gaussien] Rend l'image floue. Le rayon du flou est réglable."
+            },
+            {
+                "id": "2",
+                "title": "■ Ajout d'une fonction qui fusionne le calque sélectionné et ceux en dessous dans un nouveau calque",
+                "body": "En variante de la commande « Ajouter un calque fusionné », vous pouvez désormais ajouter un calque qui fusionne uniquement le calque sélectionné et ceux situés en dessous. C'est pratique, par exemple, pour retoucher à la main le résultat d'un calque de filtre."
+            },
+            {
+                "id": "3",
+                "title": "■ Autres modifications",
+                "body": "・Possibilité de choisir le type de sélecteur de couleur pour la couleur d'arrière-plan\n・Correction d'un problème qui retardait l'affichage lors de l'utilisation d'outils comme la sélection au lasso\n・Réduction du délai de mise à jour du panneau de référence\n・Correction d'autres problèmes de stabilité"
+            }
+        ]
+    },
+    {
+        "id": "2026-04-15-1",
+        "version": "1.9.0",
+        "title": "Nouveautés de la version 1.9.0",
+        "publishedAt": "2026-04-15T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Réorganisation des toiles de la galerie (Pro uniquement)",
+                "body": "※ Cette fonctionnalité est disponible après l'achat de la mise à niveau Pro.\nVous pouvez désormais réorganiser les toiles en maintenant le doigt sur une toile de la galerie, puis en la faisant glisser."
+            },
+            {
+                "id": "2",
+                "title": "■ Exportation et importation de pinceaux (Pro uniquement)",
+                "body": "※ Cette fonctionnalité est disponible après l'achat de la mise à niveau Pro.\nVous pouvez désormais exporter des pinceaux hors de l'app et en importer depuis l'extérieur.\nPour exporter : sur l'écran de la toile, ouvrez les paramètres du pinceau, faites défiler jusqu'en bas et touchez le bouton « Exporter ». Une boîte de dialogue s'affiche pour choisir l'emplacement d'enregistrement de votre choix.\nPour importer : touchez l'icône d'importation en haut de la galerie, puis « Importer un pinceau ». Dans la boîte de dialogue qui s'ouvre, sélectionnez un fichier de pinceau pour l'importer."
+            },
+            {
+                "id": "3",
+                "title": "■ Création d'une toile à partir d'une image",
+                "body": "Touchez l'icône d'importation en haut de la galerie, puis « Créer une toile à partir de photos » pour partir d'une image de votre photothèque, ou « Créer une toile à partir de fichiers » pour partir d'une image de l'app Fichiers."
+            },
+            {
+                "id": "4",
+                "title": "■ Stabilité améliorée",
+                "body": "Correction de problèmes liés à la stabilité des outils."
+            }
+        ]
+    },
+    {
+        "id": "2026-04-10-1",
+        "version": "1.8.1",
+        "title": "Nouveautés de la version 1.8.1",
+        "publishedAt": "2026-04-10T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Stabilité améliorée",
+                "body": "Correction de problèmes liés à la stabilité des outils."
+            }
+        ]
+    },
+    {
+        "id": "2026-04-04-1",
+        "version": "1.8.0",
+        "title": "Nouveautés de la version 1.8.0",
+        "publishedAt": "2026-04-04T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Ajout de points d'accroche aux curseurs",
+                "body": "Les curseurs de taille du pinceau, d'opacité et de stabilisation du trait disposent désormais de points d'accroche. Touchez l'icône d'épingle dans la fenêtre du curseur pour ajouter ou retirer un point d'accroche à la position actuelle. Les valeurs proches s'alignent alors sur ces points : épinglez vos tailles de pinceau favorites pour les sélectionner facilement.\nDepuis le menu de l'icône ..., vous pouvez aussi copier tous les points d'accroche d'un coup et les coller sur un autre pinceau.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.8.0-snap.webp"
+            },
+            {
+                "id": "2",
+                "title": "■ Stabilité améliorée",
+                "body": "Correction de problèmes liés à la stabilité des outils."
+            }
+        ]
+    },
+    {
+        "id": "2026-03-25-1",
+        "version": "1.7.3",
+        "title": "Nouveautés de la version 1.7.3",
+        "publishedAt": "2026-03-25T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Stabilité améliorée",
+                "body": "・Correction d'un problème où les poignées de l'outil Transformer pouvaient sauter à une mauvaise position\n・Correction du bruit qui apparaissait au bord des traits de pinceau avec un calque de filtre de tramage\n・Correction d'un problème où les dernières modifications pouvaient ne pas être prises en compte lors de la duplication d'une toile\n・Autres corrections de bugs"
+            }
+        ]
+    },
+    {
+        "id": "2026-02-25-1",
+        "version": "1.7.1",
+        "title": "Nouveautés de la version 1.7.1",
+        "publishedAt": "2026-02-25T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Stabilité améliorée",
+                "body": "Correction de problèmes liés à la stabilité des outils."
+            }
+        ]
+    },
+    {
+        "id": "2026-02-22-1",
+        "version": "1.7.0",
+        "title": "Nouveautés de la version 1.7.0",
+        "publishedAt": "2026-02-22T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Ajout d'un sélecteur de couleur triangulaire",
+                "body": "Ajout d'un sélecteur de couleur dont la zone de choix de la luminosité et de la saturation est triangulaire."
+            },
+            {
+                "id": "2",
+                "title": "■ Stabilité améliorée",
+                "body": "Correction de problèmes liés à la stabilité des outils."
+            }
+        ]
+    },
+    {
+        "id": "2026-02-20-1",
+        "version": "1.6.1",
+        "title": "Nouveautés de la version 1.6.1",
+        "publishedAt": "2026-02-20T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Stabilité améliorée",
+                "body": "Correction de problèmes liés à la stabilité des outils."
+            }
+        ]
+    },
+    {
+        "id": "2026-02-14-1",
+        "version": "1.6.0",
+        "title": "Nouveautés de la version 1.6.0",
+        "publishedAt": "2026-02-14T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Ajout des calques de filtre (calques de réglage non destructifs)",
+                "body": "Ajout des calques de filtre, qui appliquent un filtre au résultat de la composition des calques situés en dessous. Pour en ajouter un, touchez l'icône de filtre dans le panneau des calques, puis choisissez « Créer un calque de filtre ».\nLa portée d'un calque de filtre se contrôle avec les masques d'écrêtage et les dossiers. Si un calque de filtre est écrêté, le filtre s'applique au contenu du calque situé juste en dessous. Si un calque de filtre est placé dans un dossier, le filtre s'applique à la composition des calques situés sous lui dans ce dossier.\nL'image ci-dessous montre un calque de filtre « Teinte, saturation, luminosité » placé au-dessus de trois calques peints en rouge, vert et bleu purs, pour réduire le contraste et la saturation.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.6.0-filter-layer.webp"
+            },
+            {
+                "id": "2",
+                "title": "■ Ajout du filtre Tramage",
+                "body": "Ajout d'un filtre de tramage qui binarise l'image selon la couleur ou la transparence.\nDans « Mode », choisissez « RGBA » pour tramer toutes les couches, ou « Opacité seulement » pour ne tramer que la couche alpha.\n« Seuil » règle le seuil du tramage.\n« Taille des points » règle la taille des points du motif de tramage.\nL'image ci-dessous montre un dégradé peint au pinceau (en haut) et le résultat obtenu en le copiant puis en lui appliquant le filtre de tramage (en bas).",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.6.0-dither.webp"
+            },
+            {
+                "id": "3",
+                "title": "■ Ajout d'un bouton de création de dossier de calques",
+                "body": "Un bouton « Ajouter un dossier » figure désormais dans le menu qui s'ouvre depuis ... dans le panneau des calques. Jusqu'ici, on ne pouvait créer un dossier qu'en faisant glisser un calque sur un autre ; vous pouvez désormais en créer un directement."
+            },
+            {
+                "id": "4",
+                "title": "■ Stabilité améliorée",
+                "body": "・Meilleure compatibilité des fichiers PSD exportés\n・Exportation PSD plus rapide\n・Correction des couleurs peintes avec le remplissage au lasso ou le pinceau Slime qui n'étaient pas ajoutées à l'historique des couleurs\n・Correction des chiffres de l'interface qui tremblaient en changeant de valeur\n・Correction de la rotation du pinceau appliquée dans le mauvais sens lorsque la toile est retournée\n・Autres corrections de bugs"
+            }
+        ]
+    },
+    {
+        "id": "2026-01-20-1",
+        "version": "1.5.0",
+        "title": "Nouveautés de la version 1.5.0",
+        "publishedAt": "2026-01-20T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Ajout de l'historique des couleurs et des échantillons",
+                "body": "Le sélecteur de couleur propose désormais un historique des couleurs et des échantillons.\nTouchez une case pour la sélectionner.\nMaintenez le doigt sur une case des échantillons (2e ligne) pour la remplacer par la couleur actuelle.\nVous pouvez afficher ou masquer l'historique des couleurs et les échantillons dans les Réglages.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.5.0-color-history-and-swatch.webp"
+            }
+        ]
+    },
+    {
+        "id": "2026-01-15-1",
+        "version": "1.4.0",
+        "title": "Nouveautés de la version 1.4.0",
+        "publishedAt": "2026-01-15T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Ajout de l'outil Fluidité",
+                "body": "Ajout de l'outil Fluidité, qui déforme un calque lorsque vous tracez dessus.\nIl propose les modes Pousser, Dilater, Contracter, Tourbillon et Réinitialiser.\nAvec l'Apple Pencil Pro, vous pouvez aussi contrôler la rotation en faisant pivoter le stylet sur lui-même en mode Pousser.\nLe paramètre « Douceur » règle l'adoucissement du contour de la déformation,\net le paramètre « Force » règle l'intensité de la déformation.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.4.0-liquify.webp"
+            },
+            {
+                "id": "2",
+                "title": "■ Exportation au format PSD",
+                "body": "Vous pouvez désormais choisir PSD dans le menu d'exportation.\nVous pouvez ainsi poursuivre l'édition dans d'autres logiciels en conservant la structure des calques.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.4.0-export-psd.webp"
+            },
+            {
+                "id": "3",
+                "title": "■ Importation de fichiers PSD",
+                "body": "Vous pouvez désormais importer et modifier des fichiers PSD depuis l'app Fichiers ou la photothèque. Choisissez Micapaint parmi les destinations de partage du fichier.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.4.0-import-psd.webp"
+            },
+            {
+                "id": "4",
+                "title": "■ Prise en charge du design d'iPadOS 26",
+                "body": "L'interface des outils adopte désormais le design d'iPadOS 26. Correction de problèmes d'interface, comme le bouton de retour à la galerie masqué par les commandes de fenêtre."
+            },
+            {
+                "id": "5",
+                "title": "■ Stabilité améliorée",
+                "body": "・Correction d'un problème où le bouton de suppression d'une traduction de nom de pinceau supprimait toujours le premier élément\n・Correction de la mise en page défectueuse lors de la réduction de la largeur de la barre latérale\n・Autres corrections de bugs"
+            }
+        ]
+    },
+    {
+        "id": "2025-11-27-1",
+        "version": "1.3.1",
+        "title": "Nouveautés de la version 1.3.1",
+        "publishedAt": "2025-11-27T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Correction de l'échec de l'importation d'images",
+                "body": "Correction d'un problème apparu dans la v1.3.0 : toucher le bouton d'importation d'une image dans un calque provoquait une erreur."
+            }
+        ]
+    },
+    {
+        "id": "2025-11-21-1",
+        "version": "1.3.0",
+        "title": "Nouveautés de la version 1.3.0",
+        "publishedAt": "2025-11-21T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Enregistrement explicite de la toile",
+                "body": "Ajout d'une option qui enregistre la toile sans revenir à la galerie lorsque vous touchez le bouton de retour à la galerie. Activez « Toujours enregistrer et revenir à la galerie » pour retrouver le comportement précédent.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.3.0-save.gif"
+            },
+            {
+                "id": "2",
+                "title": "■ Rotation et retournement des calques",
+                "body": "Ajout de boutons pour faire pivoter et retourner les calques dans le panneau de l'outil Transformer.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.3.0-rotate-flip-layer.webp"
+            },
+            {
+                "id": "3",
+                "title": "■ Stabilité améliorée",
+                "body": "・Correction de la toile non enregistrée lors du retour à la galerie pendant la modification d'un filtre\n・Correction du contenu d'un calque altéré lorsqu'une autre opération sur les calques était effectuée pendant la modification d'un filtre\n・Correction du verrouillage alpha sans effet sur le pinceau Slime\n・Autres corrections de bugs"
+            }
+        ]
+    },
+    {
+        "id": "2025-11-08-1",
+        "version": "1.2.0",
+        "title": "Nouveautés de la version 1.2.0",
+        "publishedAt": "2025-11-08T00:00:00Z",
+        "isSignificant": true,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Réglage de la saturation en préservant la luminosité",
+                "body": "Dans le filtre « Teinte, saturation, luminosité », choisissez « Perceptuel » pour régler la saturation tout en conservant la luminosité des couleurs.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.2.0-perceptual.webp",
+                "imageCaption": "Original / Saturation perceptuelle -100 / Saturation traditionnelle -100"
+            },
+            {
+                "id": "2",
+                "title": "■ Création d'un calque fusionnant tous les calques",
+                "body": "Touchez « Ajouter un calque fusionné » dans le menu des calques pour ajouter, au-dessus du calque actuel, un calque qui fusionne tous les calques.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.2.0-merge.gif"
+            },
+            {
+                "id": "3",
+                "title": "■ Balayage vers la gauche pour supprimer un calque",
+                "body": "Balayez un calque ou un dossier vers la gauche pour afficher le bouton Supprimer.",
+                "imageURL": "https://arcturu.com/micapaint/resources/updates-1.2.0-delete.gif"
+            },
+            {
+                "id": "4",
+                "title": "■ Affichage d'infobulles",
+                "body": "Survolez un bouton avec l'Apple Pencil pour afficher sa description (uniquement sur les appareils compatibles avec le survol)."
+            },
+            {
+                "id": "5",
+                "title": "■ Stabilité améliorée",
+                "body": "・Correction des valeurs de teinte qui sautaient parfois dans le sélecteur de couleur\n・L'apparence des boutons Annuler / Rétablir indique désormais s'ils sont disponibles\n・Autres corrections de bugs"
+            }
+        ]
+    }
+]
