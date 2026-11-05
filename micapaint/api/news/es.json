@@ -1,5 +1,38 @@
 [
     {
+        "id": "2026-11-04-1",
+        "version": "1.14.2",
+        "title": "Novedades de la versión 1.14.2",
+        "publishedAt": "2026-11-04T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Mejoras de estabilidad",
+                "body": "・Se corrigió un problema en iPadOS 27 por el que la app podía cerrarse inesperadamente al cambiar de pantalla\n・Se corrigieron otros problemas relacionados con la estabilidad"
+            }
+        ]
+    },
+    {
+        "id": "2026-11-02-1",
+        "version": "1.14.1",
+        "title": "Novedades de la versión 1.14.1",
+        "publishedAt": "2026-11-02T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Guardado automático en el editor de pinceles",
+                "body": "Hasta ahora, para aplicar al pincel los cambios realizados en el editor de pinceles era necesario pulsar explícitamente el botón de guardar, pero ahora los cambios se guardan automáticamente cada vez que se realizan. Además, ahora se puede duplicar, exportar, deshacer, rehacer y restablecer/eliminar desde los botones de la parte superior del editor de pinceles. La opción de restablecer solo está disponible para los pinceles predefinidos, y la de eliminar solo para los pinceles creados por el usuario."
+            },
+            {
+                "id": "2",
+                "title": "■ Mejoras de estabilidad",
+                "body": "・Se corrigieron otros problemas relacionados con la estabilidad"
+            }
+        ]
+    },
+    {
         "id": "2026-10-06-1",
         "version": "1.14.0",
         "title": "Novedades de la versión 1.14.0",

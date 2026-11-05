@@ -1,5 +1,38 @@
 [
     {
+        "id": "2026-11-04-1",
+        "version": "1.14.2",
+        "title": "Neuerungen in Version 1.14.2",
+        "publishedAt": "2026-11-04T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Verbesserte Stabilität",
+                "body": "・Behebung eines Problems, bei dem die App unter iPadOS 27 beim Bildschirmwechsel abstürzen konnte\n・Behebung weiterer Stabilitätsprobleme"
+            }
+        ]
+    },
+    {
+        "id": "2026-11-02-1",
+        "version": "1.14.1",
+        "title": "Neuerungen in Version 1.14.1",
+        "publishedAt": "2026-11-02T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Automatisches Speichern im Pinseleditor",
+                "body": "Bisher musstest du im Pinseleditor ausdrücklich auf die Schaltfläche „Speichern“ tippen, damit deine Änderungen auf den Pinsel übernommen wurden. Jetzt wird jede Änderung automatisch gespeichert. Außerdem kannst du über die Schaltflächen oben im Pinseleditor Pinsel duplizieren, exportieren, Änderungen rückgängig machen und wiederholen sowie Pinsel zurücksetzen oder löschen. Zurücksetzen ist nur bei voreingestellten Pinseln verfügbar, Löschen nur bei eigenen Pinseln."
+            },
+            {
+                "id": "2",
+                "title": "■ Verbesserte Stabilität",
+                "body": "・Behebung weiterer Stabilitätsprobleme"
+            }
+        ]
+    },
+    {
         "id": "2026-10-06-1",
         "version": "1.14.0",
         "title": "Neuerungen in Version 1.14.0",

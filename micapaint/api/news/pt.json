@@ -1,5 +1,38 @@
 [
     {
+        "id": "2026-11-04-1",
+        "version": "1.14.2",
+        "title": "Novidades da versão 1.14.2",
+        "publishedAt": "2026-11-04T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Melhorias de estabilidade",
+                "body": "・Corrigimos um problema no iPadOS 27 em que o app podia fechar inesperadamente durante as transições de tela\n・Corrigimos outros problemas relacionados à estabilidade"
+            }
+        ]
+    },
+    {
+        "id": "2026-11-02-1",
+        "version": "1.14.1",
+        "title": "Novidades da versão 1.14.1",
+        "publishedAt": "2026-11-02T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Salvamento automático no editor de pincéis",
+                "body": "Antes, era necessário tocar no botão Salvar para aplicar ao pincel as alterações feitas no editor de pincéis. Agora, as alterações são salvas automaticamente sempre que você faz uma modificação. Além disso, agora é possível duplicar, exportar, desfazer, refazer e redefinir/excluir pelos botões de ação na parte superior do editor de pincéis. A redefinição está disponível apenas para pincéis predefinidos, e a exclusão, apenas para pincéis criados por você."
+            },
+            {
+                "id": "2",
+                "title": "■ Melhorias de estabilidade",
+                "body": "・Corrigimos outros problemas relacionados à estabilidade"
+            }
+        ]
+    },
+    {
         "id": "2026-10-06-1",
         "version": "1.14.0",
         "title": "Novidades da versão 1.14.0",

@@ -1,5 +1,38 @@
 [
     {
+        "id": "2026-11-04-1",
+        "version": "1.14.2",
+        "title": "Pembaruan di Versi 1.14.2",
+        "publishedAt": "2026-11-04T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Peningkatan Stabilitas",
+                "body": "・Perbaikan masalah aplikasi yang terkadang mengalami crash saat berpindah layar di iPadOS 27\n・Perbaikan masalah stabilitas lainnya"
+            }
+        ]
+    },
+    {
+        "id": "2026-11-02-1",
+        "version": "1.14.1",
+        "title": "Pembaruan di Versi 1.14.1",
+        "publishedAt": "2026-11-02T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Editor Kuas Kini Mendukung Penyimpanan Otomatis",
+                "body": "Sebelumnya, Anda harus menekan tombol simpan secara manual agar perubahan di editor kuas diterapkan ke kuas. Kini, setiap perubahan akan disimpan secara otomatis. Selain itu, Anda kini dapat menduplikasi, mengekspor, mengurungkan, mengulangi, serta mengatur ulang/menghapus melalui tombol operasi di bagian atas editor kuas. Atur ulang hanya tersedia untuk kuas preset, sedangkan hapus hanya tersedia untuk kuas buatan sendiri."
+            },
+            {
+                "id": "2",
+                "title": "■ Peningkatan Stabilitas",
+                "body": "・Perbaikan masalah stabilitas lainnya"
+            }
+        ]
+    },
+    {
         "id": "2026-10-06-1",
         "version": "1.14.0",
         "title": "Pembaruan di Versi 1.14.0",

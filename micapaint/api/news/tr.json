@@ -1,5 +1,38 @@
 [
     {
+        "id": "2026-11-04-1",
+        "version": "1.14.2",
+        "title": "Sürüm 1.14.2'deki Yenilikler",
+        "publishedAt": "2026-11-04T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Kararlılık İyileştirmeleri",
+                "body": "・iPadOS 27'de ekran geçişleri sırasında uygulamanın çökmesine neden olan bir sorun giderildi\n・Kararlılıkla ilgili diğer sorunlar giderildi"
+            }
+        ]
+    },
+    {
+        "id": "2026-11-02-1",
+        "version": "1.14.1",
+        "title": "Sürüm 1.14.1'deki Yenilikler",
+        "publishedAt": "2026-11-02T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Fırça Düzenleyicisinde Otomatik Kaydetme Desteği",
+                "body": "Önceden fırça düzenleyicisinde yaptığınız değişikliklerin fırçaya uygulanması için kaydet düğmesine basmanız gerekiyordu. Artık her değişiklik otomatik olarak kaydediliyor. Ayrıca fırça düzenleyicisinin üst kısmındaki düğmelerle fırçayı çoğaltabilir, dışa aktarabilir, geri alabilir, yineleyebilir ve sıfırlayabilir ya da silebilirsiniz. Sıfırlama yalnızca hazır fırçalarda, silme ise yalnızca kendi oluşturduğunuz fırçalarda kullanılabilir."
+            },
+            {
+                "id": "2",
+                "title": "■ Kararlılık İyileştirmeleri",
+                "body": "・Kararlılıkla ilgili diğer sorunlar giderildi"
+            }
+        ]
+    },
+    {
         "id": "2026-10-06-1",
         "version": "1.14.0",
         "title": "Sürüm 1.14.0'daki Yenilikler",

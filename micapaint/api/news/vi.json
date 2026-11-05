@@ -1,5 +1,38 @@
 [
     {
+        "id": "2026-11-04-1",
+        "version": "1.14.2",
+        "title": "Có gì mới trong phiên bản 1.14.2",
+        "publishedAt": "2026-11-04T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Cải thiện độ ổn định",
+                "body": "・Sửa lỗi ứng dụng đôi khi bị thoát đột ngột khi chuyển màn hình trên iPadOS 27\n・Sửa các vấn đề khác liên quan đến độ ổn định"
+            }
+        ]
+    },
+    {
+        "id": "2026-11-02-1",
+        "version": "1.14.1",
+        "title": "Có gì mới trong phiên bản 1.14.1",
+        "publishedAt": "2026-11-02T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Trình chỉnh sửa cọ hỗ trợ tự động lưu",
+                "body": "Trước đây, để áp dụng các chỉnh sửa trong trình chỉnh sửa cọ vào cọ, bạn cần nhấn nút lưu. Giờ đây, mọi thay đổi sẽ được tự động lưu ngay. Ngoài ra, bạn có thể nhân bản, xuất, hoàn tác (Undo), làm lại (Redo), đặt lại hoặc xóa cọ bằng các nút thao tác ở phía trên trình chỉnh sửa cọ. Chỉ có thể đặt lại cọ có sẵn và chỉ có thể xóa cọ do bạn tự tạo."
+            },
+            {
+                "id": "2",
+                "title": "■ Cải thiện độ ổn định",
+                "body": "・Sửa các vấn đề khác liên quan đến độ ổn định"
+            }
+        ]
+    },
+    {
         "id": "2026-10-06-1",
         "version": "1.14.0",
         "title": "Có gì mới trong phiên bản 1.14.0",

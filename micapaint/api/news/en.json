@@ -1,5 +1,38 @@
 [
     {
+        "id": "2026-11-04-1",
+        "version": "1.14.2",
+        "title": "What's New in Version 1.14.2",
+        "publishedAt": "2026-11-04T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Improved Stability",
+                "body": "・Fixed an issue where the app could crash during screen transitions on iPadOS 27\n・Other bug fixes related to stability"
+            }
+        ]
+    },
+    {
+        "id": "2026-11-02-1",
+        "version": "1.14.1",
+        "title": "What's New in Version 1.14.1",
+        "publishedAt": "2026-11-02T00:00:00Z",
+        "isSignificant": false,
+        "chapters": [
+            {
+                "id": "1",
+                "title": "■ Brush Editor Now Saves Automatically",
+                "body": "Previously, you had to tap the Save button to apply changes made in the Brush Editor to a brush. Changes are now saved automatically each time you make them. You can also now duplicate, export, undo, redo, and reset or delete brushes using the buttons at the top of the Brush Editor. Reset is available only for preset brushes, and Delete is available only for your own custom brushes."
+            },
+            {
+                "id": "2",
+                "title": "■ Improved Stability",
+                "body": "・Other bug fixes related to stability"
+            }
+        ]
+    },
+    {
         "id": "2026-10-06-1",
         "version": "1.14.0",
         "title": "What's New in Version 1.14.0",
